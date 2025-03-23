@@ -1,0 +1,5250 @@
+[
+  {
+    "tipo": "TITULO",
+    "id": "Nivel001",
+    "texto": "TÍTULO I.",
+    "archivo": "ley_0599_2000.html",
+    "descripcion": "DE LAS NORMAS RECTORAS DE LA LEY PENAL COLOMBIANA"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel002",
+    "texto": "CAPÍTULO ÚNICO",
+    "archivo": "ley_0599_2000.html"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "1",
+    "texto": "ARTÍCULO 1o. DIGNIDAD HUMANA.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "DIGNIDAD HUMANA",
+    "url": "ley_0599_2000.html#1"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "2",
+    "texto": "ARTÍCULO 2o. INTEGRACIÓN.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "INTEGRACIÓN",
+    "url": "ley_0599_2000.html#2"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "3",
+    "texto": "ARTÍCULO 3o. PRINCIPIOS DE LAS SANCIONES PENALES.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "PRINCIPIOS DE LAS SANCIONES PENALES",
+    "url": "ley_0599_2000.html#3"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "4",
+    "texto": "ARTÍCULO 4o. FUNCIONES DE LA PENA.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "FUNCIONES DE LA PENA",
+    "url": "ley_0599_2000.html#4"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "5",
+    "texto": "ARTÍCULO 5o. FUNCIONES DE LA MEDIDA DE SEGURIDAD.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "FUNCIONES DE LA MEDIDA DE SEGURIDAD",
+    "url": "ley_0599_2000.html#5"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "6",
+    "texto": "ARTÍCULO 6o. LEGALIDAD.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "LEGALIDAD",
+    "url": "ley_0599_2000.html#6"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "7",
+    "texto": "ARTÍCULO 7o. IGUALDAD.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "IGUALDAD",
+    "url": "ley_0599_2000.html#7"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "8",
+    "texto": "ARTÍCULO 8o. PROHIBICIÓN DE DOBLE INCRIMINACIÓN.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "PROHIBICIÓN DE DOBLE INCRIMINACIÓN",
+    "url": "ley_0599_2000.html#8"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "9",
+    "texto": "ARTÍCULO 9o. CONDUCTA PUNIBLE.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "CONDUCTA PUNIBLE",
+    "url": "ley_0599_2000.html#9"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "10",
+    "texto": "ARTÍCULO 10. TIPICIDAD.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "TIPICIDAD",
+    "url": "ley_0599_2000.html#10"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "11",
+    "texto": "ARTÍCULO 11. ANTIJURIDICIDAD.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "ANTIJURIDICIDAD",
+    "url": "ley_0599_2000.html#11"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "12",
+    "texto": "ARTÍCULO 12. CULPABILIDAD.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "CULPABILIDAD",
+    "url": "ley_0599_2000.html#12"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "13",
+    "texto": "ARTÍCULO 13. NORMAS RECTORAS Y FUERZA NORMATIVA.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "NORMAS RECTORAS Y FUERZA NORMATIVA",
+    "url": "ley_0599_2000.html#13"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "Nivel003",
+    "texto": "TÍTULO II.",
+    "archivo": "ley_0599_2000.html",
+    "descripcion": "DE LA APLICACIÓN DE LA LEY PENAL"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel004",
+    "texto": "CAPÍTULO ÚNICO.",
+    "archivo": "ley_0599_2000.html",
+    "descripcion": "APLICACIÓN DE LA LEY PENAL EN EL ESPACIO"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "14",
+    "texto": "ARTÍCULO 14. TERRITORIALIDAD.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "TERRITORIALIDAD",
+    "url": "ley_0599_2000.html#14"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "15",
+    "texto": "ARTÍCULO 15. TERRITORIALIDAD POR EXTENSIÓN.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "TERRITORIALIDAD POR EXTENSIÓN",
+    "url": "ley_0599_2000.html#15"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "16",
+    "texto": "ARTÍCULO 16. EXTRATERRITORIALIDAD.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "EXTRATERRITORIALIDAD",
+    "url": "ley_0599_2000.html#16"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "17",
+    "texto": "ARTÍCULO 17. SENTENCIA EXTRANJERA.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "SENTENCIA EXTRANJERA",
+    "url": "ley_0599_2000.html#17"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "18",
+    "texto": "ARTÍCULO 18. EXTRADICIÓN.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "EXTRADICIÓN",
+    "url": "ley_0599_2000.html#18"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "Nivel005",
+    "texto": "TÍTULO III.",
+    "archivo": "ley_0599_2000.html"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel006",
+    "texto": "CAPÍTULO ÚNICO.",
+    "archivo": "ley_0599_2000.html",
+    "descripcion": "DE LA CONDUCTA PUNIBLE"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "19",
+    "texto": "ARTÍCULO 19. DELITOS Y CONTRAVENCIONES.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "DELITOS Y CONTRAVENCIONES",
+    "url": "ley_0599_2000.html#19"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "20",
+    "texto": "ARTÍCULO 20. SERVIDORES PÚBLICOS.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "SERVIDORES PÚBLICOS",
+    "url": "ley_0599_2000.html#20"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "21",
+    "texto": "ARTÍCULO 21. MODALIDADES DE LA CONDUCTA PUNIBLE.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "MODALIDADES DE LA CONDUCTA PUNIBLE",
+    "url": "ley_0599_2000.html#21"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "22",
+    "texto": "ARTÍCULO 22. DOLO.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "DOLO",
+    "url": "ley_0599_2000.html#22"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "23",
+    "texto": "ARTÍCULO 23. CULPA.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "CULPA",
+    "url": "ley_0599_2000.html#23"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "24",
+    "texto": "ARTÍCULO 24.",
+    "archivo": "ley_0599_2000.html",
+    "url": "ley_0599_2000.html#24"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "25",
+    "texto": "ARTÍCULO 25. ACCIÓN Y OMISIÓN.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "ACCIÓN Y OMISIÓN",
+    "url": "ley_0599_2000.html#25"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "26",
+    "texto": "ARTÍCULO 26. TIEMPO DE LA CONDUCTA PUNIBLE.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "TIEMPO DE LA CONDUCTA PUNIBLE",
+    "url": "ley_0599_2000.html#26"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "27",
+    "texto": "ARTÍCULO 27. TENTATIVA.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "TENTATIVA",
+    "url": "ley_0599_2000.html#27"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "28",
+    "texto": "ARTÍCULO 28. CONCURSO DE PERSONAS EN LA CONDUCTA PUNIBLE.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "CONCURSO DE PERSONAS EN LA CONDUCTA PUNIBLE",
+    "url": "ley_0599_2000.html#28"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "29",
+    "texto": "ARTÍCULO 29. AUTORES.",
+    "archivo": "ley_0599_2000.html",
+    "nombre": "AUTORES",
+    "url": "ley_0599_2000.html#29"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "30",
+    "texto": "ARTÍCULO 30. PARTICIPES.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "PARTICIPES",
+    "url": "ley_0599_2000_pr001.html#30"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "31",
+    "texto": "ARTÍCULO 31. CONCURSO DE CONDUCTAS PUNIBLES.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "CONCURSO DE CONDUCTAS PUNIBLES",
+    "url": "ley_0599_2000_pr001.html#31"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "32",
+    "texto": "ARTÍCULO 32. AUSENCIA DE RESPONSABILIDAD.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "AUSENCIA DE RESPONSABILIDAD",
+    "url": "ley_0599_2000_pr001.html#32"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "33",
+    "texto": "ARTÍCULO 33. INIMPUTABILIDAD.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "INIMPUTABILIDAD",
+    "url": "ley_0599_2000_pr001.html#33"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "33A",
+    "texto": "ARTÍCULO 33A. MEDIDAS EN CASO DE DECLARATORIA DE INIMPUTABILIDAD.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "MEDIDAS EN CASO DE DECLARATORIA DE INIMPUTABILIDAD",
+    "url": "ley_0599_2000_pr001.html#33A"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "Nivel007",
+    "texto": "TÍTULO IV.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "descripcion": "DE LAS CONSECUENCIAS JURIDICAS DE LA CONDUCTA PUNIBLE"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel008",
+    "texto": "CAPÍTULO I.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "descripcion": "DE LAS PENAS, SUS CLASES Y SUS EFECTOS"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "34",
+    "texto": "ARTÍCULO 34. DE LAS PENAS.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "DE LAS PENAS",
+    "url": "ley_0599_2000_pr001.html#34"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "35",
+    "texto": "ARTÍCULO 35. PENAS PRINCIPALES.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "PENAS PRINCIPALES",
+    "url": "ley_0599_2000_pr001.html#35"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "36",
+    "texto": "ARTÍCULO 36. PENAS SUSTITUTIVAS.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "PENAS SUSTITUTIVAS",
+    "url": "ley_0599_2000_pr001.html#36"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "37",
+    "texto": "ARTÍCULO 37. LA PRISIÓN.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "LA PRISIÓN",
+    "url": "ley_0599_2000_pr001.html#37"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "38",
+    "texto": "ARTÍCULO 38. LA PRISIÓN DOMICILIARIA COMO SUSTITUTIVA DE LA PRISIÓN.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "LA PRISIÓN DOMICILIARIA COMO SUSTITUTIVA DE LA PRISIÓN",
+    "url": "ley_0599_2000_pr001.html#38"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "38A",
+    "texto": "ARTÍCULO 38A. SISTEMAS DE VIGILANCIA ELECTRÓNICA COMO SUSTITUTIVOS DE LA PRISIÓN.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "SISTEMAS DE VIGILANCIA ELECTRÓNICA COMO SUSTITUTIVOS DE LA PRISIÓN",
+    "url": "ley_0599_2000_pr001.html#38A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "39",
+    "texto": "ARTÍCULO 39. LA MULTA.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "LA MULTA",
+    "url": "ley_0599_2000_pr001.html#39"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "40",
+    "texto": "ARTÍCULO 40. CONVERSIÓN DE LA MULTA EN ARRESTOS PROGRESIVOS.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "CONVERSIÓN DE LA MULTA EN ARRESTOS PROGRESIVOS",
+    "url": "ley_0599_2000_pr001.html#40"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "41",
+    "texto": "ARTÍCULO 41. EJECUCIÓN COACTIVA.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "EJECUCIÓN COACTIVA",
+    "url": "ley_0599_2000_pr001.html#41"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "42",
+    "texto": "ARTÍCULO 42. DESTINACIÓN.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "DESTINACIÓN",
+    "url": "ley_0599_2000_pr001.html#42"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "43",
+    "texto": "ARTÍCULO 43. LAS PENAS PRIVATIVAS DE OTROS DERECHOS.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "LAS PENAS PRIVATIVAS DE OTROS DERECHOS",
+    "url": "ley_0599_2000_pr001.html#43"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "44",
+    "texto": "ARTÍCULO 44. LA INHABILITACIÓN PARA EL EJERCICIO DE DERECHOS Y FUNCIONES PÚBLICAS.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "LA INHABILITACIÓN PARA EL EJERCICIO DE DERECHOS Y FUNCIONES PÚBLICAS",
+    "url": "ley_0599_2000_pr001.html#44"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "45",
+    "texto": "ARTÍCULO 45. LA PÉRDIDA DE EMPLEO O CARGO PÚBLICO.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "LA PÉRDIDA DE EMPLEO O CARGO PÚBLICO",
+    "url": "ley_0599_2000_pr001.html#45"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "46",
+    "texto": "ARTÍCULO 46. LA INHABILITACIÓN PARA EL EJERCICIO DE PROFESIÓN, ARTE, OFICIO, INDUSTRIA O COMERCIO.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "LA INHABILITACIÓN PARA EL EJERCICIO DE PROFESIÓN, ARTE, OFICIO, INDUSTRIA O COMERCIO",
+    "url": "ley_0599_2000_pr001.html#46"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "47",
+    "texto": "ARTÍCULO 47. LA INHABILITACIÓN PARA EL EJERCICIO DE LA PATRIA POTESTAD, TUTELA Y CURADURIA.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "LA INHABILITACIÓN PARA EL EJERCICIO DE LA PATRIA POTESTAD, TUTELA Y CURADURIA",
+    "url": "ley_0599_2000_pr001.html#47"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "48",
+    "texto": "ARTÍCULO 48. LA PRIVACIÓN DEL DERECHO A CONDUCIR VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "LA PRIVACIÓN DEL DERECHO A CONDUCIR VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS",
+    "url": "ley_0599_2000_pr001.html#48"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "49",
+    "texto": "ARTÍCULO 49. LA PRIVACIÓN DEL DERECHO A LA TENENCIA Y PORTE DE ARMA.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "LA PRIVACIÓN DEL DERECHO A LA TENENCIA Y PORTE DE ARMA",
+    "url": "ley_0599_2000_pr001.html#49"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "50",
+    "texto": "ARTÍCULO 50. LA PRIVACIÓN DEL DERECHO A RESIDIR O DE ACUDIR A DETERMINADOS LUGARES.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "LA PRIVACIÓN DEL DERECHO A RESIDIR O DE ACUDIR A DETERMINADOS LUGARES",
+    "url": "ley_0599_2000_pr001.html#50"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "51",
+    "texto": "ARTÍCULO 51. DURACIÓN DE LAS PENAS PRIVATIVAS DE OTROS DERECHOS.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "DURACIÓN DE LAS PENAS PRIVATIVAS DE OTROS DERECHOS",
+    "url": "ley_0599_2000_pr001.html#51"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "52",
+    "texto": "ARTÍCULO 52. LAS PENAS ACCESORIAS.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "LAS PENAS ACCESORIAS",
+    "url": "ley_0599_2000_pr001.html#52"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "53",
+    "texto": "ARTÍCULO 53. CUMPLIMIENTO DE LAS PENAS ACCESORIAS.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "CUMPLIMIENTO DE LAS PENAS ACCESORIAS",
+    "url": "ley_0599_2000_pr001.html#53"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel009",
+    "texto": "CAPÍTULO II.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "descripcion": "DE LOS CRITERIOS Y REGLAS PARA LA DETERMINACIÓN DE LA PUNIBILIDAD"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "54",
+    "texto": "ARTÍCULO 54. MAYOR Y MENOR PUNIBILIDAD.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "MAYOR Y MENOR PUNIBILIDAD",
+    "url": "ley_0599_2000_pr001.html#54"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "55",
+    "texto": "ARTÍCULO 55. CIRCUNSTANCIAS DE MENOR PUNIBILIDAD.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "CIRCUNSTANCIAS DE MENOR PUNIBILIDAD",
+    "url": "ley_0599_2000_pr001.html#55"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "56",
+    "texto": "ARTÍCULO 56.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "url": "ley_0599_2000_pr001.html#56"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "57",
+    "texto": "ARTÍCULO 57. IRA O INTENSO DOLOR.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "IRA O INTENSO DOLOR",
+    "url": "ley_0599_2000_pr001.html#57"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "58",
+    "texto": "ARTÍCULO 58. CIRCUNSTANCIAS DE MAYOR PUNIBILIDAD.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "CIRCUNSTANCIAS DE MAYOR PUNIBILIDAD",
+    "url": "ley_0599_2000_pr001.html#58"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "59",
+    "texto": "ARTÍCULO 59. MOTIVACIÓN DEL PROCESO DE INDIVIDUALIZACIÓN DE LA PENA.",
+    "archivo": "ley_0599_2000_pr001.html",
+    "nombre": "MOTIVACIÓN DEL PROCESO DE INDIVIDUALIZACIÓN DE LA PENA",
+    "url": "ley_0599_2000_pr001.html#59"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "60",
+    "texto": "ARTÍCULO 60. PARAMETROS PARA LA DETERMINACIÓN DE LOS MÍNIMOS Y MÁXIMOS APLICABLES.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "PARAMETROS PARA LA DETERMINACIÓN DE LOS MÍNIMOS Y MÁXIMOS APLICABLES",
+    "url": "ley_0599_2000_pr002.html#60"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "61",
+    "texto": "ARTÍCULO 61. FUNDAMENTOS PARA LA INDIVIDUALIZACIÓN DE LA PENA.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "FUNDAMENTOS PARA LA INDIVIDUALIZACIÓN DE LA PENA",
+    "url": "ley_0599_2000_pr002.html#61"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "62",
+    "texto": "ARTÍCULO 62. COMUNICABILIDAD DE CIRCUNSTANCIAS.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "COMUNICABILIDAD DE CIRCUNSTANCIAS",
+    "url": "ley_0599_2000_pr002.html#62"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel010",
+    "texto": "CAPÍTULO III.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "descripcion": "DE LOS MECANISMOS SUSTITUTIVOS DE LA PENA PRIVATIVA DE LA LIBERTAD"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "64",
+    "texto": "ARTÍCULO 64. LIBERTAD CONDICIONAL.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "LIBERTAD CONDICIONAL",
+    "url": "ley_0599_2000_pr002.html#64"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "65",
+    "texto": "ARTÍCULO 65. OBLIGACIONES.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "OBLIGACIONES",
+    "url": "ley_0599_2000_pr002.html#65"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "66",
+    "texto": "ARTÍCULO 66. REVOCACIÓN DE LA SUSPENSIÓN DE LA EJECUCIÓN CONDICIONAL DE LA PENA Y DE LA LIBERTAD CONDICIONAL.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "REVOCACIÓN DE LA SUSPENSIÓN DE LA EJECUCIÓN CONDICIONAL DE LA PENA Y DE LA LIBERTAD CONDICIONAL",
+    "url": "ley_0599_2000_pr002.html#66"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "67",
+    "texto": "ARTÍCULO 67. EXTINCIÓN Y LIBERACIÓN.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "EXTINCIÓN Y LIBERACIÓN",
+    "url": "ley_0599_2000_pr002.html#67"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "68",
+    "texto": "ARTÍCULO 68. RECLUSIÓN DOMICILIARIA U HOSPITALARIA POR ENFERMEDAD",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "RECLUSIÓN DOMICILIARIA U HOSPITALARIA POR ENFERMEDAD",
+    "url": "ley_0599_2000_pr002.html#68"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "68A",
+    "texto": "ARTÍCULO 68A. EXCLUSIÓN DE LOS BENEFICIOS Y SUBROGADOS PENALES.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "EXCLUSIÓN DE LOS BENEFICIOS Y SUBROGADOS PENALES",
+    "url": "ley_0599_2000_pr002.html#68A"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel011",
+    "texto": "CAPÍTULO IV.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "descripcion": "DE LAS MEDIDAS DE SEGURIDAD"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "69",
+    "texto": "ARTÍCULO 69. MEDIDAS DE SEGURIDAD.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "MEDIDAS DE SEGURIDAD",
+    "url": "ley_0599_2000_pr002.html#69"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "70",
+    "texto": "ARTÍCULO 70. INTERNACIÓN PARA INIMPUTABLE POR TRASTORNO MENTAL PERMANENTE.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "INTERNACIÓN PARA INIMPUTABLE POR TRASTORNO MENTAL PERMANENTE",
+    "url": "ley_0599_2000_pr002.html#70"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "71",
+    "texto": "ARTÍCULO 71. INTERNACIÓN PARA INIMPUTABLE POR TRASTORNO MENTAL TRANSITORIO CON BASE PATOLÓGICA.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "INTERNACIÓN PARA INIMPUTABLE POR TRASTORNO MENTAL TRANSITORIO CON BASE PATOLÓGICA",
+    "url": "ley_0599_2000_pr002.html#71"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "72",
+    "texto": "ARTÍCULO 72. LA INTERNACIÓN EN CASA DE ESTUDIO O DE TRABAJO.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "LA INTERNACIÓN EN CASA DE ESTUDIO O DE TRABAJO",
+    "url": "ley_0599_2000_pr002.html#72"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "73",
+    "texto": "ARTÍCULO 73. LA REINTEGRACIÓN AL MEDIO CULTURAL PROPIO.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "LA REINTEGRACIÓN AL MEDIO CULTURAL PROPIO",
+    "url": "ley_0599_2000_pr002.html#73"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "74",
+    "texto": "ARTÍCULO 74. LIBERTAD VIGILADA.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "LIBERTAD VIGILADA",
+    "url": "ley_0599_2000_pr002.html#74"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "75",
+    "texto": "ARTÍCULO 75. TRASTORNO MENTAL TRANSITORIO SIN BASE PATOLÓGICA.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "TRASTORNO MENTAL TRANSITORIO SIN BASE PATOLÓGICA",
+    "url": "ley_0599_2000_pr002.html#75"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "76",
+    "texto": "ARTÍCULO 76. MEDIDA DE SEGURIDAD EN CASOS ESPECIALES.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "MEDIDA DE SEGURIDAD EN CASOS ESPECIALES",
+    "url": "ley_0599_2000_pr002.html#76"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "77",
+    "texto": "ARTÍCULO 77. CONTROL JUDICIAL DE LAS MEDIDAS.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "CONTROL JUDICIAL DE LAS MEDIDAS",
+    "url": "ley_0599_2000_pr002.html#77"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "78",
+    "texto": "ARTÍCULO 78. REVOCACIÓN DE LA SUSPENSIÓN CONDICIONAL.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "REVOCACIÓN DE LA SUSPENSIÓN CONDICIONAL",
+    "url": "ley_0599_2000_pr002.html#78"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "79",
+    "texto": "ARTÍCULO 79. SUSPENSIÓN O CESACIÓN DE LAS MEDIDAS DE SEGURIDAD.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "SUSPENSIÓN O CESACIÓN DE LAS MEDIDAS DE SEGURIDAD",
+    "url": "ley_0599_2000_pr002.html#79"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "80",
+    "texto": "ARTÍCULO 80. COMPUTO DE LA INTERNACIÓN PREVENTIVA.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "COMPUTO DE LA INTERNACIÓN PREVENTIVA",
+    "url": "ley_0599_2000_pr002.html#80"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "81",
+    "texto": "ARTÍCULO 81. RESTRICCIÓN DE OTROS DERECHOS A LOS INIMPUTABLES.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "RESTRICCIÓN DE OTROS DERECHOS A LOS INIMPUTABLES",
+    "url": "ley_0599_2000_pr002.html#81"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel012",
+    "texto": "CAPÍTULO V.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "descripcion": "DE LA EXTINCIÓN DE LA ACCIÓN Y DE LA SANCIÓN PENAL"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "82",
+    "texto": "ARTÍCULO 82. EXTINCIÓN DE LA ACCIÓN PENAL.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "EXTINCIÓN DE LA ACCIÓN PENAL",
+    "url": "ley_0599_2000_pr002.html#82"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "84",
+    "texto": "ARTÍCULO 84. INICIACIÓN DEL TÉRMINO DE PRESCRIPCIÓN DE LA ACCIÓN.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "INICIACIÓN DEL TÉRMINO DE PRESCRIPCIÓN DE LA ACCIÓN",
+    "url": "ley_0599_2000_pr002.html#84"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "85",
+    "texto": "ARTÍCULO 85. RENUNCIA A LA PRESCRIPCIÓN.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "RENUNCIA A LA PRESCRIPCIÓN",
+    "url": "ley_0599_2000_pr002.html#85"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "86",
+    "texto": "ARTÍCULO 86. INTERRUPCIÓN Y SUSPENSIÓN DEL TÉRMINO PRESCRIPTIVO DE LA ACCIÓN.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "INTERRUPCIÓN Y SUSPENSIÓN DEL TÉRMINO PRESCRIPTIVO DE LA ACCIÓN",
+    "url": "ley_0599_2000_pr002.html#86"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "87",
+    "texto": "ARTÍCULO 87. LA OBLACIÓN.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "LA OBLACIÓN",
+    "url": "ley_0599_2000_pr002.html#87"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "88",
+    "texto": "ARTÍCULO 88. EXTINCIÓN DE LA SANCIÓN PENAL.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "EXTINCIÓN DE LA SANCIÓN PENAL",
+    "url": "ley_0599_2000_pr002.html#88"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "89",
+    "texto": "ARTÍCULO 89. TÉRMINO DE PRESCRIPCIÓN DE LA SANCIÓN PENAL.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "TÉRMINO DE PRESCRIPCIÓN DE LA SANCIÓN PENAL",
+    "url": "ley_0599_2000_pr002.html#89"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "90",
+    "texto": "ARTÍCULO 90. INTERRUPCIÓN DEL TÉRMINO DE PRESCRIPCIÓN DE LA SANCIÓN PRIVATIVA DE LA LIBERTAD.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "INTERRUPCIÓN DEL TÉRMINO DE PRESCRIPCIÓN DE LA SANCIÓN PRIVATIVA DE LA LIBERTAD",
+    "url": "ley_0599_2000_pr002.html#90"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "91",
+    "texto": "ARTÍCULO 91. INTERRUPCIÓN DEL TÉRMINO DE PRESCRIPCIÓN DE LA MULTA.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "INTERRUPCIÓN DEL TÉRMINO DE PRESCRIPCIÓN DE LA MULTA",
+    "url": "ley_0599_2000_pr002.html#91"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "92",
+    "texto": "ARTÍCULO 92. LA REHABILITACIÓN.",
+    "archivo": "ley_0599_2000_pr002.html",
+    "nombre": "LA REHABILITACIÓN",
+    "url": "ley_0599_2000_pr002.html#92"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "93",
+    "texto": "ARTÍCULO 93. EXTENSIÓN DE LAS ANTERIORES DISPOSICIONES.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "EXTENSIÓN DE LAS ANTERIORES DISPOSICIONES",
+    "url": "ley_0599_2000_pr003.html#93"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel013",
+    "texto": "CAPÍTULO VI.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "descripcion": "DE LA RESPONSABILIDAD CIVIL DERIVADA DE LA CONDUCTA PUNIBLE"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "94",
+    "texto": "ARTÍCULO 94. REPARACIÓN DEL DAÑO.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "REPARACIÓN DEL DAÑO",
+    "url": "ley_0599_2000_pr003.html#94"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "95",
+    "texto": "ARTÍCULO 95. TITULARES DE LA ACCIÓN CIVIL.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "TITULARES DE LA ACCIÓN CIVIL",
+    "url": "ley_0599_2000_pr003.html#95"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "96",
+    "texto": "ARTÍCULO 96. OBLIGADOS A INDEMNIZAR.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "OBLIGADOS A INDEMNIZAR",
+    "url": "ley_0599_2000_pr003.html#96"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "97",
+    "texto": "ARTÍCULO 97. INDEMNIZACIÓN POR DAÑOS.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "INDEMNIZACIÓN POR DAÑOS",
+    "url": "ley_0599_2000_pr003.html#97"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "98",
+    "texto": "ARTÍCULO 98. PRESCRIPCIÓN.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "PRESCRIPCIÓN",
+    "url": "ley_0599_2000_pr003.html#98"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "99",
+    "texto": "ARTÍCULO 99. EXTINCIÓN DE LA ACCIÓN CIVIL.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "EXTINCIÓN DE LA ACCIÓN CIVIL",
+    "url": "ley_0599_2000_pr003.html#99"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "100",
+    "texto": "ARTÍCULO 100. COMISO.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "COMISO",
+    "url": "ley_0599_2000_pr003.html#100"
+  },
+  {
+    "tipo": "LIBRO",
+    "id": "LIBRO II",
+    "texto": "LIBRO II.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "descripcion": "PARTE ESPECIAL DE LOS DELITOS EN PARTICULAR."
+  },
+  {
+    "tipo": "TITULO",
+    "id": "Nivel014",
+    "texto": "TÍTULO I.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "descripcion": "DELITOS CONTRA LA VIDA Y LA INTEGRIDAD PERSONAL"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel015",
+    "texto": "CAPÍTULO I.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "descripcion": "DEL GENOCIDIO"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "101",
+    "texto": "ARTÍCULO 101. GENOCIDIO.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "GENOCIDIO",
+    "url": "ley_0599_2000_pr003.html#101"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "102",
+    "texto": "ARTÍCULO 102. APOLOGÍA DEL GENOCIDIO.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "APOLOGÍA DEL GENOCIDIO",
+    "url": "ley_0599_2000_pr003.html#102"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel016",
+    "texto": "CAPÍTULO II.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "descripcion": "DEL HOMICIDIO"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "103",
+    "texto": "ARTÍCULO 103. HOMICIDIO.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "HOMICIDIO",
+    "url": "ley_0599_2000_pr003.html#103"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "104",
+    "texto": "ARTÍCULO 104. CIRCUNSTANCIAS DE AGRAVACIÓN.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN",
+    "url": "ley_0599_2000_pr003.html#104"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "104A",
+    "texto": "ARTÍCULO 104A. FEMINICIDIO.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "FEMINICIDIO",
+    "url": "ley_0599_2000_pr003.html#104A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "104B",
+    "texto": "ARTÍCULO 104B. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA DEL FEMINICIDIO.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA DEL FEMINICIDIO",
+    "url": "ley_0599_2000_pr003.html#104B"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "105",
+    "texto": "ARTÍCULO 105. HOMICIDIO PRETERINTENCIONAL.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "HOMICIDIO PRETERINTENCIONAL",
+    "url": "ley_0599_2000_pr003.html#105"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "106",
+    "texto": "ARTÍCULO 106. HOMICIDIO POR PIEDAD.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "HOMICIDIO POR PIEDAD",
+    "url": "ley_0599_2000_pr003.html#106"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "107",
+    "texto": "ARTÍCULO 107. INDUCCIÓN O AYUDA AL SUICIDIO.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "INDUCCIÓN O AYUDA AL SUICIDIO",
+    "url": "ley_0599_2000_pr003.html#107"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "108",
+    "texto": "ARTÍCULO 108. MUERTE DE HIJO FRUTO DE ACCESO CARNAL VIOLENTO, ABUSIVO, O DE INSEMINACIÓN ARTIFICIAL O TRANSFERENCIA DE OVULO FECUNDADO NO CONSENTIDAS.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "MUERTE DE HIJO FRUTO DE ACCESO CARNAL VIOLENTO, ABUSIVO, O DE INSEMINACIÓN ARTIFICIAL O TRANSFERENCIA DE OVULO FECUNDADO NO CONSENTIDAS",
+    "url": "ley_0599_2000_pr003.html#108"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "109",
+    "texto": "ARTÍCULO 109. HOMICIDIO CULPOSO.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "HOMICIDIO CULPOSO",
+    "url": "ley_0599_2000_pr003.html#109"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "110",
+    "texto": "ARTÍCULO 110. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA PARA EL HOMICIDIO CULPOSO.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA PARA EL HOMICIDIO CULPOSO",
+    "url": "ley_0599_2000_pr003.html#110"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel017",
+    "texto": "CAPÍTULO III.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "descripcion": "DE LAS LESIONES PERSONALES"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "111",
+    "texto": "ARTÍCULO 111. LESIONES.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "LESIONES",
+    "url": "ley_0599_2000_pr003.html#111"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "112",
+    "texto": "ARTÍCULO 112. INCAPACIDAD PARA TRABAJAR O ENFERMEDAD.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "INCAPACIDAD PARA TRABAJAR O ENFERMEDAD",
+    "url": "ley_0599_2000_pr003.html#112"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "113",
+    "texto": "ARTÍCULO 113. DEFORMIDAD.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "DEFORMIDAD",
+    "url": "ley_0599_2000_pr003.html#113"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "114",
+    "texto": "ARTÍCULO 114. PERTURBACIÓN FUNCIONAL.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "PERTURBACIÓN FUNCIONAL",
+    "url": "ley_0599_2000_pr003.html#114"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "115",
+    "texto": "ARTÍCULO 115. PERTURBACIÓN PSIQUICA.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "PERTURBACIÓN PSIQUICA",
+    "url": "ley_0599_2000_pr003.html#115"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "116",
+    "texto": "ARTÍCULO 116. PÉRDIDA ANATOMICA O FUNCIONAL DE UN ORGANO O MIEMBRO.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "PÉRDIDA ANATOMICA O FUNCIONAL DE UN ORGANO O MIEMBRO",
+    "url": "ley_0599_2000_pr003.html#116"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "116A",
+    "texto": "ARTÍCULO 116A. LESIONES CON AGENTES QUÍMICOS, ÁCIDO Y/O SUSTANCIAS SIMILARES.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "LESIONES CON AGENTES QUÍMICOS, ÁCIDO Y/O SUSTANCIAS SIMILARES",
+    "url": "ley_0599_2000_pr003.html#116A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "116B",
+    "texto": "ARTÍCULO 116B. LESIONES CON SUSTANCIAS MODELANTES NO PERMITIDAS.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "LESIONES CON SUSTANCIAS MODELANTES NO PERMITIDAS",
+    "url": "ley_0599_2000_pr003.html#116B"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "117",
+    "texto": "ARTÍCULO 117. UNIDAD PUNITIVA.",
+    "archivo": "ley_0599_2000_pr003.html",
+    "nombre": "UNIDAD PUNITIVA",
+    "url": "ley_0599_2000_pr003.html#117"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "118",
+    "texto": "ARTÍCULO 118. PARTO O ABORTO PRETERINTENCIONAL.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "PARTO O ABORTO PRETERINTENCIONAL",
+    "url": "ley_0599_2000_pr004.html#118"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "119",
+    "texto": "ARTÍCULO 119. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr004.html#119"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "120",
+    "texto": "ARTÍCULO 120. LESIONES CULPOSAS.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "LESIONES CULPOSAS",
+    "url": "ley_0599_2000_pr004.html#120"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "121",
+    "texto": "ARTÍCULO 121. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA POR LESIONES CULPOSAS.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA POR LESIONES CULPOSAS",
+    "url": "ley_0599_2000_pr004.html#121"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel018",
+    "texto": "CAPÍTULO IV.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "descripcion": "DEL ABORTO"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "122",
+    "texto": "ARTÍCULO 122. ABORTO.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "ABORTO",
+    "url": "ley_0599_2000_pr004.html#122"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "123",
+    "texto": "ARTÍCULO 123. ABORTO SIN CONSENTIMIENTO.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "ABORTO SIN CONSENTIMIENTO",
+    "url": "ley_0599_2000_pr004.html#123"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "124",
+    "texto": "ARTÍCULO 124. CIRCUNSTANCIAS DE ATENUACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "CIRCUNSTANCIAS DE ATENUACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr004.html#124"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel019",
+    "texto": "CAPÍTULO V.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "descripcion": "DE LAS LESIONES AL FETO"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "125",
+    "texto": "ARTÍCULO 125. LESIONES AL FETO.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "LESIONES AL FETO",
+    "url": "ley_0599_2000_pr004.html#125"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "126",
+    "texto": "ARTÍCULO 126. LESIONES CULPOSAS AL FETO.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "LESIONES CULPOSAS AL FETO",
+    "url": "ley_0599_2000_pr004.html#126"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel020",
+    "texto": "CAPÍTULO VI.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "descripcion": "DEL ABANDONO DE MENORES Y PERSONAS DESVALIDAS"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "127",
+    "texto": "ARTÍCULO 127. ABANDONO.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "ABANDONO",
+    "url": "ley_0599_2000_pr004.html#127"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "128",
+    "texto": "ARTÍCULO 128. ABANDONO DE HIJO FRUTO DE ACCESO CARNAL VIOLENTO, ABUSIVO, O DE INSEMINACIÓN ARTIFICIAL O TRANSFERENCIA DE OVULO FECUNDADO NO CONSENTIDAS.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "ABANDONO DE HIJO FRUTO DE ACCESO CARNAL VIOLENTO, ABUSIVO, O DE INSEMINACIÓN ARTIFICIAL O TRANSFERENCIA DE OVULO FECUNDADO NO CONSENTIDAS",
+    "url": "ley_0599_2000_pr004.html#128"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "129",
+    "texto": "ARTÍCULO 129. EXIMENTE DE RESPONSABILIDAD Y ATENUANTE PUNITIVO.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "EXIMENTE DE RESPONSABILIDAD Y ATENUANTE PUNITIVO",
+    "url": "ley_0599_2000_pr004.html#129"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "130",
+    "texto": "ARTÍCULO 130. CIRCUNSTANCIAS DE AGRAVACIÓN.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN",
+    "url": "ley_0599_2000_pr004.html#130"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel021",
+    "texto": "CAPÍTULO VII.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "descripcion": "DE LA OMISIÓN DE SOCORRO"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "131",
+    "texto": "ARTÍCULO 131. OMISIÓN DE SOCORRO.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "OMISIÓN DE SOCORRO",
+    "url": "ley_0599_2000_pr004.html#131"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "131-A",
+    "texto": "ARTÍCULO 131-A. OMISIÓN EN LA ATENCIÓN INICIAL DE URGENCIAS.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "url": "ley_0599_2000_pr004.html#131-A"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel022",
+    "texto": "CAPÍTULO VIII.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "descripcion": "DE LA MANIPULACIÓN GENETICA"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "132",
+    "texto": "ARTÍCULO 132. MANIPULACIÓN GENETICA.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "MANIPULACIÓN GENETICA",
+    "url": "ley_0599_2000_pr004.html#132"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "133",
+    "texto": "ARTÍCULO 133. REPETIBILIDAD DEL SER HUMANO.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "REPETIBILIDAD DEL SER HUMANO",
+    "url": "ley_0599_2000_pr004.html#133"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "134",
+    "texto": "ARTÍCULO 134. FECUNDACIÓN Y TRAFICO DE EMBRIONES HUMANOS.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "FECUNDACIÓN Y TRAFICO DE EMBRIONES HUMANOS",
+    "url": "ley_0599_2000_pr004.html#134"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "CAPÍTULO IX-I",
+    "texto": "CAPÍTULO IX.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "descripcion": "DE LOS ACTOS DE DISCRIMINACIÓN."
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "134A",
+    "texto": "ARTÍCULO 134A. ACTOS DE DISCRIMINACIÓN.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "ACTOS DE DISCRIMINACIÓN",
+    "url": "ley_0599_2000_pr004.html#134A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "134C",
+    "texto": "ARTÍCULO 134C. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr004.html#134C"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "134D",
+    "texto": "ARTÍCULO 134D. CIRCUNSTANCIAS DE ATENUACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "CIRCUNSTANCIAS DE ATENUACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr004.html#134D"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "Nivel023",
+    "texto": "TÍTULO II.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "descripcion": "DELITOS CONTRA PERSONAS Y BIENES PROTEGIDOS POR EL DERECHO"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel024",
+    "texto": "CAPÍTULO ÚNICO",
+    "archivo": "ley_0599_2000_pr004.html"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "135",
+    "texto": "ARTÍCULO 135. HOMICIDIO EN PERSONA PROTEGIDA.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "HOMICIDIO EN PERSONA PROTEGIDA",
+    "url": "ley_0599_2000_pr004.html#135"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "136",
+    "texto": "ARTÍCULO 136. LESIONES EN PERSONA PROTEGIDA.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "LESIONES EN PERSONA PROTEGIDA",
+    "url": "ley_0599_2000_pr004.html#136"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "137",
+    "texto": "ARTÍCULO 137. TORTURA EN PERSONA PROTEGIDA.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "TORTURA EN PERSONA PROTEGIDA",
+    "url": "ley_0599_2000_pr004.html#137"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "138",
+    "texto": "ARTÍCULO 138. ACCESO CARNAL VIOLENTO EN PERSONA PROTEGIDA.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "ACCESO CARNAL VIOLENTO EN PERSONA PROTEGIDA",
+    "url": "ley_0599_2000_pr004.html#138"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "138A",
+    "texto": "ARTÍCULO 138A. ACCESO CARNAL ABUSIVO EN PERSONA PROTEGIDA MENOR DE CATORCE AÑOS.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "ACCESO CARNAL ABUSIVO EN PERSONA PROTEGIDA MENOR DE CATORCE AÑOS",
+    "url": "ley_0599_2000_pr004.html#138A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "139",
+    "texto": "ARTÍCULO 139. ACTOS SEXUALES VIOLENTOS EN PERSONA PROTEGIDA.",
+    "archivo": "ley_0599_2000_pr004.html",
+    "nombre": "ACTOS SEXUALES VIOLENTOS EN PERSONA PROTEGIDA",
+    "url": "ley_0599_2000_pr004.html#139"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "139A",
+    "texto": "ARTÍCULO 139A. ACTOS SEXUALES CON PERSONA PROTEGIDA MENOR DE CATORCE AÑOS.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "ACTOS SEXUALES CON PERSONA PROTEGIDA MENOR DE CATORCE AÑOS",
+    "url": "ley_0599_2000_pr005.html#139A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "139B",
+    "texto": "ARTÍCULO 139B. ESTERILIZACIÓN FORZADA EN PERSONA PROTEGIDA.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "ESTERILIZACIÓN FORZADA EN PERSONA PROTEGIDA",
+    "url": "ley_0599_2000_pr005.html#139B"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "139C",
+    "texto": "ARTÍCULO 139C. EMBARAZO FORZADO EN PERSONA PROTEGIDA.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "EMBARAZO FORZADO EN PERSONA PROTEGIDA",
+    "url": "ley_0599_2000_pr005.html#139C"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "139D",
+    "texto": "ARTÍCULO 139D. DESNUDEZ FORZADA EN PERSONA PROTEGIDA.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "DESNUDEZ FORZADA EN PERSONA PROTEGIDA",
+    "url": "ley_0599_2000_pr005.html#139D"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "139E",
+    "texto": "ARTÍCULO 139E. ABORTO FORZADO EN PERSONA PROTEGIDA.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "ABORTO FORZADO EN PERSONA PROTEGIDA",
+    "url": "ley_0599_2000_pr005.html#139E"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "140",
+    "texto": "ARTÍCULO 140. CIRCUNSTANCIAS DE AGRAVACIÓN.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN",
+    "url": "ley_0599_2000_pr005.html#140"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "141",
+    "texto": "ARTÍCULO 141. PROSTITUCIÓN FORZADA EN PERSONA PROTEGIDA.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "PROSTITUCIÓN FORZADA EN PERSONA PROTEGIDA",
+    "url": "ley_0599_2000_pr005.html#141"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "141A",
+    "texto": "ARTÍCULO 141A. ESCLAVITUD SEXUAL EN PERSONA PROTEGIDA.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "ESCLAVITUD SEXUAL EN PERSONA PROTEGIDA",
+    "url": "ley_0599_2000_pr005.html#141A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "141B",
+    "texto": "ARTÍCULO 141B. TRATA DE PERSONAS EN PERSONA PROTEGIDA CON FINES DE EXPLOTACIÓN SEXUAL.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "TRATA DE PERSONAS EN PERSONA PROTEGIDA CON FINES DE EXPLOTACIÓN SEXUAL",
+    "url": "ley_0599_2000_pr005.html#141B"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "142",
+    "texto": "ARTÍCULO 142. UTILIZACIÓN DE MEDIOS Y METODOS DE GUERRA ILICITOS.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "UTILIZACIÓN DE MEDIOS Y METODOS DE GUERRA ILICITOS",
+    "url": "ley_0599_2000_pr005.html#142"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "143",
+    "texto": "ARTÍCULO 143. PERFIDIA.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "PERFIDIA",
+    "url": "ley_0599_2000_pr005.html#143"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "144",
+    "texto": "ARTÍCULO 144. ACTOS DE TERRORISMO.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "ACTOS DE TERRORISMO",
+    "url": "ley_0599_2000_pr005.html#144"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "145",
+    "texto": "ARTÍCULO 145. ACTOS DE BARBARIE.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "ACTOS DE BARBARIE",
+    "url": "ley_0599_2000_pr005.html#145"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "146",
+    "texto": "ARTÍCULO 146. TRATOS INHUMANOS Y DEGRADANTES Y EXPERIMENTOS BIOLOGICOS EN PERSONA PROTEGIDA.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "TRATOS INHUMANOS Y DEGRADANTES Y EXPERIMENTOS BIOLOGICOS EN PERSONA PROTEGIDA",
+    "url": "ley_0599_2000_pr005.html#146"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "147",
+    "texto": "ARTÍCULO 147. ACTOS DE DISCRIMINACIÓN RACIAL.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "ACTOS DE DISCRIMINACIÓN RACIAL",
+    "url": "ley_0599_2000_pr005.html#147"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "148",
+    "texto": "ARTÍCULO 148. TOMA DE REHENES.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "TOMA DE REHENES",
+    "url": "ley_0599_2000_pr005.html#148"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "149",
+    "texto": "ARTÍCULO 149. DETENCIÓN ILEGAL Y PRIVACIÓN DEL DEBIDO PROCESO.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "DETENCIÓN ILEGAL Y PRIVACIÓN DEL DEBIDO PROCESO",
+    "url": "ley_0599_2000_pr005.html#149"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "150",
+    "texto": "ARTÍCULO 150. CONSTREÑIMIENTO A APOYO BELICO.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "CONSTREÑIMIENTO A APOYO BELICO",
+    "url": "ley_0599_2000_pr005.html#150"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "151",
+    "texto": "ARTÍCULO 151. DESPOJO EN EL CAMPO DE BATALLA.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "DESPOJO EN EL CAMPO DE BATALLA",
+    "url": "ley_0599_2000_pr005.html#151"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "152",
+    "texto": "ARTÍCULO 152. OMISIÓN DE MEDIDAS DE SOCORRO Y ASISTENCIA HUMANITARIA.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "OMISIÓN DE MEDIDAS DE SOCORRO Y ASISTENCIA HUMANITARIA",
+    "url": "ley_0599_2000_pr005.html#152"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "153",
+    "texto": "ARTÍCULO 153. OBSTACULIZACIÓN DE TAREAS SANITARIAS Y HUMANITARIAS.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "OBSTACULIZACIÓN DE TAREAS SANITARIAS Y HUMANITARIAS",
+    "url": "ley_0599_2000_pr005.html#153"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "154",
+    "texto": "ARTÍCULO 154. DESTRUCCIÓN Y APROPIACIÓN DE BIENES PROTEGIDOS.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "DESTRUCCIÓN Y APROPIACIÓN DE BIENES PROTEGIDOS",
+    "url": "ley_0599_2000_pr005.html#154"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "155",
+    "texto": "ARTÍCULO 155. DESTRUCCIÓN DE BIENES E INSTALACIONES DE CARACTER SANITARIO.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "DESTRUCCIÓN DE BIENES E INSTALACIONES DE CARACTER SANITARIO",
+    "url": "ley_0599_2000_pr005.html#155"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "156",
+    "texto": "ARTÍCULO 156. DESTRUCCIÓN O UTILIZACIÓN ILICITA DE BIENES CULTURALES Y DE LUGARES DE CULTO.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "DESTRUCCIÓN O UTILIZACIÓN ILICITA DE BIENES CULTURALES Y DE LUGARES DE CULTO",
+    "url": "ley_0599_2000_pr005.html#156"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "157",
+    "texto": "ARTÍCULO 157. ATAQUE CONTRA OBRAS E INSTALACIONES QUE CONTIENEN FUERZAS PELIGROSAS.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "ATAQUE CONTRA OBRAS E INSTALACIONES QUE CONTIENEN FUERZAS PELIGROSAS",
+    "url": "ley_0599_2000_pr005.html#157"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "158",
+    "texto": "ARTÍCULO 158. REPRESALIAS.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "REPRESALIAS",
+    "url": "ley_0599_2000_pr005.html#158"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "159",
+    "texto": "ARTÍCULO 159. DEPORTACIÓN, EXPULSIÓN, TRASLADO O DESPLAZAMIENTO FORZADO DE POBLACIÓN CIVIL.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "DEPORTACIÓN, EXPULSIÓN, TRASLADO O DESPLAZAMIENTO FORZADO DE POBLACIÓN CIVIL",
+    "url": "ley_0599_2000_pr005.html#159"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "160",
+    "texto": "ARTÍCULO 160. ATENTADOS A LA SUBSISTENCIA Y DEVASTACIÓN.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "ATENTADOS A LA SUBSISTENCIA Y DEVASTACIÓN",
+    "url": "ley_0599_2000_pr005.html#160"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "161",
+    "texto": "ARTÍCULO 161. OMISIÓN DE MEDIDAS DE PROTECCIÓN A LA POBLACIÓN CIVIL.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "OMISIÓN DE MEDIDAS DE PROTECCIÓN A LA POBLACIÓN CIVIL",
+    "url": "ley_0599_2000_pr005.html#161"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "162",
+    "texto": "ARTÍCULO 162. RECLUTAMIENTO ILÍCITO.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "RECLUTAMIENTO ILÍCITO",
+    "url": "ley_0599_2000_pr005.html#162"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "163",
+    "texto": "ARTÍCULO 163. EXACCIÓN O CONTRIBUCIONES ARBITRARIAS.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "EXACCIÓN O CONTRIBUCIONES ARBITRARIAS",
+    "url": "ley_0599_2000_pr005.html#163"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "164",
+    "texto": "ARTÍCULO 164. DESTRUCCIÓN DEL MEDIO AMBIENTE.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "DESTRUCCIÓN DEL MEDIO AMBIENTE",
+    "url": "ley_0599_2000_pr005.html#164"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "Nivel025",
+    "texto": "TÍTULO III.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "descripcion": "DELITOS CONTRA LA LIBERTAD INDIVIDUAL Y OTRAS GARANTIAS"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel026",
+    "texto": "CAPÍTULO I.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "descripcion": "DE LA DESAPARICIÓN FORZADA"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "165",
+    "texto": "ARTÍCULO 165. DESAPARICIÓN FORZADA.",
+    "archivo": "ley_0599_2000_pr005.html",
+    "nombre": "DESAPARICIÓN FORZADA",
+    "url": "ley_0599_2000_pr005.html#165"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "166",
+    "texto": "ARTÍCULO 166. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr006.html#166"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "167",
+    "texto": "ARTÍCULO 167. CIRCUNSTANCIAS DE ATENUACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "CIRCUNSTANCIAS DE ATENUACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr006.html#167"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel027",
+    "texto": "CAPÍTULO II.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "descripcion": "DEL SECUESTRO"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "168",
+    "texto": "ARTÍCULO 168. SECUESTRO SIMPLE.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "SECUESTRO SIMPLE",
+    "url": "ley_0599_2000_pr006.html#168"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "169",
+    "texto": "ARTÍCULO 169. SECUESTRO EXTORSIVO.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "SECUESTRO EXTORSIVO",
+    "url": "ley_0599_2000_pr006.html#169"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "170",
+    "texto": "ARTÍCULO 170. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr006.html#170"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "171",
+    "texto": "ARTÍCULO 171. CIRCUNSTANCIAS DE ATENUACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "CIRCUNSTANCIAS DE ATENUACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr006.html#171"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "172",
+    "texto": "ARTÍCULO 172. CELEBRACIÓN INDEBIDA DE CONTRATOS DE SEGUROS.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "CELEBRACIÓN INDEBIDA DE CONTRATOS DE SEGUROS",
+    "url": "ley_0599_2000_pr006.html#172"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel028",
+    "texto": "CAPÍTULO III.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "descripcion": "APODERAMIENTO Y DESVIO DE AERONAVES, NAVES O MEDIOS DE TRANSPORTE COLECTIVO"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "173",
+    "texto": "ARTÍCULO 173. APODERAMIENTO DE AERONAVES, NAVES, O MEDIOS DE TRANSPORTE COLECTIVO.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "APODERAMIENTO DE AERONAVES, NAVES, O MEDIOS DE TRANSPORTE COLECTIVO",
+    "url": "ley_0599_2000_pr006.html#173"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel029",
+    "texto": "CAPÍTULO IV.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "descripcion": "DE LA DETENCIÓN ARBITRARIA"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "174",
+    "texto": "ARTÍCULO 174. PRIVACIÓN ILEGAL DE LIBERTAD.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "PRIVACIÓN ILEGAL DE LIBERTAD",
+    "url": "ley_0599_2000_pr006.html#174"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "175",
+    "texto": "ARTÍCULO 175. PROLONGACIÓN ILICITA DE PRIVACIÓN DE LA LIBERTAD.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "PROLONGACIÓN ILICITA DE PRIVACIÓN DE LA LIBERTAD",
+    "url": "ley_0599_2000_pr006.html#175"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "176",
+    "texto": "ARTÍCULO 176. DETENCIÓN ARBITRARIA ESPECIAL.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "DETENCIÓN ARBITRARIA ESPECIAL",
+    "url": "ley_0599_2000_pr006.html#176"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "177",
+    "texto": "ARTÍCULO 177. DESCONOCIMIENTO DE HÁBEAS CORPUS.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "DESCONOCIMIENTO DE HÁBEAS CORPUS",
+    "url": "ley_0599_2000_pr006.html#177"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel030",
+    "texto": "CAPÍTULO V.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "descripcion": "DE LOS DELITOS CONTRA LA AUTONOMIA PERSONAL"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "178",
+    "texto": "ARTÍCULO 178. TORTURA.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "TORTURA",
+    "url": "ley_0599_2000_pr006.html#178"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "179",
+    "texto": "ARTÍCULO 179. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr006.html#179"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "180",
+    "texto": "ARTÍCULO 180. DESPLAZAMIENTO FORZADO.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "DESPLAZAMIENTO FORZADO",
+    "url": "ley_0599_2000_pr006.html#180"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "181",
+    "texto": "ARTÍCULO 181. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr006.html#181"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "182",
+    "texto": "ARTÍCULO 182. CONSTREÑIMIENTO ILEGAL.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "CONSTREÑIMIENTO ILEGAL",
+    "url": "ley_0599_2000_pr006.html#182"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "182A",
+    "texto": "ARTÍCULO 182A. CONSTREÑIMIENTO ILEGAL POR PARTE DE MIEMBROS DE GRUPOS DELICTIVOS ORGANIZADOS Y GRUPOS ARMADOS ORGANIZADOS.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "CONSTREÑIMIENTO ILEGAL POR PARTE DE MIEMBROS DE GRUPOS DELICTIVOS ORGANIZADOS Y GRUPOS ARMADOS ORGANIZADOS",
+    "url": "ley_0599_2000_pr006.html#182A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "183",
+    "texto": "ARTÍCULO 183. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr006.html#183"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "184",
+    "texto": "ARTÍCULO 184. CONSTREÑIMIENTO PARA DELINQUIR.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "CONSTREÑIMIENTO PARA DELINQUIR",
+    "url": "ley_0599_2000_pr006.html#184"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "185",
+    "texto": "ARTÍCULO 185. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr006.html#185"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "185A",
+    "texto": "ARTÍCULO 185A. INTIMIDACIÓN O AMENAZA CON ARMA DE FUEGO; ARMAS, ELEMENTOS O DISPOSITIVOS MENOS LETALES; ARMAS DE FUEGO HECHIZAS; Y ARMA BLANCA.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "INTIMIDACIÓN O AMENAZA CON ARMA DE FUEGO; ARMAS, ELEMENTOS O DISPOSITIVOS MENOS LETALES; ARMAS DE FUEGO HECHIZAS; Y ARMA BLANCA",
+    "url": "ley_0599_2000_pr006.html#185A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "186",
+    "texto": "ARTÍCULO 186. FRAUDULENTA INTERNACIÓN EN ASILO, CLINICA O ESTABLECIMIENTO SIMILAR.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "FRAUDULENTA INTERNACIÓN EN ASILO, CLINICA O ESTABLECIMIENTO SIMILAR",
+    "url": "ley_0599_2000_pr006.html#186"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "187",
+    "texto": "ARTÍCULO 187. INSEMINACIÓN ARTIFICIAL O TRANSFERENCIA DE OVULO FECUNDADO NO CONSENTIDAS.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "INSEMINACIÓN ARTIFICIAL O TRANSFERENCIA DE OVULO FECUNDADO NO CONSENTIDAS",
+    "url": "ley_0599_2000_pr006.html#187"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "188",
+    "texto": "ARTÍCULO 188. DEL TRÁFICO DE MIGRANTES.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "DEL TRÁFICO DE MIGRANTES",
+    "url": "ley_0599_2000_pr006.html#188"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "188-A",
+    "texto": "ARTÍCULO 188-A. TRATA DE PERSONAS.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "url": "ley_0599_2000_pr006.html#188-A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "188-B",
+    "texto": "ARTÍCULO 188-B. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "url": "ley_0599_2000_pr006.html#188-B"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "188C",
+    "texto": "ARTÍCULO 188C. TRÁFICO DE NIÑAS, NIÑOS",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "TRÁFICO DE NIÑAS, NIÑOS",
+    "url": "ley_0599_2000_pr006.html#188C"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "188D",
+    "texto": "ARTÍCULO 188D. USO DE MENORES DE EDAD LA COMISIÓN DE DELITOS.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "USO DE MENORES DE EDAD LA COMISIÓN DE DELITOS",
+    "url": "ley_0599_2000_pr006.html#188D"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "188E",
+    "texto": "ARTÍCULO 188E. AMENAZAS CONTRA DEFENSORES DE DERECHOS HUMANOS Y SERVIDORES PÚBLICOS.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "nombre": "AMENAZAS CONTRA DEFENSORES DE DERECHOS HUMANOS Y SERVIDORES PÚBLICOS",
+    "url": "ley_0599_2000_pr006.html#188E"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel031",
+    "texto": "CAPÍTULO VI.",
+    "archivo": "ley_0599_2000_pr006.html",
+    "descripcion": "DELITOS CONTRA LA INVIOLABILIDAD DE HABITACIÓN O SITIO DE TRABAJO"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "189",
+    "texto": "ARTÍCULO 189. VIOLACIÓN DE HABITACIÓN AJENA.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "VIOLACIÓN DE HABITACIÓN AJENA",
+    "url": "ley_0599_2000_pr007.html#189"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "190",
+    "texto": "ARTÍCULO 190. VIOLACIÓN DE HABITACIÓN AJENA POR SERVIDOR PÚBLICO.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "VIOLACIÓN DE HABITACIÓN AJENA POR SERVIDOR PÚBLICO",
+    "url": "ley_0599_2000_pr007.html#190"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "191",
+    "texto": "ARTÍCULO 191. VIOLACIÓN EN LUGAR DE TRABAJO.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "VIOLACIÓN EN LUGAR DE TRABAJO",
+    "url": "ley_0599_2000_pr007.html#191"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel032",
+    "texto": "CAPÍTULO VII.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "descripcion": "DE LA VIOLACIÓN A LA INTIMIDAD, RESERVA E INTERCEPTACIÓN DE COMUNICACIONES"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "192",
+    "texto": "ARTÍCULO 192. VIOLACIÓN ILICITA DE COMUNICACIONES.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "VIOLACIÓN ILICITA DE COMUNICACIONES",
+    "url": "ley_0599_2000_pr007.html#192"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "193",
+    "texto": "ARTÍCULO 193. OFRECIMIENTO, VENTA O COMPRA DE INSTRUMENTO APTO PARA INTERCEPTAR LA COMUNICACIÓN PRIVADA ENTRE PERSONAS.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "OFRECIMIENTO, VENTA O COMPRA DE INSTRUMENTO APTO PARA INTERCEPTAR LA COMUNICACIÓN PRIVADA ENTRE PERSONAS",
+    "url": "ley_0599_2000_pr007.html#193"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "194",
+    "texto": "ARTÍCULO 194. DIVULGACIÓN Y EMPLEO DE DOCUMENTOS RESERVADOS.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "DIVULGACIÓN Y EMPLEO DE DOCUMENTOS RESERVADOS",
+    "url": "ley_0599_2000_pr007.html#194"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "195",
+    "texto": "ARTÍCULO 195. ACCESO ABUSIVO A UN SISTEMA INFORMATICO.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "ACCESO ABUSIVO A UN SISTEMA INFORMATICO",
+    "url": "ley_0599_2000_pr007.html#195"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "196",
+    "texto": "ARTÍCULO 196. VIOLACIÓN ILICITA DE COMUNICACIONES O CORRESPONDENCIA DE CARACTER OFICIAL.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "VIOLACIÓN ILICITA DE COMUNICACIONES O CORRESPONDENCIA DE CARACTER OFICIAL",
+    "url": "ley_0599_2000_pr007.html#196"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "197",
+    "texto": "ARTÍCULO 197. UTILIZACIÓN ILÍCITA DE REDES DE COMUNICACIONES.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "UTILIZACIÓN ILÍCITA DE REDES DE COMUNICACIONES",
+    "url": "ley_0599_2000_pr007.html#197"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel033",
+    "texto": "CAPÍTULO VIII.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "descripcion": "DE LOS DELITOS CONTRA LA LIBERTAD DE TRABAJO Y ASOCIACIÓN"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "198",
+    "texto": "ARTÍCULO 198. VIOLACIÓN DE LA LIBERTAD DE TRABAJO.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "VIOLACIÓN DE LA LIBERTAD DE TRABAJO",
+    "url": "ley_0599_2000_pr007.html#198"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "199",
+    "texto": "ARTÍCULO 199. SABOTAJE.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "SABOTAJE",
+    "url": "ley_0599_2000_pr007.html#199"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "200",
+    "texto": "ARTÍCULO 200. VIOLACIÓN DE LOS DERECHOS DE REUNIÓN Y ASOCIACIÓN.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "VIOLACIÓN DE LOS DERECHOS DE REUNIÓN Y ASOCIACIÓN",
+    "url": "ley_0599_2000_pr007.html#200"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel034",
+    "texto": "CAPÍTULO IX.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "descripcion": "DE LOS DELITOS CONTRA EL SENTIMIENTO RELIGIOSO Y EL RESPETO A LOS DIFUNTOS"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "201",
+    "texto": "ARTÍCULO 201. VIOLACIÓN A LA LIBERTAD RELIGIOSA.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "VIOLACIÓN A LA LIBERTAD RELIGIOSA",
+    "url": "ley_0599_2000_pr007.html#201"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "202",
+    "texto": "ARTÍCULO 202. IMPEDIMENTO Y PERTURBACIÓN DE CEREMONIA RELIGIOSA.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "IMPEDIMENTO Y PERTURBACIÓN DE CEREMONIA RELIGIOSA",
+    "url": "ley_0599_2000_pr007.html#202"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "203",
+    "texto": "ARTÍCULO 203. DAÑOS O AGRAVIOS A PERSONAS O A COSAS DESTINADAS AL CULTO.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "DAÑOS O AGRAVIOS A PERSONAS O A COSAS DESTINADAS AL CULTO",
+    "url": "ley_0599_2000_pr007.html#203"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "204",
+    "texto": "ARTÍCULO 204. IRRESPETO A CADAVERES.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "IRRESPETO A CADAVERES",
+    "url": "ley_0599_2000_pr007.html#204"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "Nivel035",
+    "texto": "TÍTULO IV.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "descripcion": "DELITOS CONTRA LA LIBERTAD, INTEGRIDAD Y FORMACIÓN SEXUALES"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel036",
+    "texto": "CAPÍTULO I.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "descripcion": "DE LA VIOLACIÓN"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "205",
+    "texto": "ARTÍCULO 205. ACCESO CARNAL VIOLENTO.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "ACCESO CARNAL VIOLENTO",
+    "url": "ley_0599_2000_pr007.html#205"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "206",
+    "texto": "ARTÍCULO 206. ACTO SEXUAL VIOLENTO.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "ACTO SEXUAL VIOLENTO",
+    "url": "ley_0599_2000_pr007.html#206"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "207",
+    "texto": "ARTÍCULO 207. ACCESO CARNAL O ACTO SEXUAL EN PERSONA PUESTA EN INCAPACIDAD DE RESISTIR.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "ACCESO CARNAL O ACTO SEXUAL EN PERSONA PUESTA EN INCAPACIDAD DE RESISTIR",
+    "url": "ley_0599_2000_pr007.html#207"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel037",
+    "texto": "CAPÍTULO II.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "descripcion": "DE LOS ACTOS SEXUALES ABUSIVOS"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "208",
+    "texto": "ARTÍCULO 208. ACCESO CARNAL ABUSIVO CON MENOR DE CATORCE AÑOS.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "ACCESO CARNAL ABUSIVO CON MENOR DE CATORCE AÑOS",
+    "url": "ley_0599_2000_pr007.html#208"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "209",
+    "texto": "ARTÍCULO 209. ACTOS SEXUALES CON MENOR DE CATORCE AÑOS.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "ACTOS SEXUALES CON MENOR DE CATORCE AÑOS",
+    "url": "ley_0599_2000_pr007.html#209"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "210",
+    "texto": "ARTÍCULO 210. ACCESO CARNAL O ACTO SEXUAL ABUSIVOS CON INCAPAZ DE RESISTIR.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "ACCESO CARNAL O ACTO SEXUAL ABUSIVOS CON INCAPAZ DE RESISTIR",
+    "url": "ley_0599_2000_pr007.html#210"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "210-A",
+    "texto": "ARTÍCULO 210-A. ACOSO SEXUAL.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "url": "ley_0599_2000_pr007.html#210-A"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel038",
+    "texto": "CAPÍTULO III.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "descripcion": "DISPOSICIONES COMUNES A LOS CAPÍTULOS ANTERIORES"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "211",
+    "texto": "ARTÍCULO 211. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr007.html#211"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "212",
+    "texto": "ARTÍCULO 212. ACCESO CARNAL.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "ACCESO CARNAL",
+    "url": "ley_0599_2000_pr007.html#212"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "212A",
+    "texto": "ARTÍCULO 212A. VIOLENCIA.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "VIOLENCIA",
+    "url": "ley_0599_2000_pr007.html#212A"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "CAPITULO IV-IV",
+    "texto": "CAPÍTULO IV.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "descripcion": "DE LA EXPLOTACIÓN SEXUAL."
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "213",
+    "texto": "ARTÍCULO 213. INDUCCIÓN A LA PROSTITUCIÓN.",
+    "archivo": "ley_0599_2000_pr007.html",
+    "nombre": "INDUCCIÓN A LA PROSTITUCIÓN",
+    "url": "ley_0599_2000_pr007.html#213"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "213-A",
+    "texto": "ARTÍCULO 213-A. PROXENETISMO CON MENOR DE EDAD.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "url": "ley_0599_2000_pr008.html#213-A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "214",
+    "texto": "ARTÍCULO 214. CONSTREÑIMIENTO A LA PROSTITUCIÓN.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "CONSTREÑIMIENTO A LA PROSTITUCIÓN",
+    "url": "ley_0599_2000_pr008.html#214"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "215",
+    "texto": "ARTÍCULO 215. TRATA DE PERSONAS.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "TRATA DE PERSONAS",
+    "url": "ley_0599_2000_pr008.html#215"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "216",
+    "texto": "ARTÍCULO 216. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr008.html#216"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "217",
+    "texto": "ARTÍCULO 217. ESTIMULO A LA PROSTITUCIÓN DE MENORES.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "ESTIMULO A LA PROSTITUCIÓN DE MENORES",
+    "url": "ley_0599_2000_pr008.html#217"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "218",
+    "texto": "ARTÍCULO 218. PORNOGRAFÍA CON PERSONAS MENORES DE 18 AÑOS.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "PORNOGRAFÍA CON PERSONAS MENORES DE 18 AÑOS",
+    "url": "ley_0599_2000_pr008.html#218"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "219",
+    "texto": "ARTÍCULO 219. TURISMO SEXUAL.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "TURISMO SEXUAL",
+    "url": "ley_0599_2000_pr008.html#219"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "219-A",
+    "texto": "ARTÍCULO 219-A. UTILIZACIÓN O FACILITACIÓN DE MEDIOS DE COMUNICACIÓN PARA OFRECER ACTIVIDADES SEXUALES CON PERSONAS MENORES DE 18 AÑOS.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "url": "ley_0599_2000_pr008.html#219-A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "219-B",
+    "texto": "ARTÍCULO 219-B. OMISIÓN DE DENUNCIA.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "url": "ley_0599_2000_pr008.html#219-B"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "219-C",
+    "texto": "ARTÍCULO 219-C. INHABILIDADES POR DELITOS SEXUALES COMETIDOS CONTRA MENORES.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "url": "ley_0599_2000_pr008.html#219-C"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "Nivel040",
+    "texto": "TÍTULO V.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "descripcion": "DELITOS CONTRA LA INTEGRIDAD MORAL"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel041",
+    "texto": "CAPÍTULO ÚNICO.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "descripcion": "DE LA INJURIA Y LA CALUMNIA"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "220",
+    "texto": "ARTÍCULO 220. INJURIA.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "INJURIA",
+    "url": "ley_0599_2000_pr008.html#220"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "221",
+    "texto": "ARTÍCULO 221. CALUMNIA.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "CALUMNIA",
+    "url": "ley_0599_2000_pr008.html#221"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "222",
+    "texto": "ARTÍCULO 222. INJURIA Y CALUMNIA INDIRECTAS.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "INJURIA Y CALUMNIA INDIRECTAS",
+    "url": "ley_0599_2000_pr008.html#222"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "223",
+    "texto": "ARTÍCULO 223. CIRCUNSTANCIAS ESPECIALES DE GRADUACIÓN DE LA PENA.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "CIRCUNSTANCIAS ESPECIALES DE GRADUACIÓN DE LA PENA",
+    "url": "ley_0599_2000_pr008.html#223"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "224",
+    "texto": "ARTÍCULO 224. EXIMENTE DE RESPONSABILIDAD.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "EXIMENTE DE RESPONSABILIDAD",
+    "url": "ley_0599_2000_pr008.html#224"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "225",
+    "texto": "ARTÍCULO 225. RETRACTACIÓN.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "RETRACTACIÓN",
+    "url": "ley_0599_2000_pr008.html#225"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "226",
+    "texto": "ARTÍCULO 226. INJURIA POR VIAS DE HECHO.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "INJURIA POR VIAS DE HECHO",
+    "url": "ley_0599_2000_pr008.html#226"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "227",
+    "texto": "ARTÍCULO 227. INJURIAS O CALUMNIAS RECIPROCAS.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "INJURIAS O CALUMNIAS RECIPROCAS",
+    "url": "ley_0599_2000_pr008.html#227"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "228",
+    "texto": "ARTÍCULO 228. IMPUTACIONES DE LITIGANTES.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "IMPUTACIONES DE LITIGANTES",
+    "url": "ley_0599_2000_pr008.html#228"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "Nivel042",
+    "texto": "TÍTULO VI.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "descripcion": "DELITOS CONTRA LA FAMILIA"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel043",
+    "texto": "CAPÍTULO I.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "descripcion": "DE LA VIOLENCIA INTRAFAMILIAR"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "229",
+    "texto": "ARTÍCULO 229. VIOLENCIA INTRAFAMILIAR.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "VIOLENCIA INTRAFAMILIAR",
+    "url": "ley_0599_2000_pr008.html#229"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "229A",
+    "texto": "ARTÍCULO 229A. MALTRATO POR DESCUIDO, NEGLIGENCIA O ABANDONO EN PERSONA MAYOR DE 60 AÑOS.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "MALTRATO POR DESCUIDO, NEGLIGENCIA O ABANDONO EN PERSONA MAYOR DE 60 AÑOS",
+    "url": "ley_0599_2000_pr008.html#229A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "230",
+    "texto": "ARTÍCULO 230. MALTRATO MEDIANTE RESTRICCIÓN A LA LIBERTAD FISICA.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "MALTRATO MEDIANTE RESTRICCIÓN A LA LIBERTAD FISICA",
+    "url": "ley_0599_2000_pr008.html#230"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "230-A",
+    "texto": "ARTÍCULO 230-A. EJERCICIO ARBITRARIO DE LA CUSTODIA DE HIJO MENOR DE EDAD.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "url": "ley_0599_2000_pr008.html#230-A"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "CAPITULO II-6",
+    "texto": "CAPÍTULO II.",
+    "archivo": "ley_0599_2000_pr008.html"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "231",
+    "texto": "ARTÍCULO 231. MENDICIDAD Y TRAFICO DE MENORES.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "MENDICIDAD Y TRAFICO DE MENORES",
+    "url": "ley_0599_2000_pr008.html#231"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel045",
+    "texto": "CAPÍTULO III.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "descripcion": "DE LA ADOPCIÓN IRREGULAR"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "232",
+    "texto": "ARTÍCULO 232. ADOPCIÓN IRREGULAR.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "ADOPCIÓN IRREGULAR",
+    "url": "ley_0599_2000_pr008.html#232"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel046",
+    "texto": "CAPÍTULO IV.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "descripcion": "DE LOS DELITOS CONTRA LA ASISTENCIA ALIMENTARIA"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "233",
+    "texto": "ARTÍCULO 233. INASISTENCIA ALIMENTARIA.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "INASISTENCIA ALIMENTARIA",
+    "url": "ley_0599_2000_pr008.html#233"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "234",
+    "texto": "ARTÍCULO 234. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr008.html#234"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "235",
+    "texto": "ARTÍCULO 235. REITERACIÓN.",
+    "archivo": "ley_0599_2000_pr008.html",
+    "nombre": "REITERACIÓN",
+    "url": "ley_0599_2000_pr008.html#235"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "236",
+    "texto": "ARTÍCULO 236. MALVERSACIÓN Y DILAPIDACIÓN DE BIENES DE FAMILIARES.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "MALVERSACIÓN Y DILAPIDACIÓN DE BIENES DE FAMILIARES",
+    "url": "ley_0599_2000_pr009.html#236"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel047",
+    "texto": "CAPÍTULO V.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "descripcion": "DEL INCESTO"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "237",
+    "texto": "ARTÍCULO 237. INCESTO.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "INCESTO",
+    "url": "ley_0599_2000_pr009.html#237"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel048",
+    "texto": "CAPÍTULO VI.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "descripcion": "DE LA SUPRESIÓN, ALTERACIÓN O SUPOSICIÓN DEL ESTADO CIVIL"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "238",
+    "texto": "ARTÍCULO 238. SUPRESIÓN, ALTERACIÓN O SUPOSICIÓN DEL ESTADO CIVIL.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "SUPRESIÓN, ALTERACIÓN O SUPOSICIÓN DEL ESTADO CIVIL",
+    "url": "ley_0599_2000_pr009.html#238"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "Nivel049",
+    "texto": "TÍTULO VII.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "descripcion": "DELITOS CONTRA EL PATRIMONIO ECONOMICO"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel050",
+    "texto": "CAPÍTULO I.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "descripcion": "DEL HURTO"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "239",
+    "texto": "ARTÍCULO 239. HURTO.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "HURTO",
+    "url": "ley_0599_2000_pr009.html#239"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "240",
+    "texto": "ARTÍCULO 240. HURTO CALIFICADO.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "HURTO CALIFICADO",
+    "url": "ley_0599_2000_pr009.html#240"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "241",
+    "texto": "ARTÍCULO 241. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr009.html#241"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "242",
+    "texto": "ARTÍCULO 242. CIRCUNSTANCIAS DE ATENUACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "CIRCUNSTANCIAS DE ATENUACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr009.html#242"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel051",
+    "texto": "CAPÍTULO II.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "descripcion": "DE LA EXTORSIÓN"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "244",
+    "texto": "ARTÍCULO 244. EXTORSIÓN.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "EXTORSIÓN",
+    "url": "ley_0599_2000_pr009.html#244"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "245",
+    "texto": "ARTÍCULO 245. CIRCUNSTANCIAS DE AGRAVACIÓN.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN",
+    "url": "ley_0599_2000_pr009.html#245"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel052",
+    "texto": "CAPÍTULO III.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "descripcion": "DE LA ESTAFA"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "246",
+    "texto": "ARTÍCULO 246. ESTAFA.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "ESTAFA",
+    "url": "ley_0599_2000_pr009.html#246"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "247",
+    "texto": "ARTÍCULO 247. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr009.html#247"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel053",
+    "texto": "CAPÍTULO IV.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "descripcion": "FRAUDE MEDIANTE CHEQUE"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "248",
+    "texto": "ARTÍCULO 248. EMISIÓN Y TRANSFERENCIA ILEGAL DE CHEQUE.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "EMISIÓN Y TRANSFERENCIA ILEGAL DE CHEQUE",
+    "url": "ley_0599_2000_pr009.html#248"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel054",
+    "texto": "CAPÍTULO V.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "descripcion": "DEL ABUSO DE CONFIANZA"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "249",
+    "texto": "ARTÍCULO 249. ABUSO DE CONFIANZA.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "ABUSO DE CONFIANZA",
+    "url": "ley_0599_2000_pr009.html#249"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "250",
+    "texto": "ARTÍCULO 250. ABUSO DE CONFIANZA CALIFICADO.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "ABUSO DE CONFIANZA CALIFICADO",
+    "url": "ley_0599_2000_pr009.html#250"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "250A",
+    "texto": "ARTÍCULO 250-A. CORRUPCIÓN PRIVADA.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "url": "ley_0599_2000_pr009.html#250A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "250B",
+    "texto": "ARTÍCULO 250-B. ADMINISTRACIÓN DESLEAL.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "url": "ley_0599_2000_pr009.html#250B"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel055",
+    "texto": "CAPÍTULO VI.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "descripcion": "DE LAS DEFRAUDACIONES"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "251",
+    "texto": "ARTÍCULO 251. ABUSO DE CONDICIONES DE INFERIORIDAD.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "ABUSO DE CONDICIONES DE INFERIORIDAD",
+    "url": "ley_0599_2000_pr009.html#251"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "252",
+    "texto": "ARTÍCULO 252. APROVECHAMIENTO DE ERROR AJENO O CASO FORTUITO.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "APROVECHAMIENTO DE ERROR AJENO O CASO FORTUITO",
+    "url": "ley_0599_2000_pr009.html#252"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "253",
+    "texto": "ARTÍCULO 253. ALZAMIENTO DE BIENES.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "ALZAMIENTO DE BIENES",
+    "url": "ley_0599_2000_pr009.html#253"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "254",
+    "texto": "ARTÍCULO 254. SUSTRACCIÓN DE BIEN PROPIO.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "SUSTRACCIÓN DE BIEN PROPIO",
+    "url": "ley_0599_2000_pr009.html#254"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "255",
+    "texto": "ARTÍCULO 255. DISPOSICIÓN DE BIEN PROPIO GRAVADO CON PRENDA*.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "DISPOSICIÓN DE BIEN PROPIO GRAVADO CON PRENDA*",
+    "url": "ley_0599_2000_pr009.html#255"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "256",
+    "texto": "ARTÍCULO 256. DEFRAUDACIÓN DE FLUIDOS.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "DEFRAUDACIÓN DE FLUIDOS",
+    "url": "ley_0599_2000_pr009.html#256"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "257",
+    "texto": "ARTÍCULO 257. DE LA PRESTACIÓN, ACCESO O USO ILEGALES DE LOS SERVICIOS DE TELECOMUNICACIONES.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "DE LA PRESTACIÓN, ACCESO O USO ILEGALES DE LOS SERVICIOS DE TELECOMUNICACIONES",
+    "url": "ley_0599_2000_pr009.html#257"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "258",
+    "texto": "ARTÍCULO 258. UTILIZACIÓN INDEBIDA DE INFORMACIÓN PRIVILEGIADA.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "UTILIZACIÓN INDEBIDA DE INFORMACIÓN PRIVILEGIADA",
+    "url": "ley_0599_2000_pr009.html#258"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "259",
+    "texto": "ARTÍCULO 259. MALVERSACIÓN Y DILAPIDACIÓN DE BIENES.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "MALVERSACIÓN Y DILAPIDACIÓN DE BIENES",
+    "url": "ley_0599_2000_pr009.html#259"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "260",
+    "texto": "ARTÍCULO 260. GESTION INDEBIDA DE RECURSOS SOCIALES.",
+    "archivo": "ley_0599_2000_pr009.html",
+    "nombre": "GESTION INDEBIDA DE RECURSOS SOCIALES",
+    "url": "ley_0599_2000_pr009.html#260"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel056",
+    "texto": "CAPÍTULO VII.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "descripcion": "DE LA USURPACIÓN"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "261",
+    "texto": "ARTÍCULO 261. USURPACIÓN DE INMUEBLES.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "USURPACIÓN DE INMUEBLES",
+    "url": "ley_0599_2000_pr010.html#261"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "262",
+    "texto": "ARTÍCULO 262. USURPACIÓN DE AGUAS.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "USURPACIÓN DE AGUAS",
+    "url": "ley_0599_2000_pr010.html#262"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "263",
+    "texto": "ARTÍCULO 263. INVASIÓN DE TIERRAS.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "INVASIÓN DE TIERRAS",
+    "url": "ley_0599_2000_pr010.html#263"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "264",
+    "texto": "ARTÍCULO 264. PERTURBACIÓN DE LA POSESIÓN SOBRE INMUEBLE.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "PERTURBACIÓN DE LA POSESIÓN SOBRE INMUEBLE",
+    "url": "ley_0599_2000_pr010.html#264"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "264A",
+    "texto": "ARTÍCULO 264A. AVASALLAMIENTO DE BIEN INMUEBLE.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "AVASALLAMIENTO DE BIEN INMUEBLE",
+    "url": "ley_0599_2000_pr010.html#264A"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel057",
+    "texto": "CAPÍTULO VIII.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "descripcion": "DEL DAÑO"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "265",
+    "texto": "ARTÍCULO 265. DAÑO EN BIEN AJENO.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "DAÑO EN BIEN AJENO",
+    "url": "ley_0599_2000_pr010.html#265"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "266",
+    "texto": "ARTÍCULO 266. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr010.html#266"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel058",
+    "texto": "CAPÍTULO IX.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "descripcion": "DISPOSICIONES COMUNES A LOS CAPÍTULOS ANTERIORES"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "267",
+    "texto": "ARTÍCULO 267. CIRCUNSTANCIAS DE AGRAVACIÓN.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN",
+    "url": "ley_0599_2000_pr010.html#267"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "268",
+    "texto": "ARTÍCULO 268. CIRCUNSTANCIA DE ATENUACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "CIRCUNSTANCIA DE ATENUACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr010.html#268"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "269",
+    "texto": "ARTÍCULO 269. REPARACIÓN.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "REPARACIÓN",
+    "url": "ley_0599_2000_pr010.html#269"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "TÍTULO VII-A",
+    "texto": "TÍTULO VII-A.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "descripcion": "DE DELITOS CONTRA EL PATRIMONIO CULTURAL SUMERGIDO."
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "269-1",
+    "texto": "ARTÍCULO 269-1. DELITOS CONTRA EL PATRIMONIO CULTURAL SUMERGIDO.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "url": "ley_0599_2000_pr010.html#269-1"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "Título VII BIS",
+    "texto": "TÍTULO VII BIS.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "descripcion": "DE LA PROTECCIÓN DE LA INFORMACIÓN Y DE LOS DATOS."
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "CAPITULO I-7B",
+    "texto": "CAPÍTULO I.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "descripcion": "DE LOS ATENTADOS CONTRA LA CONFIDENCIALIDAD, LA INTEGRIDAD Y LA DISPONIBILIDAD DE LOS DATOS Y DE LOS SISTEMAS INFORMÁTICOS."
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "269A",
+    "texto": "ARTÍCULO 269A. ACCESO ABUSIVO A UN SISTEMA INFORMÁTICO.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "ACCESO ABUSIVO A UN SISTEMA INFORMÁTICO",
+    "url": "ley_0599_2000_pr010.html#269A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "269B",
+    "texto": "ARTÍCULO 269B. OBSTACULIZACIÓN ILEGÍTIMA DE SISTEMA INFORMÁTICO O RED DE TELECOMUNICACIÓN.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "OBSTACULIZACIÓN ILEGÍTIMA DE SISTEMA INFORMÁTICO O RED DE TELECOMUNICACIÓN",
+    "url": "ley_0599_2000_pr010.html#269B"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "269C",
+    "texto": "ARTÍCULO 269C. INTERCEPTACIÓN DE DATOS INFORMÁTICOS.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "INTERCEPTACIÓN DE DATOS INFORMÁTICOS",
+    "url": "ley_0599_2000_pr010.html#269C"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "269D",
+    "texto": "ARTÍCULO 269D. DAÑO INFORMÁTICO.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "DAÑO INFORMÁTICO",
+    "url": "ley_0599_2000_pr010.html#269D"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "269E",
+    "texto": "ARTÍCULO 269E. USO DE SOFTWARE MALICIOSO.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "USO DE SOFTWARE MALICIOSO",
+    "url": "ley_0599_2000_pr010.html#269E"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "269F",
+    "texto": "ARTÍCULO 269F. VIOLACIÓN DE DATOS PERSONALES.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "VIOLACIÓN DE DATOS PERSONALES",
+    "url": "ley_0599_2000_pr010.html#269F"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "269G",
+    "texto": "ARTÍCULO 269G. SUPLANTACIÓN DE SITIOS WEB PARA CAPTURAR DATOS PERSONALES.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "SUPLANTACIÓN DE SITIOS WEB PARA CAPTURAR DATOS PERSONALES",
+    "url": "ley_0599_2000_pr010.html#269G"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "269H",
+    "texto": "ARTÍCULO 269H. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr010.html#269H"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "CAPITULO II-7B",
+    "texto": "CAPÍTULO II.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "descripcion": "DE LOS ATENTADOS INFORMÁTICOS Y OTRAS INFRACCIONES."
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "269I",
+    "texto": "ARTÍCULO 269I. HURTO POR MEDIOS INFORMÁTICOS Y SEMEJANTES.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "HURTO POR MEDIOS INFORMÁTICOS Y SEMEJANTES",
+    "url": "ley_0599_2000_pr010.html#269I"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "269J",
+    "texto": "ARTÍCULO 269J. TRANSFERENCIA NO CONSENTIDA DE ACTIVOS.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "TRANSFERENCIA NO CONSENTIDA DE ACTIVOS",
+    "url": "ley_0599_2000_pr010.html#269J"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "Nivel059",
+    "texto": "TÍTULO VIII.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "descripcion": "DE LOS DELITOS CONTRA LOS DERECHOS DE AUTOR"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel060",
+    "texto": "CAPÍTULO ÚNICO",
+    "archivo": "ley_0599_2000_pr010.html"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "270",
+    "texto": "ARTÍCULO 270. VIOLACIÓN A LOS DERECHOS MORALES DE AUTOR.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "VIOLACIÓN A LOS DERECHOS MORALES DE AUTOR",
+    "url": "ley_0599_2000_pr010.html#270"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "271",
+    "texto": "ARTÍCULO 271. VIOLACIÓN A LOS DERECHOS PATRIMONIALES DE AUTOR Y DERECHOS CONEXOS.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "VIOLACIÓN A LOS DERECHOS PATRIMONIALES DE AUTOR Y DERECHOS CONEXOS",
+    "url": "ley_0599_2000_pr010.html#271"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "272",
+    "texto": "ARTÍCULO 272. VIOLACIÓN A LOS MECANISMOS DE PROTECCIÓN DE DERECHO DE AUTOR Y DERECHOS CONEXOS, Y OTRAS DEFRAUDACIONES.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "nombre": "VIOLACIÓN A LOS MECANISMOS DE PROTECCIÓN DE DERECHO DE AUTOR Y DERECHOS CONEXOS, Y OTRAS DEFRAUDACIONES",
+    "url": "ley_0599_2000_pr010.html#272"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "Nivel061",
+    "texto": "TÍTULO IX.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "descripcion": "DELITOS CONTRA LA FE PÚBLICA"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel062",
+    "texto": "CAPÍTULO I.",
+    "archivo": "ley_0599_2000_pr010.html",
+    "descripcion": "DE LA FALSIFICACIÓN DE MONEDA"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "273",
+    "texto": "ARTÍCULO 273. FALSIFICACIÓN DE MONEDA NACIONAL O EXTRANJERA.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "FALSIFICACIÓN DE MONEDA NACIONAL O EXTRANJERA",
+    "url": "ley_0599_2000_pr011.html#273"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "274",
+    "texto": "ARTÍCULO 274. TRAFICO DE MONEDA FALSIFICADA.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "TRAFICO DE MONEDA FALSIFICADA",
+    "url": "ley_0599_2000_pr011.html#274"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "275",
+    "texto": "ARTÍCULO 275. TRAFICO, ELABORACIÓN Y TENENCIA DE ELEMENTOS DESTINADOS A LA FALSIFICACIÓN DE MONEDA.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "TRAFICO, ELABORACIÓN Y TENENCIA DE ELEMENTOS DESTINADOS A LA FALSIFICACIÓN DE MONEDA",
+    "url": "ley_0599_2000_pr011.html#275"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "276",
+    "texto": "ARTÍCULO 276. EMISIONES ILEGALES.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "EMISIONES ILEGALES",
+    "url": "ley_0599_2000_pr011.html#276"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "277",
+    "texto": "ARTÍCULO 277. CIRCULACIÓN ILEGAL DE MONEDAS.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "CIRCULACIÓN ILEGAL DE MONEDAS",
+    "url": "ley_0599_2000_pr011.html#277"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "278",
+    "texto": "ARTÍCULO 278. VALORES EQUIPARADOS A MONEDA.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "VALORES EQUIPARADOS A MONEDA",
+    "url": "ley_0599_2000_pr011.html#278"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel063",
+    "texto": "CAPÍTULO II.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "descripcion": "DE LA FALSIFICACIÓN DE SELLOS, EFECTOS OFICIALES Y MARCAS"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "279",
+    "texto": "ARTÍCULO 279. FALSIFICACIÓN O USO FRAUDULENTO DE SELLO OFICIAL.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "FALSIFICACIÓN O USO FRAUDULENTO DE SELLO OFICIAL",
+    "url": "ley_0599_2000_pr011.html#279"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "280",
+    "texto": "ARTÍCULO 280. FALSIFICACIÓN DE EFECTO OFICIAL TIMBRADO.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "FALSIFICACIÓN DE EFECTO OFICIAL TIMBRADO",
+    "url": "ley_0599_2000_pr011.html#280"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "281",
+    "texto": "ARTÍCULO 281. CIRCULACIÓN Y USO DE EFECTO OFICIAL O SELLO FALSIFICADO.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "CIRCULACIÓN Y USO DE EFECTO OFICIAL O SELLO FALSIFICADO",
+    "url": "ley_0599_2000_pr011.html#281"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "282",
+    "texto": "ARTÍCULO 282. EMISIÓN ILEGAL DE EFECTOS OFICIALES.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "EMISIÓN ILEGAL DE EFECTOS OFICIALES",
+    "url": "ley_0599_2000_pr011.html#282"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "283",
+    "texto": "ARTÍCULO 283. SUPRESIÓN DE SIGNO DE ANULACIÓN DE EFECTO OFICIAL.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "SUPRESIÓN DE SIGNO DE ANULACIÓN DE EFECTO OFICIAL",
+    "url": "ley_0599_2000_pr011.html#283"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "284",
+    "texto": "ARTÍCULO 284. USO Y CIRCULACIÓN DE EFECTO OFICIAL ANULADO.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "USO Y CIRCULACIÓN DE EFECTO OFICIAL ANULADO",
+    "url": "ley_0599_2000_pr011.html#284"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "285",
+    "texto": "ARTÍCULO 285. FALSEDAD MARCARIA.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "FALSEDAD MARCARIA",
+    "url": "ley_0599_2000_pr011.html#285"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel064",
+    "texto": "CAPÍTULO III.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "descripcion": "DE LA FALSEDAD EN DOCUMENTOS"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "286",
+    "texto": "ARTÍCULO 286. FALSEDAD IDEOLOGICA EN DOCUMENTO PÚBLICO.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "FALSEDAD IDEOLOGICA EN DOCUMENTO PÚBLICO",
+    "url": "ley_0599_2000_pr011.html#286"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "287",
+    "texto": "ARTÍCULO 287. FALSEDAD MATERIAL EN DOCUMENTO PÚBLICO.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "FALSEDAD MATERIAL EN DOCUMENTO PÚBLICO",
+    "url": "ley_0599_2000_pr011.html#287"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "288",
+    "texto": "ARTÍCULO 288. OBTENCIÓN DE DOCUMENTO PÚBLICO FALSO.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "OBTENCIÓN DE DOCUMENTO PÚBLICO FALSO",
+    "url": "ley_0599_2000_pr011.html#288"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "289",
+    "texto": "ARTÍCULO 289. FALSEDAD EN DOCUMENTO PRIVADO.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "FALSEDAD EN DOCUMENTO PRIVADO",
+    "url": "ley_0599_2000_pr011.html#289"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "290",
+    "texto": "ARTÍCULO 290. CIRCUNSTANCIA DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "CIRCUNSTANCIA DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr011.html#290"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "291",
+    "texto": "ARTÍCULO 291. USO DE DOCUMENTO FALSO.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "USO DE DOCUMENTO FALSO",
+    "url": "ley_0599_2000_pr011.html#291"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "292",
+    "texto": "ARTÍCULO 292. DESTRUCCIÓN, SUPRESIÓN U OCULTAMIENTO DE DOCUMENTO PÚBLICO.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "DESTRUCCIÓN, SUPRESIÓN U OCULTAMIENTO DE DOCUMENTO PÚBLICO",
+    "url": "ley_0599_2000_pr011.html#292"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "293",
+    "texto": "ARTÍCULO 293. DESTRUCCIÓN, SUPRESIÓN Y OCULTAMIENTO DE DOCUMENTO PRIVADO.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "DESTRUCCIÓN, SUPRESIÓN Y OCULTAMIENTO DE DOCUMENTO PRIVADO",
+    "url": "ley_0599_2000_pr011.html#293"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "294",
+    "texto": "ARTÍCULO 294. DOCUMENTO.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "DOCUMENTO",
+    "url": "ley_0599_2000_pr011.html#294"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "295",
+    "texto": "ARTÍCULO 295. FALSEDAD PARA OBTENER PRUEBA DE HECHO VERDADERO.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "FALSEDAD PARA OBTENER PRUEBA DE HECHO VERDADERO",
+    "url": "ley_0599_2000_pr011.html#295"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "296",
+    "texto": "ARTÍCULO 296. FALSEDAD PERSONAL.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "FALSEDAD PERSONAL",
+    "url": "ley_0599_2000_pr011.html#296"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "Nivel065",
+    "texto": "TÍTULO X.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "descripcion": "DELITOS CONTRA EL ORDEN ECONOMICO SOCIAL"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel066",
+    "texto": "CAPÍTULO I.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "descripcion": "DEL ACAPARAMIENTO, LA ESPECULACIÓN Y OTRAS INFRACCIONES"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "297",
+    "texto": "ARTÍCULO 297. ACAPARAMIENTO.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "ACAPARAMIENTO",
+    "url": "ley_0599_2000_pr011.html#297"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "298",
+    "texto": "ARTÍCULO 298. ESPECULACIÓN.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "ESPECULACIÓN",
+    "url": "ley_0599_2000_pr011.html#298"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "298-A",
+    "texto": "ARTÍCULO 298-A. CIRCUNSTANCIA DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "url": "ley_0599_2000_pr011.html#298-A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "299",
+    "texto": "ARTÍCULO 299. ALTERACIÓN Y MODIFICACIÓN DE CALIDAD, CANTIDAD, PESO O MEDIDA.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "ALTERACIÓN Y MODIFICACIÓN DE CALIDAD, CANTIDAD, PESO O MEDIDA",
+    "url": "ley_0599_2000_pr011.html#299"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "300",
+    "texto": "ARTÍCULO 300. OFRECIMIENTO ENGAÑOSO DE PRODUCTOS Y SERVICIOS.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "OFRECIMIENTO ENGAÑOSO DE PRODUCTOS Y SERVICIOS",
+    "url": "ley_0599_2000_pr011.html#300"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "301",
+    "texto": "ARTÍCULO 301. AGIOTAJE.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "nombre": "AGIOTAJE",
+    "url": "ley_0599_2000_pr011.html#301"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "301-A",
+    "texto": "ARTÍCULO 301-A. CIRCUNSTANCIA DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr011.html",
+    "url": "ley_0599_2000_pr011.html#301-A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "302",
+    "texto": "ARTÍCULO 302. PANICO ECONOMICO.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "PANICO ECONOMICO",
+    "url": "ley_0599_2000_pr012.html#302"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "303",
+    "texto": "ARTÍCULO 303. ILICITA EXPLOTACIÓN COMERCIAL.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "ILICITA EXPLOTACIÓN COMERCIAL",
+    "url": "ley_0599_2000_pr012.html#303"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "304",
+    "texto": "ARTÍCULO 304. DAÑO EN MATERIA PRIMA, PRODUCTO AGROPECUARIO O INDUSTRIAL.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "DAÑO EN MATERIA PRIMA, PRODUCTO AGROPECUARIO O INDUSTRIAL",
+    "url": "ley_0599_2000_pr012.html#304"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "305",
+    "texto": "ARTÍCULO 305. USURA.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "USURA",
+    "url": "ley_0599_2000_pr012.html#305"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "306",
+    "texto": "ARTÍCULO 306. USURPACIÓN DE DERECHOS DE PROPIEDAD INDUSTRIAL Y DERECHOS DE OBTENTORES DE VARIEDADES VEGETALES.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "USURPACIÓN DE DERECHOS DE PROPIEDAD INDUSTRIAL Y DERECHOS DE OBTENTORES DE VARIEDADES VEGETALES",
+    "url": "ley_0599_2000_pr012.html#306"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "307",
+    "texto": "ARTÍCULO 307. USO ILEGITIMO DE PATENTES.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "USO ILEGITIMO DE PATENTES",
+    "url": "ley_0599_2000_pr012.html#307"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "308",
+    "texto": "ARTÍCULO 308. VIOLACIÓN DE RESERVA INDUSTRIAL O COMERCIAL.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "VIOLACIÓN DE RESERVA INDUSTRIAL O COMERCIAL",
+    "url": "ley_0599_2000_pr012.html#308"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "309",
+    "texto": "ARTÍCULO 309. SUSTRACCIÓN DE COSA PROPIA AL CUMPLIMIENTO DE DEBERES CONSTITUCIONALES O LEGALES.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "SUSTRACCIÓN DE COSA PROPIA AL CUMPLIMIENTO DE DEBERES CONSTITUCIONALES O LEGALES",
+    "url": "ley_0599_2000_pr012.html#309"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "310",
+    "texto": "ARTÍCULO 310. EXPORTACIÓN O IMPORTACIÓN FICTICIA.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "EXPORTACIÓN O IMPORTACIÓN FICTICIA",
+    "url": "ley_0599_2000_pr012.html#310"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "311",
+    "texto": "ARTÍCULO 311. APLICACIÓN FRAUDULENTA DE CREDITO OFICIALMENTE REGULADO.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "APLICACIÓN FRAUDULENTA DE CREDITO OFICIALMENTE REGULADO",
+    "url": "ley_0599_2000_pr012.html#311"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "312",
+    "texto": "ARTÍCULO 312. EJERCICIO ILÍCITO DE ACTIVIDAD MONOPOLÍSTICA DE ARBITRIO RENTÍSTICO.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "EJERCICIO ILÍCITO DE ACTIVIDAD MONOPOLÍSTICA DE ARBITRIO RENTÍSTICO",
+    "url": "ley_0599_2000_pr012.html#312"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "313",
+    "texto": "ARTÍCULO 313. EVASIÓN FISCAL.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "EVASIÓN FISCAL",
+    "url": "ley_0599_2000_pr012.html#313"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel067",
+    "texto": "CAPÍTULO II.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "descripcion": "DE LOS DELITOS CONTRA EL SISTEMA FINANCIERO"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "314",
+    "texto": "ARTÍCULO 314. UTILIZACIÓN INDEBIDA DE FONDOS CAPTADOS DEL PÚBLICO.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "UTILIZACIÓN INDEBIDA DE FONDOS CAPTADOS DEL PÚBLICO",
+    "url": "ley_0599_2000_pr012.html#314"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "315",
+    "texto": "ARTÍCULO 315. OPERACIONES NO AUTORIZADAS CON ACCIONISTAS O ASOCIADOS.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "OPERACIONES NO AUTORIZADAS CON ACCIONISTAS O ASOCIADOS",
+    "url": "ley_0599_2000_pr012.html#315"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "316",
+    "texto": "ARTÍCULO 316. CAPTACIÓN MASIVA Y HABITUAL DE DINEROS.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "CAPTACIÓN MASIVA Y HABITUAL DE DINEROS",
+    "url": "ley_0599_2000_pr012.html#316"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "316-A",
+    "texto": "ARTÍCULO 316-A.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "url": "ley_0599_2000_pr012.html#316-A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "317",
+    "texto": "ARTÍCULO 317. MANIPULACIÓN FRAUDULENTA DE ESPECIES INSCRITAS EN EL REGISTRO NACIONAL DE VALORES E INTERMEDIARIOS.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "MANIPULACIÓN FRAUDULENTA DE ESPECIES INSCRITAS EN EL REGISTRO NACIONAL DE VALORES E INTERMEDIARIOS",
+    "url": "ley_0599_2000_pr012.html#317"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel068",
+    "texto": "CAPÍTULO III.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "descripcion": "DE LA URBANIZACIÓN ILEGAL"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "318",
+    "texto": "ARTÍCULO 318. URBANIZACIÓN ILEGAL.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "URBANIZACIÓN ILEGAL",
+    "url": "ley_0599_2000_pr012.html#318"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel069",
+    "texto": "CAPÍTULO IV.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "descripcion": "DEL CONTRABANDO"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "319",
+    "texto": "ARTÍCULO 319. CONTRABANDO.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "CONTRABANDO",
+    "url": "ley_0599_2000_pr012.html#319"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "319-1",
+    "texto": "ARTÍCULO 319-1. CONTRABANDO DE HIDROCARBUROS Y SUS DERIVADOS.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "url": "ley_0599_2000_pr012.html#319-1"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "319-2",
+    "texto": "ARTÍCULO 319-2. CONTRABANDO DE MEDICAMENTO, DISPOSITIVO, SUMINISTRO O INSUMO MÉDICO.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "url": "ley_0599_2000_pr012.html#319-2"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "320",
+    "texto": "ARTÍCULO 320. FAVORECIMIENTO Y FACILITACIÓN DEL CONTRABANDO.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "FAVORECIMIENTO Y FACILITACIÓN DEL CONTRABANDO",
+    "url": "ley_0599_2000_pr012.html#320"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "320-1",
+    "texto": "ARTÍCULO 320-1. FAVORECIMIENTO DE CONTRABANDO DE HIDROCARBUROS O SUS DERIVADOS.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "url": "ley_0599_2000_pr012.html#320-1"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "321",
+    "texto": "ARTÍCULO 321. FRAUDE ADUANERO.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "FRAUDE ADUANERO",
+    "url": "ley_0599_2000_pr012.html#321"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "322",
+    "texto": "ARTÍCULO 322. FAVORECIMIENTO POR SERVIDOR PÚBLICO.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "FAVORECIMIENTO POR SERVIDOR PÚBLICO",
+    "url": "ley_0599_2000_pr012.html#322"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "322-1",
+    "texto": "ARTÍCULO 322-1. FAVORECIMIENTO POR SERVIDOR PÚBLICO DE CONTRABANDO DE HIDROCARBUROS O SUS DERIVADOS.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "url": "ley_0599_2000_pr012.html#322-1"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel070",
+    "texto": "CAPÍTULO V.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "descripcion": "DEL LAVADO DE ACTIVOS"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "323",
+    "texto": "ARTÍCULO 323. LAVADO DE ACTIVOS.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "LAVADO DE ACTIVOS",
+    "url": "ley_0599_2000_pr012.html#323"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "324",
+    "texto": "ARTÍCULO 324. CIRCUNSTANCIAS ESPECIFICAS DE AGRAVACIÓN.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "CIRCUNSTANCIAS ESPECIFICAS DE AGRAVACIÓN",
+    "url": "ley_0599_2000_pr012.html#324"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "325",
+    "texto": "ARTÍCULO 325. OMISIÓN DE CONTROL.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "nombre": "OMISIÓN DE CONTROL",
+    "url": "ley_0599_2000_pr012.html#325"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "325-A",
+    "texto": "ARTÍCULO 325-A. OMISIÓN DE REPORTES SOBRE TRANSACCIONES EN EFECTIVO, MOVILIZACIÓN O ALMACENAMIENTO DE DINERO EN EFECTIVO.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "url": "ley_0599_2000_pr012.html#325-A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "325B",
+    "texto": "ARTÍCULO 325-B. OMISIÓN DE CONTROL EN EL SECTOR DE LA SALUD.",
+    "archivo": "ley_0599_2000_pr012.html",
+    "url": "ley_0599_2000_pr012.html#325B"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "326",
+    "texto": "ARTÍCULO 326. TESTAFERRATO.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "nombre": "TESTAFERRATO",
+    "url": "ley_0599_2000_pr013.html#326"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "327",
+    "texto": "ARTÍCULO 327. ENRIQUECIMIENTO ILICITO DE PARTICULARES.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "nombre": "ENRIQUECIMIENTO ILICITO DE PARTICULARES",
+    "url": "ley_0599_2000_pr013.html#327"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "CAPITULO VI-X",
+    "texto": "CAPÍTULO VI.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "descripcion": "DEL APODERAMIENTO DE LOS HIDROCARBUROS, SUS DERIVADOS, BIOCOMBUSTIBLES O MEZCLAS QUE LOS CONTENGAN Y OTRAS DISPOSICIONES."
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "327-A",
+    "texto": "ARTÍCULO 327-A. APODERAMIENTO DE HIDROCARBUROS, SUS DERIVADOS, BIOCOMBUSTIBLES O MEZCLAS QUE LOS CONTENGAN.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "url": "ley_0599_2000_pr013.html#327-A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "327-B",
+    "texto": "ARTÍCULO 327-B. APODERAMIENTO O ALTERACIÓN DE SISTEMAS DE IDENTIFICACIÓN.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "url": "ley_0599_2000_pr013.html#327-B"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "327-C",
+    "texto": "ARTÍCULO 327-C. RECEPTACIÓN.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "url": "ley_0599_2000_pr013.html#327-C"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "327-D",
+    "texto": "ARTÍCULO 327-D. DESTINACIÓN ILEGAL DE COMBUSTIBLES.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "url": "ley_0599_2000_pr013.html#327-D"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "327-E",
+    "texto": "ARTÍCULO 327-E. CIRCUNSTANCIA GENÉRICA DE AGRAVACIÓN.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "url": "ley_0599_2000_pr013.html#327-E"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "TÍTULO XI",
+    "texto": "TÍTULO XI.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "descripcion": "DE LOS DELITOS CONTRA LOS RECURSOS NATURALES Y EL MEDIO AMBIENTE."
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "CAPÍTULO I-XI",
+    "texto": "CAPÍTULO I.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "descripcion": "DE LOS DELITOS CONTRA LOS RECURSOS NATURALES."
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "332A",
+    "texto": "ARTÍCULO 332A. CONTAMINACIÓN AMBIENTAL POR RESIDUOS SÓLIDOS PELIGROSOS.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "nombre": "CONTAMINACIÓN AMBIENTAL POR RESIDUOS SÓLIDOS PELIGROSOS",
+    "url": "ley_0599_2000_pr013.html#332A"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "CAPÍTULO II-XI",
+    "texto": "CAPÍTULO II.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "descripcion": "DE LOS DAÑOS EN LOS RECURSOS NATURALES."
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "CAPÍTULO III-XI",
+    "texto": "CAPÍTULO III.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "descripcion": "DE LA CONTAMINACIÓN AMBIENTAL."
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "CAPÍTULO IV-XI",
+    "texto": "CAPÍTULO IV.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "descripcion": "DE LA INVASIÓN DE ÁREAS DE ESPECIAL IMPORTANCIA ECOLÓGICA."
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "CAPÍTULO V-XI",
+    "texto": "CAPÍTULO V.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "descripcion": "DE LA APROPIACIÓN ILEGAL DE BALDÍOS DE LA NACIÓN."
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "CAPÍTULO VI",
+    "texto": "CAPÍTULO VI.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "descripcion": "DISPOSICIONES COMUNES."
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "339",
+    "texto": "ARTÍCULO 339. MODALIDAD CULPOSA.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "nombre": "MODALIDAD CULPOSA",
+    "url": "ley_0599_2000_pr013.html#339"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "TÍTULO XI-A",
+    "texto": "TÍTULO XI-A.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "descripcion": "DE LOS DELITOS CONTRA LOS ANIMALES."
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "CAPÍTULO ÚNICO-XI-A",
+    "texto": "CAPÍTULO ÚNICO.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "descripcion": "DELITOS CONTRA LA VIDA, LA INTEGRIDAD FÍSICA Y EMOCIONAL DE LOS ANIMALES."
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "339A",
+    "texto": "ARTÍCULO 339A. <DELITOS CONTRA LA VIDA, LA INTEGRIDAD FÍSICA Y EMOCIONAL DE LOS ANIMALES>.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "nombre": "<DELITOS CONTRA LA VIDA, LA INTEGRIDAD FÍSICA Y EMOCIONAL DE LOS ANIMALES>",
+    "url": "ley_0599_2000_pr013.html#339A"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "Nivel073",
+    "texto": "TÍTULO XII.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "descripcion": "DELITOS CONTRA LA SEGURIDAD PÚBLICA"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel074",
+    "texto": "CAPÍTULO I.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "descripcion": "DEL CONCIERTO, EL TERRORISMO, LAS AMENAZAS Y LA INSTIGACIÓN"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "340",
+    "texto": "ARTÍCULO 340. CONCIERTO PARA DELINQUIR.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "nombre": "CONCIERTO PARA DELINQUIR",
+    "url": "ley_0599_2000_pr013.html#340"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "341",
+    "texto": "ARTÍCULO 341. ENTRENAMIENTO PARA ACTIVIDADES ILICITAS.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "nombre": "ENTRENAMIENTO PARA ACTIVIDADES ILICITAS",
+    "url": "ley_0599_2000_pr013.html#341"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "342",
+    "texto": "ARTÍCULO 342. CIRCUNSTANCIA DE AGRAVACIÓN.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "nombre": "CIRCUNSTANCIA DE AGRAVACIÓN",
+    "url": "ley_0599_2000_pr013.html#342"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "343",
+    "texto": "ARTÍCULO 343. TERRORISMO.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "nombre": "TERRORISMO",
+    "url": "ley_0599_2000_pr013.html#343"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "344",
+    "texto": "ARTÍCULO 344. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr013.html#344"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "345",
+    "texto": "ARTÍCULO 345. FINANCIACIÓN DEL TERRORISMO Y DE GRUPOS DE DELINCUENCIA ORGANIZADA Y ADMINISTRACIÓN DE RECURSOS RELACIONADOS CON ACTIVIDADES TERRORISTAS Y DE LA DELINCUENCIA ORGANIZADA.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "nombre": "FINANCIACIÓN DEL TERRORISMO Y DE GRUPOS DE DELINCUENCIA ORGANIZADA Y ADMINISTRACIÓN DE RECURSOS RELACIONADOS CON ACTIVIDADES TERRORISTAS Y DE LA DELINCUENCIA ORGANIZADA",
+    "url": "ley_0599_2000_pr013.html#345"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "346",
+    "texto": "ARTÍCULO 346. UTILIZACIÓN ILEGAL DE UNIFORMES E INSIGNIAS.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "nombre": "UTILIZACIÓN ILEGAL DE UNIFORMES E INSIGNIAS",
+    "url": "ley_0599_2000_pr013.html#346"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "347",
+    "texto": "ARTÍCULO 347. AMENAZAS.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "nombre": "AMENAZAS",
+    "url": "ley_0599_2000_pr013.html#347"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "348",
+    "texto": "ARTÍCULO 348. INSTIGACIÓN A DELINQUIR.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "nombre": "INSTIGACIÓN A DELINQUIR",
+    "url": "ley_0599_2000_pr013.html#348"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "349",
+    "texto": "ARTÍCULO 349. INCITACIÓN A LA COMISIÓN DE DELITOS MILITARES.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "nombre": "INCITACIÓN A LA COMISIÓN DE DELITOS MILITARES",
+    "url": "ley_0599_2000_pr013.html#349"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel075",
+    "texto": "CAPÍTULO II.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "descripcion": "DE LOS DELITOS DE PELIGRO COMUN O QUE PUEDEN OCASIONAR GRAVE PERJUICIO PARA LA COMUNIDAD Y OTRAS INFRACCIONES"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "350",
+    "texto": "ARTÍCULO 350. INCENDIO.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "nombre": "INCENDIO",
+    "url": "ley_0599_2000_pr013.html#350"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "351",
+    "texto": "ARTÍCULO 351. DAÑO EN OBRAS DE UTILIDAD SOCIAL.",
+    "archivo": "ley_0599_2000_pr013.html",
+    "nombre": "DAÑO EN OBRAS DE UTILIDAD SOCIAL",
+    "url": "ley_0599_2000_pr013.html#351"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "352",
+    "texto": "ARTÍCULO 352. PROVOCACIÓN DE INUNDACIÓN O DERRUMBE.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "PROVOCACIÓN DE INUNDACIÓN O DERRUMBE",
+    "url": "ley_0599_2000_pr014.html#352"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "353",
+    "texto": "ARTÍCULO 353. PERTURBACIÓN EN SERVICIO DE TRANSPORTE PÚBLICO, COLECTIVO U OFICIAL.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "PERTURBACIÓN EN SERVICIO DE TRANSPORTE PÚBLICO, COLECTIVO U OFICIAL",
+    "url": "ley_0599_2000_pr014.html#353"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "353A",
+    "texto": "ARTÍCULO 353A. OBSTRUCCIÓN A VÍAS PÚBLICAS QUE AFECTEN EL ORDEN PÚBLICO.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "OBSTRUCCIÓN A VÍAS PÚBLICAS QUE AFECTEN EL ORDEN PÚBLICO",
+    "url": "ley_0599_2000_pr014.html#353A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "353B",
+    "texto": "ARTÍCULO 353B. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr014.html#353B"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "354",
+    "texto": "ARTÍCULO 354. SINIESTRO O DAÑO DE NAVE.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "SINIESTRO O DAÑO DE NAVE",
+    "url": "ley_0599_2000_pr014.html#354"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "355",
+    "texto": "ARTÍCULO 355. PANICO.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "PANICO",
+    "url": "ley_0599_2000_pr014.html#355"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "356",
+    "texto": "ARTÍCULO 356. DISPARO DE ARMA DE FUEGO CONTRA VEHÍCULO.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "DISPARO DE ARMA DE FUEGO CONTRA VEHÍCULO",
+    "url": "ley_0599_2000_pr014.html#356"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "357",
+    "texto": "ARTÍCULO 357. DAÑO EN OBRAS O ELEMENTOS DE LOS SERVICIOS DE COMUNICACIONES, ENERGIA Y COMBUSTIBLES.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "DAÑO EN OBRAS O ELEMENTOS DE LOS SERVICIOS DE COMUNICACIONES, ENERGIA Y COMBUSTIBLES",
+    "url": "ley_0599_2000_pr014.html#357"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "358",
+    "texto": "ARTÍCULO 358. TENENCIA, FABRICACIÓN Y TRÁFICO DE SUSTANCIAS U OBJETOS PELIGROSOS.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "TENENCIA, FABRICACIÓN Y TRÁFICO DE SUSTANCIAS U OBJETOS PELIGROSOS",
+    "url": "ley_0599_2000_pr014.html#358"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "359",
+    "texto": "ARTÍCULO 359. EMPLEO O LANZAMIENTO DE SUSTANCIAS U OBJETOS PELIGROSOS.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "EMPLEO O LANZAMIENTO DE SUSTANCIAS U OBJETOS PELIGROSOS",
+    "url": "ley_0599_2000_pr014.html#359"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "360",
+    "texto": "ARTÍCULO 360. MODALIDAD CULPOSA.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "MODALIDAD CULPOSA",
+    "url": "ley_0599_2000_pr014.html#360"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "361",
+    "texto": "ARTÍCULO 361. INTRODUCCIÓN DE RESIDUOS NUCLEARES Y DE DESECHOS TOXICOS.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "INTRODUCCIÓN DE RESIDUOS NUCLEARES Y DE DESECHOS TOXICOS",
+    "url": "ley_0599_2000_pr014.html#361"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "362",
+    "texto": "ARTÍCULO 362. PERTURBACIÓN DE INSTALACIÓN NUCLEAR O RADIACTIVA.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "PERTURBACIÓN DE INSTALACIÓN NUCLEAR O RADIACTIVA",
+    "url": "ley_0599_2000_pr014.html#362"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "363",
+    "texto": "ARTÍCULO 363. TRAFICO, TRANSPORTE Y POSESIÓN DE MATERIALES RADIACTIVOS O SUSTANCIAS NUCLEARES.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "TRAFICO, TRANSPORTE Y POSESIÓN DE MATERIALES RADIACTIVOS O SUSTANCIAS NUCLEARES",
+    "url": "ley_0599_2000_pr014.html#363"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "364",
+    "texto": "ARTÍCULO 364. OBSTRUCCIÓN DE OBRAS DE DEFENSA O DE ASISTENCIA.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "OBSTRUCCIÓN DE OBRAS DE DEFENSA O DE ASISTENCIA",
+    "url": "ley_0599_2000_pr014.html#364"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "365",
+    "texto": "ARTÍCULO 365. FABRICACIÓN, TRÁFICO Y PORTE DE ARMAS DE FUEGO O MUNICIONES.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "FABRICACIÓN, TRÁFICO Y PORTE DE ARMAS DE FUEGO O MUNICIONES",
+    "url": "ley_0599_2000_pr014.html#365"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "366",
+    "texto": "ARTÍCULO 366. FABRICACIÓN, TRÁFICO Y PORTE DE ARMAS, MUNICIONES DE USO RESTRINGIDO, DE USO PRIVATIVO DE LAS FUERZAS ARMADAS O EXPLOSIVOS.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "FABRICACIÓN, TRÁFICO Y PORTE DE ARMAS, MUNICIONES DE USO RESTRINGIDO, DE USO PRIVATIVO DE LAS FUERZAS ARMADAS O EXPLOSIVOS",
+    "url": "ley_0599_2000_pr014.html#366"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "367",
+    "texto": "ARTÍCULO 367. FABRICACIÓN, IMPORTACIÓN, TRAFICO, POSESIÓN Y USO DE ARMAS QUIMICAS, BIOLOGICAS Y NUCLEARES.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "FABRICACIÓN, IMPORTACIÓN, TRAFICO, POSESIÓN Y USO DE ARMAS QUIMICAS, BIOLOGICAS Y NUCLEARES",
+    "url": "ley_0599_2000_pr014.html#367"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "367A",
+    "texto": "ARTÍCULO 367A. EMPLEO, PRODUCCIÓN, COMERCIALIZACIÓN Y ALMACENAMIENTO DE MINAS ANTIPERSONAL.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "EMPLEO, PRODUCCIÓN, COMERCIALIZACIÓN Y ALMACENAMIENTO DE MINAS ANTIPERSONAL",
+    "url": "ley_0599_2000_pr014.html#367A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "367B",
+    "texto": "ARTÍCULO 367-B.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "url": "ley_0599_2000_pr014.html#367B"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "367C",
+    "texto": "ARTÍCULO 367C. PORTE DE ARMA BLANCA.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "PORTE DE ARMA BLANCA",
+    "url": "ley_0599_2000_pr014.html#367C"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "Nivel076",
+    "texto": "TÍTULO XIII.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "descripcion": "DE LOS DELITOS CONTRA LA SALUD PÚBLICA"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel077",
+    "texto": "CAPÍTULO I.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "descripcion": "DE LAS AFECTACIONES A LA SALUD PÚBLICA"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "368",
+    "texto": "ARTÍCULO 368. VIOLACIÓN DE MEDIDAS SANITARIAS.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "VIOLACIÓN DE MEDIDAS SANITARIAS",
+    "url": "ley_0599_2000_pr014.html#368"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "369",
+    "texto": "ARTÍCULO 369. PROPAGACIÓN DE EPIDEMIA.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "PROPAGACIÓN DE EPIDEMIA",
+    "url": "ley_0599_2000_pr014.html#369"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "370",
+    "texto": "ARTÍCULO 370. PROPAGACIÓN DEL VIRUS DE INMUNODEFICIENCIA HUMANA O DE LA HEPATITIS B.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "PROPAGACIÓN DEL VIRUS DE INMUNODEFICIENCIA HUMANA O DE LA HEPATITIS B",
+    "url": "ley_0599_2000_pr014.html#370"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "371",
+    "texto": "ARTÍCULO 371. CONTAMINACIÓN DE AGUAS.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "CONTAMINACIÓN DE AGUAS",
+    "url": "ley_0599_2000_pr014.html#371"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "372",
+    "texto": "ARTÍCULO 372. CORRUPCIÓN DE ALIMENTOS, PRODUCTOS MEDICOS O MATERIAL PROFILACTICO.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "CORRUPCIÓN DE ALIMENTOS, PRODUCTOS MEDICOS O MATERIAL PROFILACTICO",
+    "url": "ley_0599_2000_pr014.html#372"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "373",
+    "texto": "ARTÍCULO 373. IMITACIÓN O SIMULACIÓN DE ALIMENTOS, PRODUCTOS O SUSTANCIAS.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "IMITACIÓN O SIMULACIÓN DE ALIMENTOS, PRODUCTOS O SUSTANCIAS",
+    "url": "ley_0599_2000_pr014.html#373"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "374",
+    "texto": "ARTÍCULO 374. FABRICACIÓN Y COMERCIALIZACIÓN DE SUSTANCIAS NOCIVAS PARA LA SALUD.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "FABRICACIÓN Y COMERCIALIZACIÓN DE SUSTANCIAS NOCIVAS PARA LA SALUD",
+    "url": "ley_0599_2000_pr014.html#374"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "374A",
+    "texto": "ARTÍCULO 374A. ENAJENACIÓN ILEGAL DE MEDICAMENTOS.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "ENAJENACIÓN ILEGAL DE MEDICAMENTOS",
+    "url": "ley_0599_2000_pr014.html#374A"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel078",
+    "texto": "CAPÍTULO II.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "descripcion": "DEL TRAFICO DE ESTUPEFACIENTES Y OTRAS INFRACCIONES"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "375",
+    "texto": "ARTÍCULO 375. CONSERVACIÓN O FINANCIACIÓN DE PLANTACIONES.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "CONSERVACIÓN O FINANCIACIÓN DE PLANTACIONES",
+    "url": "ley_0599_2000_pr014.html#375"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "376",
+    "texto": "ARTÍCULO 376. TRAFICO, FABRICACIÓN O PORTE DE ESTUPEFACIENTES.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "TRAFICO, FABRICACIÓN O PORTE DE ESTUPEFACIENTES",
+    "url": "ley_0599_2000_pr014.html#376"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "377",
+    "texto": "ARTÍCULO 377. DESTINACIÓN ILICITA DE MUEBLES O INMUEBLES.",
+    "archivo": "ley_0599_2000_pr014.html",
+    "nombre": "DESTINACIÓN ILICITA DE MUEBLES O INMUEBLES",
+    "url": "ley_0599_2000_pr014.html#377"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "377A",
+    "texto": "ARTÍCULO 377A. USO, CONSTRUCCIÓN, COMERCIALIZACIÓN Y/O TENENCIA DE SEMISUMERGIBLES O SUMERGIBLES.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "USO, CONSTRUCCIÓN, COMERCIALIZACIÓN Y/O TENENCIA DE SEMISUMERGIBLES O SUMERGIBLES",
+    "url": "ley_0599_2000_pr015.html#377A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "377B",
+    "texto": "ARTÍCULO 377B. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr015.html#377B"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "378",
+    "texto": "ARTÍCULO 378. ESTIMULO AL USO ILICITO.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "ESTIMULO AL USO ILICITO",
+    "url": "ley_0599_2000_pr015.html#378"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "379",
+    "texto": "ARTÍCULO 379. SUMINISTRO O FORMULACIÓN ILEGAL.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "SUMINISTRO O FORMULACIÓN ILEGAL",
+    "url": "ley_0599_2000_pr015.html#379"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "380",
+    "texto": "ARTÍCULO 380. SUMINISTRO O FORMULACIÓN ILEGAL A DEPORTISTAS.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "SUMINISTRO O FORMULACIÓN ILEGAL A DEPORTISTAS",
+    "url": "ley_0599_2000_pr015.html#380"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "381",
+    "texto": "ARTÍCULO 381. SUMINISTRO A MENOR.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "SUMINISTRO A MENOR",
+    "url": "ley_0599_2000_pr015.html#381"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "382",
+    "texto": "ARTÍCULO 382.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "url": "ley_0599_2000_pr015.html#382"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "383",
+    "texto": "ARTÍCULO 383. PORTE DE SUSTANCIAS.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "PORTE DE SUSTANCIAS",
+    "url": "ley_0599_2000_pr015.html#383"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "384",
+    "texto": "ARTÍCULO 384. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr015.html#384"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "385",
+    "texto": "ARTÍCULO 385. EXISTENCIA, CONSTRUCCIÓN Y UTILIZACIÓN ILEGAL DE PISTAS DE ATERRIZAJE.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "EXISTENCIA, CONSTRUCCIÓN Y UTILIZACIÓN ILEGAL DE PISTAS DE ATERRIZAJE",
+    "url": "ley_0599_2000_pr015.html#385"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "Nivel079",
+    "texto": "TÍTULO XIV.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "descripcion": "DELITOS CONTRA MECANISMOS DE PARTICIPACIÓN DEMOCRATICA"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel080",
+    "texto": "CAPÍTULO ÚNICO.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "descripcion": "DE LA VIOLACIÓN AL EJERCICIO DE MECANISMOS DE PARTICIPACIÓN DEMOCRATICA"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "386",
+    "texto": "ARTÍCULO 386. PERTURBACIÓN DE CERTAMEN DEMOCRATICO.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "PERTURBACIÓN DE CERTAMEN DEMOCRATICO",
+    "url": "ley_0599_2000_pr015.html#386"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "387",
+    "texto": "ARTÍCULO 387. CONSTREÑIMIENTO AL SUFRAGANTE.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "CONSTREÑIMIENTO AL SUFRAGANTE",
+    "url": "ley_0599_2000_pr015.html#387"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "388",
+    "texto": "ARTÍCULO 388. FRAUDE AL SUFRAGANTE.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "FRAUDE AL SUFRAGANTE",
+    "url": "ley_0599_2000_pr015.html#388"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "389",
+    "texto": "ARTÍCULO 389. FRAUDE EN INSCRIPCIÓN DE CEDULAS.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "FRAUDE EN INSCRIPCIÓN DE CEDULAS",
+    "url": "ley_0599_2000_pr015.html#389"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "389A",
+    "texto": "ARTÍCULO 389A. ELECCIÓN ILÍCITA DE CANDIDATOS.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "ELECCIÓN ILÍCITA DE CANDIDATOS",
+    "url": "ley_0599_2000_pr015.html#389A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "390",
+    "texto": "ARTÍCULO 390. CORRUPCIÓN DE SUFRAGANTE.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "CORRUPCIÓN DE SUFRAGANTE",
+    "url": "ley_0599_2000_pr015.html#390"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "390A",
+    "texto": "ARTÍCULO 390A. TRÁFICO DE VOTOS",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "TRÁFICO DE VOTOS",
+    "url": "ley_0599_2000_pr015.html#390A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "391",
+    "texto": "ARTÍCULO 391. VOTO FRAUDULENTO.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "VOTO FRAUDULENTO",
+    "url": "ley_0599_2000_pr015.html#391"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "392",
+    "texto": "ARTÍCULO 392. FAVORECIMIENTO DE VOTO FRAUDULENTO.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "FAVORECIMIENTO DE VOTO FRAUDULENTO",
+    "url": "ley_0599_2000_pr015.html#392"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "393",
+    "texto": "ARTÍCULO 393. MORA EN LA ENTREGA DE DOCUMENTOS RELACIONADOS CON UNA VOTACIÓN.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "MORA EN LA ENTREGA DE DOCUMENTOS RELACIONADOS CON UNA VOTACIÓN",
+    "url": "ley_0599_2000_pr015.html#393"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "394",
+    "texto": "ARTÍCULO 394. ALTERACIÓN DE RESULTADOS ELECTORALES.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "ALTERACIÓN DE RESULTADOS ELECTORALES",
+    "url": "ley_0599_2000_pr015.html#394"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "395",
+    "texto": "ARTÍCULO 395. OCULTAMIENTO, RETENCIÓN Y POSESIÓN ILICITA DE CEDULA.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "OCULTAMIENTO, RETENCIÓN Y POSESIÓN ILICITA DE CEDULA",
+    "url": "ley_0599_2000_pr015.html#395"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "396",
+    "texto": "ARTÍCULO 396. DENEGACIÓN DE INSCRIPCIÓN.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "DENEGACIÓN DE INSCRIPCIÓN",
+    "url": "ley_0599_2000_pr015.html#396"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "396A",
+    "texto": "ARTÍCULO 396A. FINANCIACIÓN DE CAMPAÑAS ELECTORALES CON FUENTES PROHIBIDAS.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "FINANCIACIÓN DE CAMPAÑAS ELECTORALES CON FUENTES PROHIBIDAS",
+    "url": "ley_0599_2000_pr015.html#396A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "396B",
+    "texto": "ARTÍCULO 396B. VIOLACIÓN DE LOS TOPES O LÍMITES DE GASTOS EN LAS CAMPAÑAS ELECTORALES.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "VIOLACIÓN DE LOS TOPES O LÍMITES DE GASTOS EN LAS CAMPAÑAS ELECTORALES",
+    "url": "ley_0599_2000_pr015.html#396B"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "396C",
+    "texto": "ARTÍCULO 396C. OMISIÓN DE INFORMACIÓN DEL APORTANTE.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "OMISIÓN DE INFORMACIÓN DEL APORTANTE",
+    "url": "ley_0599_2000_pr015.html#396C"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "Nivel081",
+    "texto": "TÍTULO XV.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "descripcion": "DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel082",
+    "texto": "CAPÍTULO I.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "descripcion": "DEL PECULADO"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "397",
+    "texto": "ARTÍCULO 397. PECULADO POR APROPIACIÓN.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "PECULADO POR APROPIACIÓN",
+    "url": "ley_0599_2000_pr015.html#397"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "398",
+    "texto": "ARTÍCULO 398. PECULADO POR USO.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "PECULADO POR USO",
+    "url": "ley_0599_2000_pr015.html#398"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "399",
+    "texto": "ARTÍCULO 399. PECULADO POR APLICACIÓN OFICIAL DIFERENTE.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "PECULADO POR APLICACIÓN OFICIAL DIFERENTE",
+    "url": "ley_0599_2000_pr015.html#399"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "399-A",
+    "texto": "ARTÍCULO 399-A. PECULADO POR APLICACIÓN OFICIAL DIFERENTE FRENTE A RECURSOS DE LA SEGURIDAD SOCIAL.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "url": "ley_0599_2000_pr015.html#399-A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "400",
+    "texto": "ARTÍCULO 400. PECULADO CULPOSO.",
+    "archivo": "ley_0599_2000_pr015.html",
+    "nombre": "PECULADO CULPOSO",
+    "url": "ley_0599_2000_pr015.html#400"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "400A",
+    "texto": "ARTÍCULO 400A. PECULADO CULPOSO FRENTE A RECURSOS DE LA SEGURIDAD SOCIAL INTEGRAL.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "PECULADO CULPOSO FRENTE A RECURSOS DE LA SEGURIDAD SOCIAL INTEGRAL",
+    "url": "ley_0599_2000_pr016.html#400A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "401",
+    "texto": "ARTÍCULO 401. CIRCUNSTANCIAS DE ATENUACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "CIRCUNSTANCIAS DE ATENUACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr016.html#401"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "402",
+    "texto": "ARTÍCULO 402. OMISIÓN DEL AGENTE RETENEDOR O RECAUDADOR.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "OMISIÓN DEL AGENTE RETENEDOR O RECAUDADOR",
+    "url": "ley_0599_2000_pr016.html#402"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "403",
+    "texto": "ARTÍCULO 403. DESTINO DE RECURSOS DEL TESORO PARA EL ESTIMULO O BENEFICIO INDEBIDO DE EXPLOTADORES Y COMERCIANTES DE METALES PRECIOSOS.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "DESTINO DE RECURSOS DEL TESORO PARA EL ESTIMULO O BENEFICIO INDEBIDO DE EXPLOTADORES Y COMERCIANTES DE METALES PRECIOSOS",
+    "url": "ley_0599_2000_pr016.html#403"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "403A",
+    "texto": "ARTÍCULO 403-A. FRAUDE DE SUBVENCIONES.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "url": "ley_0599_2000_pr016.html#403A"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel083",
+    "texto": "CAPÍTULO II.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "descripcion": "DE LA CONCUSIÓN"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "404",
+    "texto": "ARTÍCULO 404. CONCUSIÓN.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "CONCUSIÓN",
+    "url": "ley_0599_2000_pr016.html#404"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel084",
+    "texto": "CAPÍTULO III.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "descripcion": "DEL COHECHO"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "405",
+    "texto": "ARTÍCULO 405. COHECHO PROPIO.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "COHECHO PROPIO",
+    "url": "ley_0599_2000_pr016.html#405"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "406",
+    "texto": "ARTÍCULO 406. COHECHO IMPROPIO.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "COHECHO IMPROPIO",
+    "url": "ley_0599_2000_pr016.html#406"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "407",
+    "texto": "ARTÍCULO 407. COHECHO POR DAR U OFRECER.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "COHECHO POR DAR U OFRECER",
+    "url": "ley_0599_2000_pr016.html#407"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel085",
+    "texto": "CAPÍTULO IV.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "descripcion": "DE LA CELEBRACIÓN INDEBIDA DE CONTRATOS"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "408",
+    "texto": "ARTÍCULO 408. VIOLACIÓN DEL REGIMEN LEGAL O CONSTITUCIONAL DE INHABILIDADES E INCOMPATIBILIDADES.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "VIOLACIÓN DEL REGIMEN LEGAL O CONSTITUCIONAL DE INHABILIDADES E INCOMPATIBILIDADES",
+    "url": "ley_0599_2000_pr016.html#408"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "409",
+    "texto": "ARTÍCULO 409. INTERES INDEBIDO EN LA CELEBRACIÓN DE CONTRATOS.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "INTERES INDEBIDO EN LA CELEBRACIÓN DE CONTRATOS",
+    "url": "ley_0599_2000_pr016.html#409"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "410",
+    "texto": "ARTÍCULO 410. CONTRATO SIN CUMPLIMIENTO DE REQUISITOS LEGALES.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "CONTRATO SIN CUMPLIMIENTO DE REQUISITOS LEGALES",
+    "url": "ley_0599_2000_pr016.html#410"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "410A",
+    "texto": "ARTÍCULO 410-A. ACUERDOS RESTRICTIVOS DE LA COMPETENCIA.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "url": "ley_0599_2000_pr016.html#410A"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel086",
+    "texto": "CAPÍTULO V.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "descripcion": "DEL TRAFICO DE INFLUENCIAS"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "411",
+    "texto": "ARTÍCULO 411. TRAFICO DE INFLUENCIAS DE SERVIDOR PÚBLICO.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "TRAFICO DE INFLUENCIAS DE SERVIDOR PÚBLICO",
+    "url": "ley_0599_2000_pr016.html#411"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "PARÁGRAFO",
+    "texto": "PARÁGRAFO.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "url": "ley_0599_2000_pr016.html#PARÁGRAFO"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "411A",
+    "texto": "ARTÍCULO 411-A. TRÁFICO DE INFLUENCIAS DE PARTICULAR.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "url": "ley_0599_2000_pr016.html#411A"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel087",
+    "texto": "CAPÍTULO V.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "descripcion": "DEL ENRIQUECIMIENTO ILICITO"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "412",
+    "texto": "ARTÍCULO 412. ENRIQUECIMIENTO ILICITO.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "ENRIQUECIMIENTO ILICITO",
+    "url": "ley_0599_2000_pr016.html#412"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel088",
+    "texto": "CAPÍTULO VII.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "descripcion": "DEL PREVARICATO"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "413",
+    "texto": "ARTÍCULO 413. PREVARICATO POR ACCIÓN.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "PREVARICATO POR ACCIÓN",
+    "url": "ley_0599_2000_pr016.html#413"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "414",
+    "texto": "ARTÍCULO 414. PREVARICATO POR OMISIÓN.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "PREVARICATO POR OMISIÓN",
+    "url": "ley_0599_2000_pr016.html#414"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "415",
+    "texto": "ARTÍCULO 415. CIRCUNSTANCIA DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "CIRCUNSTANCIA DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr016.html#415"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel089",
+    "texto": "CAPÍTULO VIII.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "descripcion": "DE LOS ABUSOS DE AUTORIDAD Y OTRAS INFRACCIONES"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "416",
+    "texto": "ARTÍCULO 416. ABUSO DE AUTORIDAD POR ACTO ARBITRARIO E INJUSTO.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "ABUSO DE AUTORIDAD POR ACTO ARBITRARIO E INJUSTO",
+    "url": "ley_0599_2000_pr016.html#416"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "417",
+    "texto": "ARTÍCULO 417. ABUSO DE AUTORIDAD POR OMISIÓN DE DENUNCIA.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "ABUSO DE AUTORIDAD POR OMISIÓN DE DENUNCIA",
+    "url": "ley_0599_2000_pr016.html#417"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "418",
+    "texto": "ARTÍCULO 418. REVELACIÓN DE SECRETO.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "REVELACIÓN DE SECRETO",
+    "url": "ley_0599_2000_pr016.html#418"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "418B",
+    "texto": "ARTÍCULO 418B. REVELACIÓN DE SECRETO CULPOSA.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "REVELACIÓN DE SECRETO CULPOSA",
+    "url": "ley_0599_2000_pr016.html#418B"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "419",
+    "texto": "ARTÍCULO 419. UTILIZACIÓN DE ASUNTO SOMETIDO A SECRETO O RESERVA.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "UTILIZACIÓN DE ASUNTO SOMETIDO A SECRETO O RESERVA",
+    "url": "ley_0599_2000_pr016.html#419"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "420",
+    "texto": "ARTÍCULO 420. UTILIZACIÓN INDEBIDA DE INFORMACIÓN OFICIAL PRIVILEGIADA.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "UTILIZACIÓN INDEBIDA DE INFORMACIÓN OFICIAL PRIVILEGIADA",
+    "url": "ley_0599_2000_pr016.html#420"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "421",
+    "texto": "ARTÍCULO 421. ASESORAMIENTO Y OTRAS ACTUACIONES ILEGALES.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "ASESORAMIENTO Y OTRAS ACTUACIONES ILEGALES",
+    "url": "ley_0599_2000_pr016.html#421"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "422",
+    "texto": "ARTÍCULO 422. INTERVENCIÓN EN POLITICA.",
+    "archivo": "ley_0599_2000_pr016.html",
+    "nombre": "INTERVENCIÓN EN POLITICA",
+    "url": "ley_0599_2000_pr016.html#422"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "423",
+    "texto": "ARTÍCULO 423. EMPLEO ILEGAL DE LA FUERZA PÚBLICA.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "EMPLEO ILEGAL DE LA FUERZA PÚBLICA",
+    "url": "ley_0599_2000_pr017.html#423"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "424",
+    "texto": "ARTÍCULO 424. OMISIÓN DE APOYO.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "OMISIÓN DE APOYO",
+    "url": "ley_0599_2000_pr017.html#424"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel090",
+    "texto": "CAPÍTULO IX.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "descripcion": "DE LA USURPACIÓN Y ABUSO DE FUNCIONES PÚBLICAS"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "425",
+    "texto": "ARTÍCULO 425. USURPACIÓN DE FUNCIONES PÚBLICAS.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "USURPACIÓN DE FUNCIONES PÚBLICAS",
+    "url": "ley_0599_2000_pr017.html#425"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "426",
+    "texto": "ARTÍCULO 426. SIMULACIÓN DE INVESTIDURA O CARGO.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "SIMULACIÓN DE INVESTIDURA O CARGO",
+    "url": "ley_0599_2000_pr017.html#426"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "427",
+    "texto": "ARTÍCULO 427. USURPACIÓN Y ABUSO DE FUNCIONES PÚBLICAS CON FINES TERRORISTAS.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "USURPACIÓN Y ABUSO DE FUNCIONES PÚBLICAS CON FINES TERRORISTAS",
+    "url": "ley_0599_2000_pr017.html#427"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "428",
+    "texto": "ARTÍCULO 428. ABUSO DE FUNCIÓN PÚBLICA.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "ABUSO DE FUNCIÓN PÚBLICA",
+    "url": "ley_0599_2000_pr017.html#428"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel091",
+    "texto": "CAPÍTULO X.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "descripcion": "DE LOS DELITOS CONTRA LOS SERVIDORES PÚBLICOS"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "429",
+    "texto": "ARTÍCULO 429. VIOLENCIA CONTRA SERVIDOR PÚBLICO.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "VIOLENCIA CONTRA SERVIDOR PÚBLICO",
+    "url": "ley_0599_2000_pr017.html#429"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "429B",
+    "texto": "ARTÍCULO 429B.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "url": "ley_0599_2000_pr017.html#429B"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "429C",
+    "texto": "ARTÍCULO 429C. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr017.html#429C"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "429D",
+    "texto": "ARTÍCULO 429D. OBSTRUCCIÓN A LA FUNCIÓN PÚBLICA.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "OBSTRUCCIÓN A LA FUNCIÓN PÚBLICA",
+    "url": "ley_0599_2000_pr017.html#429D"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "430",
+    "texto": "ARTÍCULO 430. PERTURBACIÓN DE ACTOS OFICIALES.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "PERTURBACIÓN DE ACTOS OFICIALES",
+    "url": "ley_0599_2000_pr017.html#430"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel092",
+    "texto": "CAPÍTULO XI.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "descripcion": "DE LA UTILIZACIÓN INDEBIDA DE INFORMACIÓN Y DE INFLUENCIAS DERIVADAS DEL EJERCICIO DE FUNCIÓN PÚBLICA"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "431",
+    "texto": "ARTÍCULO 431. UTILIZACIÓN INDEBIDA DE INFORMACIÓN OBTENIDA EN EL EJERCICIO DE FUNCIÓN PÚBLICA.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "UTILIZACIÓN INDEBIDA DE INFORMACIÓN OBTENIDA EN EL EJERCICIO DE FUNCIÓN PÚBLICA",
+    "url": "ley_0599_2000_pr017.html#431"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "432",
+    "texto": "ARTÍCULO 432. UTILIZACIÓN INDEBIDA DE INFLUENCIAS DERIVADAS DEL EJERCICIO DE FUNCIÓN PÚBLICA.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "UTILIZACIÓN INDEBIDA DE INFLUENCIAS DERIVADAS DEL EJERCICIO DE FUNCIÓN PÚBLICA",
+    "url": "ley_0599_2000_pr017.html#432"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "433",
+    "texto": "ARTÍCULO 433. SOBORNO TRANSNACIONAL.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "SOBORNO TRANSNACIONAL",
+    "url": "ley_0599_2000_pr017.html#433"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "434",
+    "texto": "ARTÍCULO 434. ASOCIACIÓN PARA LA COMISIÓN DE UN DELITO CONTRA LA ADMINISTRACIÓN PÚBLICA.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "ASOCIACIÓN PARA LA COMISIÓN DE UN DELITO CONTRA LA ADMINISTRACIÓN PÚBLICA",
+    "url": "ley_0599_2000_pr017.html#434"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "CAPÍTULO XII",
+    "texto": "CAPÍTULO XII.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "descripcion": "DE LA DEFRAUDACIÓN Y LA EVASIÓN TRIBUTARIA, OMISIÓN DE ACTIVOS E INCLUSIÓN DE PASIVOS INEXISTENTES."
+  },
+  {
+    "tipo": "TITULO",
+    "id": "Nivel093",
+    "texto": "TÍTULO XVI.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "descripcion": "DELITOS CONTRA LA EFICAZ Y RECTA IMPARTICIÓN DE JUSTICIA"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel094",
+    "texto": "CAPÍTULO I.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "descripcion": "DE LAS FALSAS IMPUTACIONES ANTE LAS AUTORIDADES"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "435",
+    "texto": "ARTÍCULO 435. FALSA DENUNCIA.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "FALSA DENUNCIA",
+    "url": "ley_0599_2000_pr017.html#435"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "436",
+    "texto": "ARTÍCULO 436. FALSA DENUNCIA CONTRA PERSONA DETERMINADA.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "FALSA DENUNCIA CONTRA PERSONA DETERMINADA",
+    "url": "ley_0599_2000_pr017.html#436"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "437",
+    "texto": "ARTÍCULO 437. FALSA AUTOACUSACIÓN.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "FALSA AUTOACUSACIÓN",
+    "url": "ley_0599_2000_pr017.html#437"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "438",
+    "texto": "ARTÍCULO 438. CIRCUNSTANCIAS DE AGRAVACIÓN.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN",
+    "url": "ley_0599_2000_pr017.html#438"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "439",
+    "texto": "ARTÍCULO 439. REDUCCIÓN CUALITATIVA DE PENA EN CASO DE CONTRAVENCIÓN.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "REDUCCIÓN CUALITATIVA DE PENA EN CASO DE CONTRAVENCIÓN",
+    "url": "ley_0599_2000_pr017.html#439"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "440",
+    "texto": "ARTÍCULO 440. CIRCUNSTANCIA DE ATENUACIÓN.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "CIRCUNSTANCIA DE ATENUACIÓN",
+    "url": "ley_0599_2000_pr017.html#440"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel095",
+    "texto": "CAPÍTULO II.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "descripcion": "DE LA OMISIÓN DE DENUNCIA DE PARTICULAR"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "441",
+    "texto": "ARTÍCULO 441. OMISIÓN DE DENUNCIA DE PARTICULAR.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "OMISIÓN DE DENUNCIA DE PARTICULAR",
+    "url": "ley_0599_2000_pr017.html#441"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel096",
+    "texto": "CAPÍTULO III.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "descripcion": "DEL FALSO TESTIMONIO"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "442",
+    "texto": "ARTÍCULO 442. FALSO TESTIMONIO.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "FALSO TESTIMONIO",
+    "url": "ley_0599_2000_pr017.html#442"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "443",
+    "texto": "ARTÍCULO 443. CIRCUNSTANCIA DE ATENUACIÓN.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "CIRCUNSTANCIA DE ATENUACIÓN",
+    "url": "ley_0599_2000_pr017.html#443"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "444",
+    "texto": "ARTÍCULO 444. SOBORNO.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "nombre": "SOBORNO",
+    "url": "ley_0599_2000_pr017.html#444"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "444-A",
+    "texto": "ARTÍCULO 444-A. SOBORNO EN LA ACTUACIÓN PENAL.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "url": "ley_0599_2000_pr017.html#444-A"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel097",
+    "texto": "CAPÍTULO IV.",
+    "archivo": "ley_0599_2000_pr017.html",
+    "descripcion": "DE LA INFIDELIDAD A LOS DEBERES PROFESIONALES"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "445",
+    "texto": "ARTÍCULO 445. INFIDELIDAD A LOS DEBERES PROFESIONALES.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "INFIDELIDAD A LOS DEBERES PROFESIONALES",
+    "url": "ley_0599_2000_pr018.html#445"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel098",
+    "texto": "CAPÍTULO VI.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "descripcion": "DEL ENCUBRIMIENTO"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "446",
+    "texto": "ARTÍCULO 446. FAVORECIMIENTO.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "FAVORECIMIENTO",
+    "url": "ley_0599_2000_pr018.html#446"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "447",
+    "texto": "ARTÍCULO 447. RECEPTACIÓN.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "RECEPTACIÓN",
+    "url": "ley_0599_2000_pr018.html#447"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "447A",
+    "texto": "ARTÍCULO 447A. COMERCIALIZACIÓN DE AUTOPARTES HURTADAS.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "COMERCIALIZACIÓN DE AUTOPARTES HURTADAS",
+    "url": "ley_0599_2000_pr018.html#447A"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel099",
+    "texto": "CAPÍTULO VII.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "descripcion": "DE LA FUGA DE PRESOS"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "448",
+    "texto": "ARTÍCULO 448. FUGA DE PRESOS.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "FUGA DE PRESOS",
+    "url": "ley_0599_2000_pr018.html#448"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "449",
+    "texto": "ARTÍCULO 449. FAVORECIMIENTO DE LA FUGA.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "FAVORECIMIENTO DE LA FUGA",
+    "url": "ley_0599_2000_pr018.html#449"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "450",
+    "texto": "ARTÍCULO 450. MODALIDAD CULPOSA.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "MODALIDAD CULPOSA",
+    "url": "ley_0599_2000_pr018.html#450"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "451",
+    "texto": "ARTÍCULO 451. CIRCUNSTANCIAS DE ATENUACIÓN.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "CIRCUNSTANCIAS DE ATENUACIÓN",
+    "url": "ley_0599_2000_pr018.html#451"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "452",
+    "texto": "ARTÍCULO 452. EXIMENTE DE RESPONSABILIDAD PENAL.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "EXIMENTE DE RESPONSABILIDAD PENAL",
+    "url": "ley_0599_2000_pr018.html#452"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel100",
+    "texto": "CAPÍTULO VIII.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "descripcion": "DEL FRAUDE PROCESAL Y OTRAS INFRACCIONES"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "453",
+    "texto": "ARTÍCULO 453. FRAUDE PROCESAL.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "FRAUDE PROCESAL",
+    "url": "ley_0599_2000_pr018.html#453"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "454",
+    "texto": "ARTÍCULO 454. FRAUDE A RESOLUCIÓN JUDICIAL O ADMINISTRATIVA DE POLICÍA.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "FRAUDE A RESOLUCIÓN JUDICIAL O ADMINISTRATIVA DE POLICÍA",
+    "url": "ley_0599_2000_pr018.html#454"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "CAPITULO IX-16",
+    "texto": "CAPÍTULO IX.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "descripcion": "DELITOS CONTRA MEDIOS DE PRUEBA Y OTRAS INFRACCIONES."
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "454-A",
+    "texto": "ARTÍCULO 454-A. AMENAZAS A TESTIGO.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "url": "ley_0599_2000_pr018.html#454-A"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "454-B",
+    "texto": "ARTÍCULO 454-B. OCULTAMIENTO, ALTERACIÓN O DESTRUCCIÓN DE ELEMENTO MATERIAL PROBATORIO.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "url": "ley_0599_2000_pr018.html#454-B"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "454-C",
+    "texto": "ARTÍCULO 454-C. IMPEDIMENTO O PERTURBACIÓN DE LA CELEBRACIÓN DE AUDIENCIAS PÚBLICAS.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "url": "ley_0599_2000_pr018.html#454-C"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "Nivel101",
+    "texto": "TÍTULO XVII.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "descripcion": "DELITOS CONTRA LA EXISTENCIA Y SEGURIDAD DEL ESTADO"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel102",
+    "texto": "CAPÍTULO I.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "descripcion": "DE LOS DELITOS DE TRAICIÓN A LA PATRIA"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "455",
+    "texto": "ARTÍCULO 455. MENOSCABO DE LA INTEGRIDAD NACIONAL.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "MENOSCABO DE LA INTEGRIDAD NACIONAL",
+    "url": "ley_0599_2000_pr018.html#455"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "456",
+    "texto": "ARTÍCULO 456. HOSTILIDAD MILITAR.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "HOSTILIDAD MILITAR",
+    "url": "ley_0599_2000_pr018.html#456"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "457",
+    "texto": "ARTÍCULO 457. TRAICIÓN DIPLOMATICA.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "TRAICIÓN DIPLOMATICA",
+    "url": "ley_0599_2000_pr018.html#457"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "458",
+    "texto": "ARTÍCULO 458. INSTIGACIÓN A LA GUERRA.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "INSTIGACIÓN A LA GUERRA",
+    "url": "ley_0599_2000_pr018.html#458"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "459",
+    "texto": "ARTÍCULO 459. ATENTADOS CONTRA HITOS FRONTERIZOS.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "ATENTADOS CONTRA HITOS FRONTERIZOS",
+    "url": "ley_0599_2000_pr018.html#459"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "460",
+    "texto": "ARTÍCULO 460. ACTOS CONTRARIOS A LA DEFENSA DE LA NACIÓN.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "ACTOS CONTRARIOS A LA DEFENSA DE LA NACIÓN",
+    "url": "ley_0599_2000_pr018.html#460"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "461",
+    "texto": "ARTÍCULO 461. ULTRAJE A EMBLEMAS O SIMBOLOS PATRIOS.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "ULTRAJE A EMBLEMAS O SIMBOLOS PATRIOS",
+    "url": "ley_0599_2000_pr018.html#461"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "462",
+    "texto": "ARTÍCULO 462. ACEPTACIÓN INDEBIDA DE HONORES.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "ACEPTACIÓN INDEBIDA DE HONORES",
+    "url": "ley_0599_2000_pr018.html#462"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel103",
+    "texto": "CAPÍTULO II.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "descripcion": "DE LOS DELITOS CONTRA LA SEGURIDAD DEL ESTADO"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "463",
+    "texto": "ARTÍCULO 463. ESPIONAJE.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "ESPIONAJE",
+    "url": "ley_0599_2000_pr018.html#463"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "464",
+    "texto": "ARTÍCULO 464. VIOLACIÓN DE TREGUA O ARMISTICIO.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "VIOLACIÓN DE TREGUA O ARMISTICIO",
+    "url": "ley_0599_2000_pr018.html#464"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "465",
+    "texto": "ARTÍCULO 465. VIOLACIÓN DE INMUNIDAD DIPLOMATICA.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "VIOLACIÓN DE INMUNIDAD DIPLOMATICA",
+    "url": "ley_0599_2000_pr018.html#465"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "466",
+    "texto": "ARTÍCULO 466. OFENSA A DIPLOMATICOS.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "nombre": "OFENSA A DIPLOMATICOS",
+    "url": "ley_0599_2000_pr018.html#466"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "Nivel104",
+    "texto": "TÍTULO XVIII.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "descripcion": "DE LOS DELITOS CONTRA EL REGIMEN CONSTITUCIONAL Y LEGAL"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel105",
+    "texto": "CAPÍTULO ÚNICO.",
+    "archivo": "ley_0599_2000_pr018.html",
+    "descripcion": "DE LA REBELION, SEDICIÓN Y ASONADA"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "467",
+    "texto": "ARTÍCULO 467. REBELION.",
+    "archivo": "ley_0599_2000_pr019.html",
+    "nombre": "REBELION",
+    "url": "ley_0599_2000_pr019.html#467"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "468",
+    "texto": "ARTÍCULO 468. SEDICIÓN.",
+    "archivo": "ley_0599_2000_pr019.html",
+    "nombre": "SEDICIÓN",
+    "url": "ley_0599_2000_pr019.html#468"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "469",
+    "texto": "ARTÍCULO 469. ASONADA.",
+    "archivo": "ley_0599_2000_pr019.html",
+    "nombre": "ASONADA",
+    "url": "ley_0599_2000_pr019.html#469"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "470",
+    "texto": "ARTÍCULO 470. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr019.html",
+    "nombre": "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr019.html#470"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "471",
+    "texto": "ARTÍCULO 471. CONSPIRACIÓN.",
+    "archivo": "ley_0599_2000_pr019.html",
+    "nombre": "CONSPIRACIÓN",
+    "url": "ley_0599_2000_pr019.html#471"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "472",
+    "texto": "ARTÍCULO 472. SEDUCCIÓN, USURPACIÓN Y RETENCIÓN ILEGAL DE MANDO.",
+    "archivo": "ley_0599_2000_pr019.html",
+    "nombre": "SEDUCCIÓN, USURPACIÓN Y RETENCIÓN ILEGAL DE MANDO",
+    "url": "ley_0599_2000_pr019.html#472"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "473",
+    "texto": "ARTÍCULO 473. CIRCUNSTANCIA DE AGRAVACIÓN PUNITIVA.",
+    "archivo": "ley_0599_2000_pr019.html",
+    "nombre": "CIRCUNSTANCIA DE AGRAVACIÓN PUNITIVA",
+    "url": "ley_0599_2000_pr019.html#473"
+  },
+  {
+    "tipo": "TITULO",
+    "id": "Nivel106",
+    "texto": "TÍTULO XIX.",
+    "archivo": "ley_0599_2000_pr019.html",
+    "descripcion": "DISPOSICIONES GENERALES"
+  },
+  {
+    "tipo": "CAPITULO",
+    "id": "Nivel107",
+    "texto": "CAPÍTULO ÚNICO.",
+    "archivo": "ley_0599_2000_pr019.html",
+    "descripcion": "DE LA DEROGATORIA Y VIGENCIA"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "474",
+    "texto": "ARTÍCULO 474. DEROGATORIA.",
+    "archivo": "ley_0599_2000_pr019.html",
+    "nombre": "DEROGATORIA",
+    "url": "ley_0599_2000_pr019.html#474"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "475",
+    "texto": "ARTÍCULO 475. TRANSITORIO.",
+    "archivo": "ley_0599_2000_pr019.html",
+    "nombre": "TRANSITORIO",
+    "url": "ley_0599_2000_pr019.html#475"
+  },
+  {
+    "tipo": "ARTICULO",
+    "id": "476",
+    "texto": "ARTÍCULO 476. VIGENCIA.",
+    "archivo": "ley_0599_2000_pr019.html",
+    "nombre": "VIGENCIA",
+    "url": "ley_0599_2000_pr019.html#476"
+  }
+]
