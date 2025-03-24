@@ -1,0 +1,3966 @@
+{
+  "libros": [
+    {
+      "tipo": "LIBRO",
+      "id": "I",
+      "texto": "LIBRO I.",
+      "descripcion": "Parte general",
+      "titulos": [
+        {
+          "tipo": "TITULO",
+          "id": "I",
+          "texto": "TÍTULO I.",
+          "descripcion": "De las normas rectoras de la ley penal colombiana",
+          "capitulos": [
+            {
+              "tipo": "CAPITULO",
+              "id": "ÚNICO",
+              "texto": "CAPÍTULO ÚNICO",
+              "descripcion": "",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "1",
+                  "texto": "Artículo 1. Dignidad humana",
+                  "nombre": "Dignidad humana"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "2",
+                  "texto": "Artículo 2. Integración",
+                  "nombre": "Integración"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "3",
+                  "texto": "Artículo 3. Principios de las sanciones penales",
+                  "nombre": "Principios de las sanciones penales"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "4",
+                  "texto": "Artículo 4. Funciones de la pena",
+                  "nombre": "Funciones de la pena"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "5",
+                  "texto": "Artículo 5. Funciones de la medida de seguridad",
+                  "nombre": "Funciones de la medida de seguridad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "6",
+                  "texto": "Artículo 6. Legalidad",
+                  "nombre": "Legalidad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "7",
+                  "texto": "Artículo 7. Igualdad",
+                  "nombre": "Igualdad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "8",
+                  "texto": "Artículo 8. Prohibición de doble incriminación",
+                  "nombre": "Prohibición de doble incriminación"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "9",
+                  "texto": "Artículo 9. Conducta punible",
+                  "nombre": "Conducta punible"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "10",
+                  "texto": "Artículo 10. Tipicidad",
+                  "nombre": "Tipicidad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "11",
+                  "texto": "Artículo 11. Antijuridicidad",
+                  "nombre": "Antijuridicidad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "12",
+                  "texto": "Artículo 12. Culpabilidad",
+                  "nombre": "Culpabilidad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "13",
+                  "texto": "Artículo 13. Normas rectoras y fuerza normativa",
+                  "nombre": "Normas rectoras y fuerza normativa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "TITULO",
+          "id": "II",
+          "texto": "TÍTULO II.",
+          "descripcion": "De la aplicación de la ley penal",
+          "capitulos": [
+            {
+              "tipo": "CAPITULO",
+              "id": "ÚNICO",
+              "texto": "CAPÍTULO ÚNICO.",
+              "descripcion": "Aplicación de la ley penal en el espacio",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "14",
+                  "texto": "Artículo 14. Territorialidad",
+                  "nombre": "Territorialidad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "15",
+                  "texto": "Artículo 15. Territorialidad por extensión",
+                  "nombre": "Territorialidad por extensión"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "16",
+                  "texto": "Artículo 16. Extraterritorialidad",
+                  "nombre": "Extraterritorialidad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "17",
+                  "texto": "Artículo 17. Sentencia extranjera",
+                  "nombre": "Sentencia extranjera"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "18",
+                  "texto": "Artículo 18. Extradición",
+                  "nombre": "Extradición"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "TITULO",
+          "id": "III",
+          "texto": "TÍTULO III.",
+          "descripcion": "",
+          "capitulos": [
+            {
+              "tipo": "CAPITULO",
+              "id": "ÚNICO",
+              "texto": "CAPÍTULO ÚNICO.",
+              "descripcion": "De la conducta punible",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "19",
+                  "texto": "Artículo 19. Delitos y contravenciones",
+                  "nombre": "Delitos y contravenciones"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "20",
+                  "texto": "Artículo 20. Servidores públicos",
+                  "nombre": "Servidores públicos"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "21",
+                  "texto": "Artículo 21. Modalidades de la conducta punible",
+                  "nombre": "Modalidades de la conducta punible"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "22",
+                  "texto": "Artículo 22. Dolo",
+                  "nombre": "Dolo"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "23",
+                  "texto": "Artículo 23. Culpa",
+                  "nombre": "Culpa"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "24",
+                  "texto": "Artículo 24"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "25",
+                  "texto": "Artículo 25. Acción y omisión",
+                  "nombre": "Acción y omisión"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "26",
+                  "texto": "Artículo 26. Tiempo de la conducta punible",
+                  "nombre": "Tiempo de la conducta punible"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "27",
+                  "texto": "Artículo 27. Tentativa",
+                  "nombre": "Tentativa"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "28",
+                  "texto": "Artículo 28. Concurso de personas en la conducta punible",
+                  "nombre": "Concurso de personas en la conducta punible"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "29",
+                  "texto": "Artículo 29. Autores",
+                  "nombre": "Autores"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "30",
+                  "texto": "Artículo 30. Participes",
+                  "nombre": "Participes"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "31",
+                  "texto": "Artículo 31. Concurso de conductas punibles",
+                  "nombre": "Concurso de conductas punibles"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "32",
+                  "texto": "Artículo 32. Ausencia de responsabilidad",
+                  "nombre": "Ausencia de responsabilidad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "33",
+                  "texto": "Artículo 33. Inimputabilidad",
+                  "nombre": "Inimputabilidad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "33A",
+                  "texto": "Artículo 33A. Medidas en caso de declaratoria de inimputabilidad",
+                  "nombre": "Medidas en caso de declaratoria de inimputabilidad"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "TITULO",
+          "id": "IV",
+          "texto": "TÍTULO IV.",
+          "descripcion": "De las consecuencias jurídicas de la conducta punible",
+          "capitulos": [
+            {
+              "tipo": "CAPITULO",
+              "id": "I",
+              "texto": "CAPÍTULO I.",
+              "descripcion": "De las penas, sus clases y sus efectos",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "34",
+                  "texto": "Artículo 34. De las penas",
+                  "nombre": "De las penas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "35",
+                  "texto": "Artículo 35. Penas principales",
+                  "nombre": "Penas principales"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "36",
+                  "texto": "Artículo 36. Penas sustitutivas",
+                  "nombre": "Penas sustitutivas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "37",
+                  "texto": "Artículo 37. La prisión",
+                  "nombre": "La prisión"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "38",
+                  "texto": "Artículo 38. La prisión domiciliaria como sustitutiva de la prisión",
+                  "nombre": "La prisión domiciliaria como sustitutiva de la prisión"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "38A",
+                  "texto": "Artículo 38A. Sistemas de vigilancia electrónica como sustitutivos de la prisión",
+                  "nombre": "Sistemas de vigilancia electrónica como sustitutivos de la prisión"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "38B",
+                  "texto": "Artículo 38B. Requisitos para conceder la prisión domiciliaria",
+                  "nombre": "Requisitos para conceder la prisión domiciliaria"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "38C",
+                  "texto": "Artículo 38C. Control de la medida de prisión domiciliaria",
+                  "nombre": "Control de la medida de prisión domiciliaria"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "38D",
+                  "texto": "Artículo 38D. Ejecución de la medida de prisión domiciliaria",
+                  "nombre": "Ejecución de la medida de prisión domiciliaria"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "38E",
+                  "texto": "Artículo 38E. Redención de pena durante la prisión domiciliaria",
+                  "nombre": "Redención de pena durante la prisión domiciliaria"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "38F",
+                  "texto": "Artículo 38F. Pago del mecanismo de vigilancia electrónica",
+                  "nombre": "Pago del mecanismo de vigilancia electrónica"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "38G",
+                  "texto": "Artículo 38G"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "38H",
+                  "texto": "Artículo 38H. Prestación de servicios de utilidad pública como sustitutiva de la prisión",
+                  "nombre": "Prestación de servicios de utilidad pública como sustitutiva de la prisión"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "38I",
+                  "texto": "Artículo 38I. Requisitos para conceder la prestación de servicios de utilidad pública como sustitutiva de la prisión",
+                  "nombre": "Requisitos para conceder la prestación de servicios de utilidad pública como sustitutiva de la prisión"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "38J",
+                  "texto": "Artículo 38J. Ejecución de la medida de prestación de servicios de utilidad pública como sustitutiva de la prisión",
+                  "nombre": "Ejecución de la medida de prestación de servicios de utilidad pública como sustitutiva de la prisión"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "38K",
+                  "texto": "Artículo 38K. Sustitución de la ejecución de la pena de prisión por la prestación de servicio de utilidad pública",
+                  "nombre": "Sustitución de la ejecución de la pena de prisión por la prestación de servicio de utilidad pública"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "38L",
+                  "texto": "Artículo 38L. Control de la medida de prestación de servicios de utilidad pública como sustitutiva de la prisión",
+                  "nombre": "Control de la medida de prestación de servicios de utilidad pública como sustitutiva de la prisión"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "38M",
+                  "texto": "Artículo 38M. Requisitos adicionales a la prestación de servicio de utilidad pública",
+                  "nombre": "Requisitos adicionales a la prestación de servicio de utilidad pública"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "38N",
+                  "texto": "Artículo 38N. Faltas en la prestación del servicio de utilidad pública",
+                  "nombre": "Faltas en la prestación del servicio de utilidad pública"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "38Ñ",
+                  "texto": "Artículo 38Ñ. Extinción de la pena de prestación de servicios de utilidad pública",
+                  "nombre": "Extinción de la pena de prestación de servicios de utilidad pública"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "39",
+                  "texto": "Artículo 39. La multa",
+                  "nombre": "La multa"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "40",
+                  "texto": "Artículo 40. Conversión de la multa en arrestos progresivos",
+                  "nombre": "Conversión de la multa en arrestos progresivos"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "41",
+                  "texto": "Artículo 41. Ejecución coactiva",
+                  "nombre": "Ejecución coactiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "42",
+                  "texto": "Artículo 42. Destinación",
+                  "nombre": "Destinación"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "43",
+                  "texto": "Artículo 43. Las penas privativas de otros derechos",
+                  "nombre": "Las penas privativas de otros derechos"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "44",
+                  "texto": "Artículo 44. La inhabilitación para el ejercicio de derechos y funciones públicas",
+                  "nombre": "La inhabilitación para el ejercicio de derechos y funciones públicas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "45",
+                  "texto": "Artículo 45. La pérdida de empleo o cargo público",
+                  "nombre": "La pérdida de empleo o cargo público"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "46",
+                  "texto": "Artículo 46. La inhabilitación para el ejercicio de profesión, arte, oficio, industria o comercio",
+                  "nombre": "La inhabilitación para el ejercicio de profesión, arte, oficio, industria o comercio"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "47",
+                  "texto": "Artículo 47. La inhabilitación para el ejercicio de la patria potestad, tutela y curaduría",
+                  "nombre": "La inhabilitación para el ejercicio de la patria potestad, tutela y curaduría"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "48",
+                  "texto": "Artículo 48. La privación del derecho a conducir vehículos automotores y motocicletas",
+                  "nombre": "La privación del derecho a conducir vehículos automotores y motocicletas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "49",
+                  "texto": "Artículo 49. La privación del derecho a la tenencia y porte de arma",
+                  "nombre": "La privación del derecho a la tenencia y porte de arma"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "50",
+                  "texto": "Artículo 50. La privación del derecho a residir o de acudir a determinados lugares",
+                  "nombre": "La privación del derecho a residir o de acudir a determinados lugares"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "51",
+                  "texto": "Artículo 51. Duración de las penas privativas de otros derechos",
+                  "nombre": "Duración de las penas privativas de otros derechos"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "52",
+                  "texto": "Artículo 52. Las penas accesorias",
+                  "nombre": "Las penas accesorias"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "53",
+                  "texto": "Artículo 53. Cumplimiento de las penas accesorias",
+                  "nombre": "Cumplimiento de las penas accesorias"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "II",
+              "texto": "CAPÍTULO II.",
+              "descripcion": "De los criterios y reglas para la determinación de la punibilidad",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "54",
+                  "texto": "Artículo 54. Mayor y menor punibilidad",
+                  "nombre": "Mayor y menor punibilidad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "55",
+                  "texto": "Artículo 55. Circunstancias de menor punibilidad",
+                  "nombre": "Circunstancias de menor punibilidad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "56",
+                  "texto": "Artículo 56"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "57",
+                  "texto": "Artículo 57. Ira o intenso dolor",
+                  "nombre": "Ira o intenso dolor"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "58",
+                  "texto": "Artículo 58. Circunstancias de mayor punibilidad",
+                  "nombre": "Circunstancias de mayor punibilidad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "59",
+                  "texto": "Artículo 59. Motivación del proceso de individualización de la pena",
+                  "nombre": "Motivación del proceso de individualización de la pena"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "60",
+                  "texto": "Artículo 60. Parámetros para la determinación de los mínimos y máximos aplicables",
+                  "nombre": "Parámetros para la determinación de los mínimos y máximos aplicables"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "61",
+                  "texto": "Artículo 61. Fundamentos para la individualización de la pena",
+                  "nombre": "Fundamentos para la individualización de la pena"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "62",
+                  "texto": "Artículo 62. Comunicabilidad de circunstancias",
+                  "nombre": "Comunicabilidad de circunstancias"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "III",
+              "texto": "CAPÍTULO III.",
+              "descripcion": "De los mecanismos sustitutivos de la pena privativa de la libertad",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "63",
+                  "texto": "Artículo 63. suspensión de la ejecución de la pena.",
+                  "nombre": "suspensión de la ejecución de la pena"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "64",
+                  "texto": "Artículo 64. Libertad condicional",
+                  "nombre": "Libertad condicional"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "65",
+                  "texto": "Artículo 65. Obligaciones",
+                  "nombre": "Obligaciones"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "66",
+                  "texto": "Artículo 66. Revocación de la suspensión de la ejecución condicional de la pena y de la libertad condicional",
+                  "nombre": "Revocación de la suspensión de la ejecución condicional de la pena y de la libertad condicional"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "67",
+                  "texto": "Artículo 67. Extinción y liberación",
+                  "nombre": "Extinción y liberación"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "68",
+                  "texto": "Artículo 68. Reclusión domiciliaria u hospitalaria por enfermedad",
+                  "nombre": "Reclusión domiciliaria u hospitalaria por enfermedad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "68A",
+                  "texto": "Artículo 68A. Exclusión de los beneficios y subrogados penales",
+                  "nombre": "Exclusión de los beneficios y subrogados penales"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "68B",
+                  "texto": "Artículo 68B. Revisión de la pena por evaluación de resocialización de la prisión perpetua",
+                  "nombre": "Revisión de la pena por evaluación de resocialización de la prisión perpetua"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "68C",
+                  "texto": "Artículo 68C. Plan individual de resocialización",
+                  "nombre": "Plan individual de resocialización"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "IV",
+              "texto": "CAPÍTULO IV.",
+              "descripcion": "De las medidas de seguridad",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "69",
+                  "texto": "Artículo 69. Medidas de seguridad",
+                  "nombre": "Medidas de seguridad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "70",
+                  "texto": "Artículo 70. Internación para inimputable por trastorno mental permanente",
+                  "nombre": "Internación para inimputable por trastorno mental permanente"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "71",
+                  "texto": "Artículo 71. Internación para inimputable por trastorno mental transitorio con base patológica",
+                  "nombre": "Internación para inimputable por trastorno mental transitorio con base patológica"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "72",
+                  "texto": "Artículo 72. La internación en casa de estudio o de trabajo",
+                  "nombre": "La internación en casa de estudio o de trabajo"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "73",
+                  "texto": "Artículo 73. La reintegración al medio cultural propio",
+                  "nombre": "La reintegración al medio cultural propio"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "74",
+                  "texto": "Artículo 74. Libertad vigilada",
+                  "nombre": "Libertad vigilada"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "75",
+                  "texto": "Artículo 75. Trastorno mental transitorio sin base patológica",
+                  "nombre": "Trastorno mental transitorio sin base patológica"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "76",
+                  "texto": "Artículo 76. Medida de seguridad en casos especiales",
+                  "nombre": "Medida de seguridad en casos especiales"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "77",
+                  "texto": "Artículo 77. Control judicial de las medidas",
+                  "nombre": "Control judicial de las medidas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "78",
+                  "texto": "Artículo 78. Revocación de la suspensión condicional",
+                  "nombre": "Revocación de la suspensión condicional"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "79",
+                  "texto": "Artículo 79. Suspensión o cesación de las medidas de seguridad",
+                  "nombre": "Suspensión o cesación de las medidas de seguridad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "80",
+                  "texto": "Artículo 80. Computo de la internación preventiva",
+                  "nombre": "Computo de la internación preventiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "81",
+                  "texto": "Artículo 81. Restricción de otros derechos a los inimputables",
+                  "nombre": "Restricción de otros derechos a los inimputables"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "V",
+              "texto": "CAPÍTULO V.",
+              "descripcion": "De la extinción de la acción y de la sanción penal",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "82",
+                  "texto": "Artículo 82. Extinción de la acción penal",
+                  "nombre": "Extinción de la acción penal"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "83",
+                  "texto": "Artículo 83. Término de prescripción de la acción penal",
+                  "nombre": "Término de prescripción de la acción penal"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "84",
+                  "texto": "Artículo 84. Iniciación del término de prescripción de la acción",
+                  "nombre": "Iniciación del término de prescripción de la acción"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "85",
+                  "texto": "Artículo 85. Renuncia a la prescripción",
+                  "nombre": "Renuncia a la prescripción"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "86",
+                  "texto": "Artículo 86. Interrupción y suspensión del término prescriptivo de la acción",
+                  "nombre": "Interrupción y suspensión del término prescriptivo de la acción"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "87",
+                  "texto": "Artículo 87. La oblación",
+                  "nombre": "La oblación"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "88",
+                  "texto": "Artículo 88. Extinción de la sanción penal",
+                  "nombre": "Extinción de la sanción penal"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "89",
+                  "texto": "Artículo 89. Término de prescripción de la sanción penal",
+                  "nombre": "Término de prescripción de la sanción penal"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "90",
+                  "texto": "Artículo 90. Interrupción del término de prescripción de la sanción privativa de la libertad",
+                  "nombre": "Interrupción del término de prescripción de la sanción privativa de la libertad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "91",
+                  "texto": "Artículo 91. Interrupción del término de prescripción de la multa",
+                  "nombre": "Interrupción del término de prescripción de la multa"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "92",
+                  "texto": "Artículo 92. La rehabilitación",
+                  "nombre": "La rehabilitación"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "LIBRO",
+      "id": "II",
+      "texto": "LIBRO II.",
+      "descripcion": "Parte especial de los delitos en particular.",
+      "titulos": [
+        {
+          "tipo": "TITULO",
+          "id": "I",
+          "texto": "TÍTULO I.",
+          "descripcion": "Delitos contra la vida y la integridad personal",
+          "capitulos": [
+            {
+              "tipo": "CAPITULO",
+              "id": "I",
+              "texto": "CAPÍTULO I.",
+              "descripcion": "Del genocidio",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "101",
+                  "texto": "Artículo 101. Genocidio",
+                  "nombre": "Genocidio"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "102",
+                  "texto": "Artículo 102. Apología del genocidio",
+                  "nombre": "Apología del genocidio"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "II",
+              "texto": "CAPÍTULO II.",
+              "descripcion": "Del homicidio",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "103",
+                  "texto": "Artículo 103. Homicidio",
+                  "nombre": "Homicidio"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "103A",
+                  "texto": "Artículo 103A. Circunstancias de agravación punitiva cuando el homicidio recae en niño, niña o adolescente.",
+                  "nombre": "Circunstancias de agravación punitiva cuando el homicidio recae en niño, niña o adolescente"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "104",
+                  "texto": "Artículo 104. Circunstancias de agravación",
+                  "nombre": "Circunstancias de agravación"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "104A",
+                  "texto": "Artículo 104A. Feminicidio",
+                  "nombre": "Feminicidio"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "104B",
+                  "texto": "Artículo 104B. Circunstancias de agravación punitiva del feminicidio",
+                  "nombre": "Circunstancias de agravación punitiva del feminicidio"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "105",
+                  "texto": "Artículo 105. Homicidio preterintencional",
+                  "nombre": "Homicidio preterintencional"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "106",
+                  "texto": "Artículo 106. Homicidio por piedad",
+                  "nombre": "Homicidio por piedad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "107",
+                  "texto": "Artículo 107. Inducción o ayuda al suicidio",
+                  "nombre": "Inducción o ayuda al suicidio"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "108",
+                  "texto": "Artículo 108. Muerte de hijo fruto de acceso carnal violento, abusivo, o de inseminación artificial o transferencia de ovulo fecundado no consentidas",
+                  "nombre": "Muerte de hijo fruto de acceso carnal violento, abusivo, o de inseminación artificial o transferencia de ovulo fecundado no consentidas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "109",
+                  "texto": "Artículo 109. Homicidio culposo",
+                  "nombre": "Homicidio culposo"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "110",
+                  "texto": "Artículo 110. Circunstancias de agravación punitiva para el homicidio culposo",
+                  "nombre": "Circunstancias de agravación punitiva para el homicidio culposo"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "III",
+              "texto": "CAPÍTULO III.",
+              "descripcion": "De las lesiones personales",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "111",
+                  "texto": "Artículo 111. Lesiones",
+                  "nombre": "Lesiones"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "112",
+                  "texto": "Artículo 112. Incapacidad para trabajar o enfermedad",
+                  "nombre": "Incapacidad para trabajar o enfermedad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "113",
+                  "texto": "Artículo 113. Deformidad",
+                  "nombre": "Deformidad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "114",
+                  "texto": "Artículo 114. Perturbación funcional",
+                  "nombre": "Perturbación funcional"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "115",
+                  "texto": "Artículo 115. Perturbación psíquica",
+                  "nombre": "Perturbación psíquica"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "116",
+                  "texto": "Artículo 116. Pérdida anatómica o funcional de un órgano o miembro",
+                  "nombre": "Pérdida anatómica o funcional de un órgano o miembro"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "116A",
+                  "texto": "Artículo 116A. Lesiones con agentes químicos, ácido y/o sustancias similares",
+                  "nombre": "Lesiones con agentes químicos, ácido y/o sustancias similares"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "116B",
+                  "texto": "Artículo 116B. Lesiones con sustancias modelantes no permitidas",
+                  "nombre": "Lesiones con sustancias modelantes no permitidas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "117",
+                  "texto": "Artículo 117. Unidad punitiva",
+                  "nombre": "Unidad punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "118",
+                  "texto": "Artículo 118. Parto o aborto preterintencional",
+                  "nombre": "Parto o aborto preterintencional"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "119",
+                  "texto": "Artículo 119. Circunstancias de agravación punitiva",
+                  "nombre": "Circunstancias de agravación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "120",
+                  "texto": "Artículo 120. Lesiones culposas",
+                  "nombre": "Lesiones culposas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "121",
+                  "texto": "Artículo 121. Circunstancias de agravación punitiva por lesiones culposas",
+                  "nombre": "Circunstancias de agravación punitiva por lesiones culposas"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "IV",
+              "texto": "CAPÍTULO IV.",
+              "descripcion": "Del aborto",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "122",
+                  "texto": "Artículo 122. Aborto",
+                  "nombre": "Aborto"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "123",
+                  "texto": "Artículo 123. Aborto sin consentimiento",
+                  "nombre": "Aborto sin consentimiento"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "124",
+                  "texto": "Artículo 124. Circunstancias de atenuación punitiva",
+                  "nombre": "Circunstancias de atenuación punitiva"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "V",
+              "texto": "CAPÍTULO V.",
+              "descripcion": "De las lesiones al feto",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "125",
+                  "texto": "Artículo 125. Lesiones al feto",
+                  "nombre": "Lesiones al feto"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "126",
+                  "texto": "Artículo 126. Lesiones culposas al feto",
+                  "nombre": "Lesiones culposas al feto"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "VI",
+              "texto": "CAPÍTULO VI.",
+              "descripcion": "Del abandono de menores y personas desvalidas",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "127",
+                  "texto": "Artículo 127. Abandono",
+                  "nombre": "Abandono"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "128",
+                  "texto": "Artículo 128. Abandono de hijo fruto de acceso carnal violento, abusivo, o de inseminación artificial o transferencia de ovulo fecundado no consentidas",
+                  "nombre": "Abandono de hijo fruto de acceso carnal violento, abusivo, o de inseminación artificial o transferencia de ovulo fecundado no consentidas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "129",
+                  "texto": "Artículo 129. Eximente de responsabilidad y atenuante punitivo",
+                  "nombre": "Eximente de responsabilidad y atenuante punitivo"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "130",
+                  "texto": "Artículo 130. Circunstancias de agravación",
+                  "nombre": "Circunstancias de agravación"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "VII",
+              "texto": "CAPÍTULO VII.",
+              "descripcion": "De la omisión de socorro",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "131",
+                  "texto": "Artículo 131. Omisión de socorro",
+                  "nombre": "Omisión de socorro"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "131-A",
+                  "texto": "Artículo 131-A. Omisión en la atención inicial de urgencias",
+                  "nombre": "Omisión en la atención inicial de urgencias"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "VIII",
+              "texto": "CAPÍTULO VIII.",
+              "descripcion": "De la manipulación genética",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "132",
+                  "texto": "Artículo 132. Manipulación genética",
+                  "nombre": "Manipulación genética"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "133",
+                  "texto": "Artículo 133. Repetibilidad del ser humano",
+                  "nombre": "Repetibilidad del ser humano"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "134",
+                  "texto": "Artículo 134. Fecundación y trafico de embriones humanos",
+                  "nombre": "Fecundación y trafico de embriones humanos"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "IX",
+              "texto": "CAPÍTULO IX.",
+              "descripcion": "De los actos de discriminación.",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "134A",
+                  "texto": "Artículo 134A. Actos de discriminación",
+                  "nombre": "Actos de discriminación"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "134C",
+                  "texto": "Artículo 134C. Circunstancias de agravación punitiva",
+                  "nombre": "Circunstancias de agravación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "134D",
+                  "texto": "Artículo 134D. Circunstancias de atenuación punitiva",
+                  "nombre": "Circunstancias de atenuación punitiva"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "TITULO",
+          "id": "II",
+          "texto": "TÍTULO II.",
+          "descripcion": "Delitos contra personas y bienes protegidos por el derecho Internacional humanitario",
+          "capitulos": [
+            {
+              "tipo": "CAPITULO",
+              "id": "ÚNICO",
+              "texto": "CAPÍTULO ÚNICO",
+              "descripcion": "",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "135",
+                  "texto": "Artículo 135. Homicidio en persona protegida",
+                  "nombre": "Homicidio en persona protegida"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "136",
+                  "texto": "Artículo 136. Lesiones en persona protegida",
+                  "nombre": "Lesiones en persona protegida"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "137",
+                  "texto": "Artículo 137. Tortura en persona protegida",
+                  "nombre": "Tortura en persona protegida"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "138",
+                  "texto": "Artículo 138. Acceso carnal violento en persona protegida",
+                  "nombre": "Acceso carnal violento en persona protegida"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "138A",
+                  "texto": "Artículo 138A. Acceso carnal abusivo en persona protegida menor de catorce años",
+                  "nombre": "Acceso carnal abusivo en persona protegida menor de catorce años"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "139",
+                  "texto": "Artículo 139. Actos sexuales violentos en persona protegida",
+                  "nombre": "Actos sexuales violentos en persona protegida"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "139A",
+                  "texto": "Artículo 139A. Actos sexuales con persona protegida menor de catorce años",
+                  "nombre": "Actos sexuales con persona protegida menor de catorce años"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "139B",
+                  "texto": "Artículo 139B. Esterilización forzada en persona protegida",
+                  "nombre": "Esterilización forzada en persona protegida"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "139C",
+                  "texto": "Artículo 139C. Embarazo forzado en persona protegida",
+                  "nombre": "Embarazo forzado en persona protegida"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "139D",
+                  "texto": "Artículo 139D. Desnudez forzada en persona protegida",
+                  "nombre": "Desnudez forzada en persona protegida"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "139E",
+                  "texto": "Artículo 139E. Aborto forzado en persona protegida",
+                  "nombre": "Aborto forzado en persona protegida"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "140",
+                  "texto": "Artículo 140. Circunstancias de agravación",
+                  "nombre": "Circunstancias de agravación"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "141",
+                  "texto": "Artículo 141. Prostitución forzada en persona protegida",
+                  "nombre": "Prostitución forzada en persona protegida"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "141A",
+                  "texto": "Artículo 141A. Esclavitud sexual en persona protegida",
+                  "nombre": "Esclavitud sexual en persona protegida"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "141B",
+                  "texto": "Artículo 141B. Trata de personas en persona protegida con fines de explotación sexual",
+                  "nombre": "Trata de personas en persona protegida con fines de explotación sexual"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "142",
+                  "texto": "Artículo 142. Utilización de medios y métodos de guerra ilícitos",
+                  "nombre": "Utilización de medios y métodos de guerra ilícitos"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "143",
+                  "texto": "Artículo 143. Perfidia",
+                  "nombre": "Perfidia"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "144",
+                  "texto": "Artículo 144. Actos de terrorismo",
+                  "nombre": "Actos de terrorismo"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "145",
+                  "texto": "Artículo 145. Actos de barbarie",
+                  "nombre": "Actos de barbarie"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "146",
+                  "texto": "Artículo 146. Tratos inhumanos y degradantes y experimentos biológicos en persona protegida",
+                  "nombre": "Tratos inhumanos y degradantes y experimentos biológicos en persona protegida"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "147",
+                  "texto": "Artículo 147. Actos de discriminación racial",
+                  "nombre": "Actos de discriminación racial"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "148",
+                  "texto": "Artículo 148. Toma de rehenes",
+                  "nombre": "Toma de rehenes"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "149",
+                  "texto": "Artículo 149. Detención ilegal y privación del debido proceso",
+                  "nombre": "Detención ilegal y privación del debido proceso"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "150",
+                  "texto": "Artículo 150. Constreñimiento a apoyo bélico",
+                  "nombre": "Constreñimiento a apoyo bélico"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "151",
+                  "texto": "Artículo 151. Despojo en el campo de batalla",
+                  "nombre": "Despojo en el campo de batalla"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "152",
+                  "texto": "Artículo 152. Omisión de medidas de socorro y asistencia humanitaria",
+                  "nombre": "Omisión de medidas de socorro y asistencia humanitaria"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "153",
+                  "texto": "Artículo 153. Obstaculización de tareas sanitarias y humanitarias",
+                  "nombre": "Obstaculización de tareas sanitarias y humanitarias"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "154",
+                  "texto": "Artículo 154. Destrucción y apropiación de bienes protegidos",
+                  "nombre": "Destrucción y apropiación de bienes protegidos"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "155",
+                  "texto": "Artículo 155. Destrucción de bienes e instalaciones de carácter sanitario",
+                  "nombre": "Destrucción de bienes e instalaciones de carácter sanitario"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "156",
+                  "texto": "Artículo 156. Destrucción o utilización ilícita de bienes culturales y de lugares de culto",
+                  "nombre": "Destrucción o utilización ilícita de bienes culturales y de lugares de culto"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "157",
+                  "texto": "Artículo 157. Ataque contra obras e instalaciones que contienen fuerzas peligrosas",
+                  "nombre": "Ataque contra obras e instalaciones que contienen fuerzas peligrosas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "158",
+                  "texto": "Artículo 158. Represalias",
+                  "nombre": "Represalias"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "159",
+                  "texto": "Artículo 159. Deportación, expulsión, traslado o desplazamiento forzado de población civil",
+                  "nombre": "Deportación, expulsión, traslado o desplazamiento forzado de población civil"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "160",
+                  "texto": "Artículo 160. Atentados a la subsistencia y devastación",
+                  "nombre": "Atentados a la subsistencia y devastación"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "161",
+                  "texto": "Artículo 161. Omisión de medidas de protección a la población civil",
+                  "nombre": "Omisión de medidas de protección a la población civil"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "162",
+                  "texto": "Artículo 162. Reclutamiento ilícito",
+                  "nombre": "Reclutamiento ilícito"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "163",
+                  "texto": "Artículo 163. Exacción o contribuciones arbitrarias",
+                  "nombre": "Exacción o contribuciones arbitrarias"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "164",
+                  "texto": "Artículo 164. Destrucción del medio ambiente",
+                  "nombre": "Destrucción del medio ambiente"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "TITULO",
+          "id": "III",
+          "texto": "TÍTULO III.",
+          "descripcion": "Delitos contra la libertad individual y otras garantías",
+          "capitulos": [
+            {
+              "tipo": "CAPITULO",
+              "id": "I",
+              "texto": "CAPÍTULO I.",
+              "descripcion": "De la desaparición forzada",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "165",
+                  "texto": "Artículo 165. Desaparición forzada",
+                  "nombre": "Desaparición forzada"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "166",
+                  "texto": "Artículo 166. Circunstancias de agravación punitiva",
+                  "nombre": "Circunstancias de agravación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "167",
+                  "texto": "Artículo 167. Circunstancias de atenuación punitiva",
+                  "nombre": "Circunstancias de atenuación punitiva"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "II",
+              "texto": "CAPÍTULO II.",
+              "descripcion": "Del secuestro",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "168",
+                  "texto": "Artículo 168. Secuestro simple",
+                  "nombre": "Secuestro simple"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "169",
+                  "texto": "Artículo 169. Secuestro extorsivo",
+                  "nombre": "Secuestro extorsivo"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "170",
+                  "texto": "Artículo 170. Circunstancias de agravación punitiva",
+                  "nombre": "Circunstancias de agravación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "171",
+                  "texto": "Artículo 171. Circunstancias de atenuación punitiva",
+                  "nombre": "Circunstancias de atenuación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "172",
+                  "texto": "Artículo 172. Celebración indebida de contratos de seguros",
+                  "nombre": "Celebración indebida de contratos de seguros"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "III",
+              "texto": "CAPÍTULO III.",
+              "descripcion": "Apoderamiento y desvío de aeronaves, naves o medios de transporte colectivo",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "173",
+                  "texto": "Artículo 173. Apoderamiento de aeronaves, naves, o medios de transporte colectivo",
+                  "nombre": "Apoderamiento de aeronaves, naves, o medios de transporte colectivo"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "IV",
+              "texto": "CAPÍTULO IV.",
+              "descripcion": "De la detención arbitraria",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "174",
+                  "texto": "Artículo 174. Privación ilegal de libertad",
+                  "nombre": "Privación ilegal de libertad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "175",
+                  "texto": "Artículo 175. Prolongación ilícita de privación de la libertad",
+                  "nombre": "Prolongación ilícita de privación de la libertad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "176",
+                  "texto": "Artículo 176. Detención arbitraria especial",
+                  "nombre": "Detención arbitraria especial"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "177",
+                  "texto": "Artículo 177. Desconocimiento de hábeas corpus",
+                  "nombre": "Desconocimiento de hábeas corpus"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "V",
+              "texto": "CAPÍTULO V.",
+              "descripcion": "De los delitos contra la autonomía personal",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "178",
+                  "texto": "Artículo 178. Tortura",
+                  "nombre": "Tortura"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "179",
+                  "texto": "Artículo 179. Circunstancias de agravación punitiva",
+                  "nombre": "Circunstancias de agravación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "180",
+                  "texto": "Artículo 180. Desplazamiento forzado",
+                  "nombre": "Desplazamiento forzado"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "181",
+                  "texto": "Artículo 181. Circunstancias de agravación punitiva",
+                  "nombre": "Circunstancias de agravación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "182",
+                  "texto": "Artículo 182. Constreñimiento ilegal",
+                  "nombre": "Constreñimiento ilegal"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "182A",
+                  "texto": "Artículo 182A. Constreñimiento ilegal por parte de miembros de grupos delictivos organizados y grupos armados organizados",
+                  "nombre": "Constreñimiento ilegal por parte de miembros de grupos delictivos organizados y grupos armados organizados"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "183",
+                  "texto": "Artículo 183. Circunstancias de agravación punitiva",
+                  "nombre": "Circunstancias de agravación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "184",
+                  "texto": "Artículo 184. Constreñimiento para delinquir",
+                  "nombre": "Constreñimiento para delinquir"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "185",
+                  "texto": "Artículo 185. Circunstancias de agravación punitiva",
+                  "nombre": "Circunstancias de agravación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "185A",
+                  "texto": "Artículo 185A. Intimidación o amenaza con arma de fuego; armas, elementos o dispositivos menos letales; armas de fuego hechizas; y arma blanca",
+                  "nombre": "Intimidación o amenaza con arma de fuego; armas, elementos o dispositivos menos letales; armas de fuego hechizas; y arma blanca"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "186",
+                  "texto": "Artículo 186. Fraudulenta internación en asilo, clínica o establecimiento similar",
+                  "nombre": "Fraudulenta internación en asilo, clínica o establecimiento similar"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "187",
+                  "texto": "Artículo 187. Inseminación artificial o transferencia de ovulo fecundado no consentidas",
+                  "nombre": "Inseminación artificial o transferencia de ovulo fecundado no consentidas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "188",
+                  "texto": "Artículo 188. Del tráfico de migrantes",
+                  "nombre": "Del tráfico de migrantes"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "188-A",
+                  "texto": "Artículo 188-A. Trata de personas",
+                  "nombre": "Trata de personas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "188-B",
+                  "texto": "Artículo 188-B. Circunstancias de agravación punitiva",
+                  "nombre": "Circunstancias de agravación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "188C",
+                  "texto": "Artículo 188C. Tráfico de niñas, niños y adolescentes.",
+                  "nombre": "Tráfico de niñas, niños y adolescentes"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "188D",
+                  "texto": "Artículo 188D. Uso de menores de edad la comisión de delitos",
+                  "nombre": "Uso de menores de edad la comisión de delitos"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "188D",
+                  "texto": "Artículo 188D. Uso de menores de edad la comisión de delitos",
+                  "nombre": "Uso de menores de edad la comisión de delitos"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "188E",
+                  "texto": "Artículo 188E. Amenazas contra defensores de derechos humanos y servidores públicos",
+                  "nombre": "Amenazas contra defensores de derechos humanos y servidores públicos"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "VI",
+              "texto": "CAPÍTULO VI.",
+              "descripcion": "Delitos contra la inviolabilidad de habitación o sitio de trabajo",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "189",
+                  "texto": "Artículo 189. Violación de habitación ajena",
+                  "nombre": "Violación de habitación ajena"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "190",
+                  "texto": "Artículo 190. Violación de habitación ajena por servidor público",
+                  "nombre": "Violación de habitación ajena por servidor público"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "191",
+                  "texto": "Artículo 191. Violación en lugar de trabajo",
+                  "nombre": "Violación en lugar de trabajo"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "VII",
+              "texto": "CAPÍTULO VII.",
+              "descripcion": "De la violación a la intimidad, reserva e interceptación de comunicaciones",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "192",
+                  "texto": "Artículo 192. Violación ilícita de comunicaciones",
+                  "nombre": "Violación ilícita de comunicaciones"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "193",
+                  "texto": "Artículo 193. Ofrecimiento, venta o compra de instrumento apto para interceptar la comunicación privada entre personas",
+                  "nombre": "Ofrecimiento, venta o compra de instrumento apto para interceptar la comunicación privada entre personas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "194",
+                  "texto": "Artículo 194. Divulgación y empleo de documentos reservados",
+                  "nombre": "Divulgación y empleo de documentos reservados"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "195",
+                  "texto": "Artículo 195. Acceso abusivo a un sistema informático",
+                  "nombre": "Acceso abusivo a un sistema informático"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "196",
+                  "texto": "Artículo 196. Violación ilícita de comunicaciones o correspondencia de carácter oficial",
+                  "nombre": "Violación ilícita de comunicaciones o correspondencia de carácter oficial"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "197",
+                  "texto": "Artículo 197. Utilización ilícita de redes de comunicaciones",
+                  "nombre": "Utilización ilícita de redes de comunicaciones"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "VIII",
+              "texto": "CAPÍTULO VIII.",
+              "descripcion": "De los delitos contra la libertad de trabajo y asociación",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "198",
+                  "texto": "Artículo 198. Violación de la libertad de trabajo",
+                  "nombre": "Violación de la libertad de trabajo"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "199",
+                  "texto": "Artículo 199. Sabotaje",
+                  "nombre": "Sabotaje"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "200",
+                  "texto": "Artículo 200. Violación de los derechos de reunión y asociación",
+                  "nombre": "Violación de los derechos de reunión y asociación"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "IX",
+              "texto": "CAPÍTULO IX.",
+              "descripcion": "De los delitos contra el sentimiento religioso y el respeto a los difuntos",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "201",
+                  "texto": "Artículo 201. Violación a la libertad religiosa",
+                  "nombre": "Violación a la libertad religiosa"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "202",
+                  "texto": "Artículo 202. Impedimento y perturbación de ceremonia religiosa",
+                  "nombre": "Impedimento y perturbación de ceremonia religiosa"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "203",
+                  "texto": "Artículo 203. Daños o agravios a personas o a cosas destinadas al culto",
+                  "nombre": "Daños o agravios a personas o a cosas destinadas al culto"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "204",
+                  "texto": "Artículo 204. Irrespeto a cadáveres",
+                  "nombre": "Irrespeto a cadáveres"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "TITULO",
+          "id": "IV",
+          "texto": "TÍTULO IV.",
+          "descripcion": "Delitos contra la libertad, integridad y formación sexuales",
+          "capitulos": [
+            {
+              "tipo": "CAPITULO",
+              "id": "I",
+              "texto": "CAPÍTULO I.",
+              "descripcion": "De la violación",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "205",
+                  "texto": "Artículo 205. Acceso carnal violento",
+                  "nombre": "Acceso carnal violento"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "206",
+                  "texto": "Artículo 206. Acto sexual violento",
+                  "nombre": "Acto sexual violento"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "207",
+                  "texto": "Artículo 207. Acceso carnal o acto sexual en persona puesta en incapacidad de resistir",
+                  "nombre": "Acceso carnal o acto sexual en persona puesta en incapacidad de resistir"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "II",
+              "texto": "CAPÍTULO II.",
+              "descripcion": "De los actos sexuales abusivos",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "208",
+                  "texto": "Artículo 208. Acceso carnal abusivo con menor de catorce años",
+                  "nombre": "Acceso carnal abusivo con menor de catorce años"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "209",
+                  "texto": "Artículo 209. Actos sexuales con menor de catorce años",
+                  "nombre": "Actos sexuales con menor de catorce años"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "210",
+                  "texto": "Artículo 210. Acceso carnal o acto sexual abusivos con incapaz de resistir",
+                  "nombre": "Acceso carnal o acto sexual abusivos con incapaz de resistir"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "210-A",
+                  "texto": "Artículo 210-A. Acoso sexual",
+                  "nombre": "Acoso sexual"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "III",
+              "texto": "CAPÍTULO III.",
+              "descripcion": "Disposiciones comunes a los capítulos anteriores",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "211",
+                  "texto": "Artículo 211. Circunstancias de agravación punitiva",
+                  "nombre": "Circunstancias de agravación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "211A",
+                  "texto": "Artículo 211A. Circunstancias de agravación punitiva cuando el homicidio recae en niño, niña o adolescente.",
+                  "nombre": "Circunstancias de agravación punitiva cuando el homicidio recae en niño, niña o adolescente"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "212",
+                  "texto": "Artículo 212. Acceso carnal",
+                  "nombre": "Acceso carnal"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "212A",
+                  "texto": "Artículo 212A. Violencia",
+                  "nombre": "Violencia"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "IV",
+              "texto": "CAPÍTULO IV.",
+              "descripcion": "De la explotación sexual.",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "213",
+                  "texto": "Artículo 213. Inducción a la prostitución",
+                  "nombre": "Inducción a la prostitución"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "213-A",
+                  "texto": "Artículo 213-A. Proxenetismo con menor de edad",
+                  "nombre": "Proxenetismo con menor de edad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "213-A",
+                  "texto": "Artículo 213-A. Proxenetismo con menor de edad",
+                  "nombre": "Proxenetismo con menor de edad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "214",
+                  "texto": "Artículo 214. Constreñimiento a la prostitución",
+                  "nombre": "Constreñimiento a la prostitución"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "215",
+                  "texto": "Artículo 215. Trata de personas",
+                  "nombre": "Trata de personas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "216",
+                  "texto": "Artículo 216. Circunstancias de agravación punitiva",
+                  "nombre": "Circunstancias de agravación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "217",
+                  "texto": "Artículo 217. Estimulo a la prostitución de menores",
+                  "nombre": "Estimulo a la prostitución de menores"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "218",
+                  "texto": "Artículo 218. Pornografía con personas menores de 18 años",
+                  "nombre": "Pornografía con personas menores de 18 años"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "219",
+                  "texto": "Artículo 219. Turismo sexual",
+                  "nombre": "Turismo sexual"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "219-A",
+                  "texto": "Artículo 219-A. Utilización o facilitación de medios de comunicación para ofrecer actividades sexuales con personas menores de 18 años",
+                  "nombre": "Utilización o facilitación de medios de comunicación para ofrecer actividades sexuales con personas menores de 18 años"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "219-B",
+                  "texto": "Artículo 219-B. Omisión de denuncia",
+                  "nombre": "Omisión de denuncia"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "219-C",
+                  "texto": "Artículo 219-C. Inhabilidades por delitos sexuales cometidos contra menores",
+                  "nombre": "Inhabilidades por delitos sexuales cometidos contra menores"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "TITULO",
+          "id": "V",
+          "texto": "TÍTULO V.",
+          "descripcion": "Delitos contra la integridad moral",
+          "capitulos": [
+            {
+              "tipo": "CAPITULO",
+              "id": "ÚNICO",
+              "texto": "CAPÍTULO ÚNICO.",
+              "descripcion": "De la injuria y la calumnia",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "220",
+                  "texto": "Artículo 220. Injuria",
+                  "nombre": "Injuria"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "221",
+                  "texto": "Artículo 221. Calumnia",
+                  "nombre": "Calumnia"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "222",
+                  "texto": "Artículo 222. Injuria y calumnia indirectas",
+                  "nombre": "Injuria y calumnia indirectas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "223",
+                  "texto": "Artículo 223. Circunstancias especiales de graduación de la pena",
+                  "nombre": "Circunstancias especiales de graduación de la pena"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "224",
+                  "texto": "Artículo 224. Eximente de responsabilidad",
+                  "nombre": "Eximente de responsabilidad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "225",
+                  "texto": "Artículo 225. Retractación",
+                  "nombre": "Retractación"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "226",
+                  "texto": "Artículo 226. Injuria por vias de hecho",
+                  "nombre": "Injuria por vias de hecho"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "227",
+                  "texto": "Artículo 227. Injurias o calumnias reciprocas",
+                  "nombre": "Injurias o calumnias reciprocas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "228",
+                  "texto": "Artículo 228. Imputaciones de litigantes",
+                  "nombre": "Imputaciones de litigantes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "TITULO",
+          "id": "VI",
+          "texto": "TÍTULO VI.",
+          "descripcion": "Delitos contra la familia",
+          "capitulos": [
+            {
+              "tipo": "CAPITULO",
+              "id": "I",
+              "texto": "CAPÍTULO I.",
+              "descripcion": "De la violencia intrafamiliar",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "229",
+                  "texto": "Artículo 229. Violencia intrafamiliar",
+                  "nombre": "Violencia intrafamiliar"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "229A",
+                  "texto": "Artículo 229A. Maltrato por descuido, negligencia o abandono en persona mayor de 60 años",
+                  "nombre": "Maltrato por descuido, negligencia o abandono en persona mayor de 60 años"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "230",
+                  "texto": "Artículo 230. Maltrato mediante restricción a la libertad física",
+                  "nombre": "Maltrato mediante restricción a la libertad física"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "230-A",
+                  "texto": "Artículo 230-A. Ejercicio arbitrario de la custodia de hijo menor de edad",
+                  "nombre": "Ejercicio arbitrario de la custodia de hijo menor de edad"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "II",
+              "texto": "CAPÍTULO II.",
+              "descripcion": "",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "231",
+                  "texto": "Artículo 231. Mendicidad y trafico de menores",
+                  "nombre": "Mendicidad y trafico de menores"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "III",
+              "texto": "CAPÍTULO III.",
+              "descripcion": "De la adopción irregular",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "232",
+                  "texto": "Artículo 232. Adopción irregular",
+                  "nombre": "Adopción irregular"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "IV",
+              "texto": "CAPÍTULO IV.",
+              "descripcion": "De los delitos contra la asistencia alimentaria",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "233",
+                  "texto": "Artículo 233. Inasistencia alimentaria",
+                  "nombre": "Inasistencia alimentaria"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "234",
+                  "texto": "Artículo 234. Circunstancias de agravación punitiva",
+                  "nombre": "Circunstancias de agravación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "235",
+                  "texto": "Artículo 235. Reiteración",
+                  "nombre": "Reiteración"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "236",
+                  "texto": "Artículo 236. Malversación y dilapidación de bienes de familiares",
+                  "nombre": "Malversación y dilapidación de bienes de familiares"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "V",
+              "texto": "CAPÍTULO V.",
+              "descripcion": "Del incesto",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "237",
+                  "texto": "Artículo 237. Incesto",
+                  "nombre": "Incesto"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "VI",
+              "texto": "CAPÍTULO VI.",
+              "descripcion": "De la supresión, alteración o suposición del estado civil",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "238",
+                  "texto": "Artículo 238. Supresión, alteración o suposición del estado civil",
+                  "nombre": "Supresión, alteración o suposición del estado civil"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "TITULO",
+          "id": "VII",
+          "texto": "TÍTULO VII.",
+          "descripcion": "Delitos contra el patrimonio económico",
+          "capitulos": [
+            {
+              "tipo": "CAPITULO",
+              "id": "I",
+              "texto": "CAPÍTULO I.",
+              "descripcion": "Del hurto",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "239",
+                  "texto": "Artículo 239. Hurto",
+                  "nombre": "Hurto"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "240",
+                  "texto": "Artículo 240. Hurto calificado",
+                  "nombre": "Hurto calificado"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "241",
+                  "texto": "Artículo 241. Circunstancias de agravación punitiva",
+                  "nombre": "Circunstancias de agravación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "242",
+                  "texto": "Artículo 242. Circunstancias de atenuación punitiva",
+                  "nombre": "Circunstancias de atenuación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "243",
+                  "texto": "Artículo 243. Abigeato",
+                  "nombre": "Abigeato"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "243A",
+                  "texto": "Artículo 243A. Circunstancias de agravación punitiva",
+                  "nombre": "Circunstancias de agravación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "243B",
+                  "texto": "Artículo 243B. Circunstancias de atenuación punitiva",
+                  "nombre": "Circunstancias de atenuación punitiva"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "II",
+              "texto": "CAPÍTULO II.",
+              "descripcion": "De la extorsión",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "244",
+                  "texto": "Artículo 244. Extorsión",
+                  "nombre": "Extorsión"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "245",
+                  "texto": "Artículo 245. Circunstancias de agravación",
+                  "nombre": "Circunstancias de agravación"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "III",
+              "texto": "CAPÍTULO III.",
+              "descripcion": "De la estafa",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "246",
+                  "texto": "Artículo 246. Estafa",
+                  "nombre": "Estafa"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "247",
+                  "texto": "Artículo 247. Circunstancias de agravación punitiva",
+                  "nombre": "Circunstancias de agravación punitiva"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "IV",
+              "texto": "CAPÍTULO IV.",
+              "descripcion": "Fraude mediante cheque",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "248",
+                  "texto": "Artículo 248. Emisión y transferencia ilegal de cheque",
+                  "nombre": "Emisión y transferencia ilegal de cheque"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "V",
+              "texto": "CAPÍTULO V.",
+              "descripcion": "Del abuso de confianza",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "249",
+                  "texto": "Artículo 249. Abuso de confianza",
+                  "nombre": "Abuso de confianza"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "250",
+                  "texto": "Artículo 250. Abuso de confianza calificado",
+                  "nombre": "Abuso de confianza calificado"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "250A",
+                  "texto": "Artículo 250A. Corrupción privada",
+                  "nombre": "Corrupción privada"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "250B",
+                  "texto": "Artículo 250B. Administración desleal",
+                  "nombre": "Administración desleal"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "VI",
+              "texto": "CAPÍTULO VI.",
+              "descripcion": "De las defraudaciones",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "251",
+                  "texto": "Artículo 251. Abuso de condiciones de inferioridad",
+                  "nombre": "Abuso de condiciones de inferioridad"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "252",
+                  "texto": "Artículo 252. Aprovechamiento de error ajeno o caso fortuito",
+                  "nombre": "Aprovechamiento de error ajeno o caso fortuito"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "253",
+                  "texto": "Artículo 253. Alzamiento de bienes",
+                  "nombre": "Alzamiento de bienes"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "254",
+                  "texto": "Artículo 254. Sustracción de bien propio",
+                  "nombre": "Sustracción de bien propio"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "255",
+                  "texto": "Artículo 255. Disposición de bien propio gravado con prenda*",
+                  "nombre": "Disposición de bien propio gravado con prenda*"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "256",
+                  "texto": "Artículo 256. Defraudación de fluidos",
+                  "nombre": "Defraudación de fluidos"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "257",
+                  "texto": "Artículo 257. De la prestación, acceso o uso ilegales de los servicios de telecomunicaciones",
+                  "nombre": "De la prestación, acceso o uso ilegales de los servicios de telecomunicaciones"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "258",
+                  "texto": "Artículo 258. Utilización indebida de información privilegiada",
+                  "nombre": "Utilización indebida de información privilegiada"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "259",
+                  "texto": "Artículo 259. Malversación y dilapidación de bienes",
+                  "nombre": "Malversación y dilapidación de bienes"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "260",
+                  "texto": "Artículo 260. Gestion indebida de recursos sociales",
+                  "nombre": "Gestion indebida de recursos sociales"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "VII",
+              "texto": "CAPÍTULO VII.",
+              "descripcion": "De la usurpación",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "261",
+                  "texto": "Artículo 261. Usurpación de inmuebles",
+                  "nombre": "Usurpación de inmuebles"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "262",
+                  "texto": "Artículo 262. Usurpación de aguas",
+                  "nombre": "Usurpación de aguas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "263",
+                  "texto": "Artículo 263. Invasión de tierras",
+                  "nombre": "Invasión de tierras"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "264",
+                  "texto": "Artículo 264. Perturbación de la posesión sobre inmueble",
+                  "nombre": "Perturbación de la posesión sobre inmueble"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "264A",
+                  "texto": "Artículo 264A. Avasallamiento de bien inmueble",
+                  "nombre": "Avasallamiento de bien inmueble"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "VIII",
+              "texto": "CAPÍTULO VIII.",
+              "descripcion": "Del daño",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "265",
+                  "texto": "Artículo 265. Daño en bien ajeno",
+                  "nombre": "Daño en bien ajeno"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "266",
+                  "texto": "Artículo 266. Circunstancias de agravación punitiva",
+                  "nombre": "Circunstancias de agravación punitiva"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "IX",
+              "texto": "CAPÍTULO IX.",
+              "descripcion": "Disposiciones comunes a los capítulos anteriores",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "267",
+                  "texto": "Artículo 267. Circunstancias de agravación",
+                  "nombre": "Circunstancias de agravación"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "268",
+                  "texto": "Artículo 268. Circunstancia de atenuación punitiva",
+                  "nombre": "Circunstancia de atenuación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "269",
+                  "texto": "Artículo 269. Reparación",
+                  "nombre": "Reparación"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "TITULO",
+          "id": "VII",
+          "texto": "TÍTULO VII-A.",
+          "descripcion": "De delitos contra el patrimonio cultural sumergido.",
+          "capitulos": [],
+          "articulos": [
+            {
+              "tipo": "ARTICULO",
+              "id": "269-",
+              "texto": "Artículo 269-1. Delitos contra el patrimonio cultural sumergido"
+            }
+          ]
+        },
+        {
+          "tipo": "TITULO",
+          "id": "VII",
+          "texto": "TÍTULO VII BIS.",
+          "descripcion": "De la protección de la información y de los datos.",
+          "capitulos": [
+            {
+              "tipo": "CAPITULO",
+              "id": "I",
+              "texto": "CAPÍTULO I.",
+              "descripcion": "De los atentados contra la confidencialidad, la integridad y la disponibilidad de los datos y de los sistemas informáticos.",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "269A",
+                  "texto": "Artículo 269A. Acceso abusivo a un sistema informático",
+                  "nombre": "Acceso abusivo a un sistema informático"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "269B",
+                  "texto": "Artículo 269B. Obstaculización ilegítima de sistema informático o red de telecomunicación",
+                  "nombre": "Obstaculización ilegítima de sistema informático o red de telecomunicación"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "269C",
+                  "texto": "Artículo 269C. Interceptación de datos informáticos",
+                  "nombre": "Interceptación de datos informáticos"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "269D",
+                  "texto": "Artículo 269D. Daño informático",
+                  "nombre": "Daño informático"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "269E",
+                  "texto": "Artículo 269E. Uso de software malicioso",
+                  "nombre": "Uso de software malicioso"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "269F",
+                  "texto": "Artículo 269F. Violación de datos personales",
+                  "nombre": "Violación de datos personales"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "269G",
+                  "texto": "Artículo 269G. Suplantación de sitios web para capturar datos personales",
+                  "nombre": "Suplantación de sitios web para capturar datos personales"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "269H",
+                  "texto": "Artículo 269H. Circunstancias de agravación punitiva",
+                  "nombre": "Circunstancias de agravación punitiva"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "II",
+              "texto": "CAPÍTULO II.",
+              "descripcion": "De los atentados informáticos y otras infracciones.",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "269I",
+                  "texto": "Artículo 269I. Hurto por medios informáticos y semejantes",
+                  "nombre": "Hurto por medios informáticos y semejantes"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "269J",
+                  "texto": "Artículo 269J. Transferencia no consentida de activos",
+                  "nombre": "Transferencia no consentida de activos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "TITULO",
+          "id": "VIII",
+          "texto": "TÍTULO VIII.",
+          "descripcion": "De los delitos contra los derechos de autor",
+          "capitulos": [
+            {
+              "tipo": "CAPITULO",
+              "id": "ÚNICO",
+              "texto": "CAPÍTULO ÚNICO",
+              "descripcion": "",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "270",
+                  "texto": "Artículo 270. Violación a los derechos morales de autor",
+                  "nombre": "Violación a los derechos morales de autor"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "271",
+                  "texto": "Artículo 271. Violación a los derechos patrimoniales de autor y derechos conexos",
+                  "nombre": "Violación a los derechos patrimoniales de autor y derechos conexos"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "272",
+                  "texto": "Artículo 272. Violación a los mecanismos de protección de derecho de autor y derechos conexos, y otras defraudaciones",
+                  "nombre": "Violación a los mecanismos de protección de derecho de autor y derechos conexos, y otras defraudaciones"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "TITULO",
+          "id": "IX",
+          "texto": "TÍTULO IX.",
+          "descripcion": "Delitos contra la fe pública",
+          "capitulos": [
+            {
+              "tipo": "CAPITULO",
+              "id": "I",
+              "texto": "CAPÍTULO I.",
+              "descripcion": "De la falsificación de moneda",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "273",
+                  "texto": "Artículo 273. Falsificación de moneda nacional o extranjera",
+                  "nombre": "Falsificación de moneda nacional o extranjera"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "274",
+                  "texto": "Artículo 274. Trafico de moneda falsificada",
+                  "nombre": "Trafico de moneda falsificada"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "275",
+                  "texto": "Artículo 275. Trafico, elaboración y tenencia de elementos destinados a la falsificación de moneda",
+                  "nombre": "Trafico, elaboración y tenencia de elementos destinados a la falsificación de moneda"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "276",
+                  "texto": "Artículo 276. Emisiones ilegales",
+                  "nombre": "Emisiones ilegales"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "277",
+                  "texto": "Artículo 277. Circulación ilegal de monedas",
+                  "nombre": "Circulación ilegal de monedas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "278",
+                  "texto": "Artículo 278. Valores equiparados a moneda",
+                  "nombre": "Valores equiparados a moneda"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "II",
+              "texto": "CAPÍTULO II.",
+              "descripcion": "De la falsificación de sellos, efectos oficiales y marcas",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "279",
+                  "texto": "Artículo 279. Falsificación o uso fraudulento de sello oficial",
+                  "nombre": "Falsificación o uso fraudulento de sello oficial"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "280",
+                  "texto": "Artículo 280. Falsificación de efecto oficial timbrado",
+                  "nombre": "Falsificación de efecto oficial timbrado"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "281",
+                  "texto": "Artículo 281. Circulación y uso de efecto oficial o sello falsificado",
+                  "nombre": "Circulación y uso de efecto oficial o sello falsificado"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "282",
+                  "texto": "Artículo 282. Emisión ilegal de efectos oficiales",
+                  "nombre": "Emisión ilegal de efectos oficiales"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "283",
+                  "texto": "Artículo 283. Supresión de signo de anulación de efecto oficial",
+                  "nombre": "Supresión de signo de anulación de efecto oficial"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "284",
+                  "texto": "Artículo 284. Uso y circulación de efecto oficial anulado",
+                  "nombre": "Uso y circulación de efecto oficial anulado"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "285",
+                  "texto": "Artículo 285. Falsedad marcaria",
+                  "nombre": "Falsedad marcaria"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "III",
+              "texto": "CAPÍTULO III.",
+              "descripcion": "De la falsedad en documentos",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "286",
+                  "texto": "Artículo 286. Falsedad ideológica en documento público",
+                  "nombre": "Falsedad ideológica en documento público"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "287",
+                  "texto": "Artículo 287. Falsedad material en documento público",
+                  "nombre": "Falsedad material en documento público"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "288",
+                  "texto": "Artículo 288. Obtención de documento público falso",
+                  "nombre": "Obtención de documento público falso"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "289",
+                  "texto": "Artículo 289. Falsedad en documento privado",
+                  "nombre": "Falsedad en documento privado"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "290",
+                  "texto": "Artículo 290. Circunstancia de agravación punitiva",
+                  "nombre": "Circunstancia de agravación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "291",
+                  "texto": "Artículo 291. Uso de documento falso",
+                  "nombre": "Uso de documento falso"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "292",
+                  "texto": "Artículo 292. Destrucción, supresión u ocultamiento de documento público",
+                  "nombre": "Destrucción, supresión u ocultamiento de documento público"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "293",
+                  "texto": "Artículo 293. Destrucción, supresión y ocultamiento de documento privado",
+                  "nombre": "Destrucción, supresión y ocultamiento de documento privado"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "294",
+                  "texto": "Artículo 294. Documento",
+                  "nombre": "Documento"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "295",
+                  "texto": "Artículo 295. Falsedad para obtener prueba de hecho verdadero",
+                  "nombre": "Falsedad para obtener prueba de hecho verdadero"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "296",
+                  "texto": "Artículo 296. Falsedad personal",
+                  "nombre": "Falsedad personal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "TITULO",
+          "id": "X",
+          "texto": "TÍTULO X.",
+          "descripcion": "Delitos contra el orden económico social",
+          "capitulos": [
+            {
+              "tipo": "CAPITULO",
+              "id": "I",
+              "texto": "CAPÍTULO I.",
+              "descripcion": "Del acaparamiento, la especulación y otras infracciones",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "297",
+                  "texto": "Artículo 297. Acaparamiento",
+                  "nombre": "Acaparamiento"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "298",
+                  "texto": "Artículo 298. Especulación",
+                  "nombre": "Especulación"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "298-A",
+                  "texto": "Artículo 298-A. Circunstancia de agravación punitiva",
+                  "nombre": "Circunstancia de agravación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "299",
+                  "texto": "Artículo 299. Alteración y modificación de calidad, cantidad, peso o medida",
+                  "nombre": "Alteración y modificación de calidad, cantidad, peso o medida"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "300",
+                  "texto": "Artículo 300. Ofrecimiento engañoso de productos y servicios",
+                  "nombre": "Ofrecimiento engañoso de productos y servicios"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "301",
+                  "texto": "Artículo 301. Agiotaje",
+                  "nombre": "Agiotaje"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "301-A",
+                  "texto": "Artículo 301-A. Circunstancia de agravación punitiva",
+                  "nombre": "Circunstancia de agravación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "302",
+                  "texto": "Artículo 302. Pánico económico",
+                  "nombre": "Pánico económico"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "303",
+                  "texto": "Artículo 303. Ilícita explotación comercial",
+                  "nombre": "Ilícita explotación comercial"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "304",
+                  "texto": "Artículo 304. Daño en materia prima, producto agropecuario o industrial",
+                  "nombre": "Daño en materia prima, producto agropecuario o industrial"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "305",
+                  "texto": "Artículo 305. Usura",
+                  "nombre": "Usura"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "306",
+                  "texto": "Artículo 306. Usurpación de derechos de propiedad industrial y derechos de obtentores de variedades vegetales",
+                  "nombre": "Usurpación de derechos de propiedad industrial y derechos de obtentores de variedades vegetales"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "307",
+                  "texto": "Artículo 307. Uso ilegitimo de patentes",
+                  "nombre": "Uso ilegitimo de patentes"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "308",
+                  "texto": "Artículo 308. Violación de reserva industrial o comercial",
+                  "nombre": "Violación de reserva industrial o comercial"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "309",
+                  "texto": "Artículo 309. Sustracción de cosa propia al cumplimiento de deberes constitucionales o legales",
+                  "nombre": "Sustracción de cosa propia al cumplimiento de deberes constitucionales o legales"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "310",
+                  "texto": "Artículo 310. Exportación o importación ficticia",
+                  "nombre": "Exportación o importación ficticia"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "311",
+                  "texto": "Artículo 311. Aplicación fraudulenta de crédito oficialmente regulado",
+                  "nombre": "Aplicación fraudulenta de crédito oficialmente regulado"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "312",
+                  "texto": "Artículo 312. Ejercicio ilícito de actividad monopolística de arbitrio rentístico",
+                  "nombre": "Ejercicio ilícito de actividad monopolística de arbitrio rentístico"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "313",
+                  "texto": "Artículo 313. Evasión fiscal",
+                  "nombre": "Evasión fiscal"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "II",
+              "texto": "CAPÍTULO II.",
+              "descripcion": "De los delitos contra el sistema financiero",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "314",
+                  "texto": "Artículo 314. Utilización indebida de fondos captados del público",
+                  "nombre": "Utilización indebida de fondos captados del público"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "315",
+                  "texto": "Artículo 315. Operaciones no autorizadas con accionistas o asociados",
+                  "nombre": "Operaciones no autorizadas con accionistas o asociados"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "316",
+                  "texto": "Artículo 316. Captación masiva y habitual de dineros",
+                  "nombre": "Captación masiva y habitual de dineros"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "316-A",
+                  "texto": "Artículo 316-A"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "317",
+                  "texto": "Artículo 317. Manipulación fraudulenta de especies inscritas en el registro nacional de valores e intermediarios",
+                  "nombre": "Manipulación fraudulenta de especies inscritas en el registro nacional de valores e intermediarios"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "III",
+              "texto": "CAPÍTULO III.",
+              "descripcion": "De la urbanización ilegal",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "318",
+                  "texto": "Artículo 318. Urbanización ilegal",
+                  "nombre": "Urbanización ilegal"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "IV",
+              "texto": "CAPÍTULO IV.",
+              "descripcion": "Del contrabando",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "319",
+                  "texto": "Artículo 319. Contrabando",
+                  "nombre": "Contrabando"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "319-",
+                  "texto": "Artículo 319-1. Contrabando de hidrocarburos y sus derivados"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "319-",
+                  "texto": "Artículo 319-2. Contrabando de medicamento, dispositivo, suministro o insumo médico"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "320",
+                  "texto": "Artículo 320. Favorecimiento y facilitación del contrabando",
+                  "nombre": "Favorecimiento y facilitación del contrabando"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "320-",
+                  "texto": "Artículo 320-1. Favorecimiento de contrabando de hidrocarburos o sus derivados"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "321",
+                  "texto": "Artículo 321. Fraude aduanero",
+                  "nombre": "Fraude aduanero"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "322",
+                  "texto": "Artículo 322. Favorecimiento por servidor público",
+                  "nombre": "Favorecimiento por servidor público"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "322-",
+                  "texto": "Artículo 322-1. Favorecimiento por servidor público de contrabando de hidrocarburos o sus derivados"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "V",
+              "texto": "CAPÍTULO V.",
+              "descripcion": "Del lavado de activos",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "323",
+                  "texto": "Artículo 323. Lavado de activos",
+                  "nombre": "Lavado de activos"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "324",
+                  "texto": "Artículo 324. Circunstancias especificas de agravación",
+                  "nombre": "Circunstancias especificas de agravación"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "325",
+                  "texto": "Artículo 325. Omisión de control",
+                  "nombre": "Omisión de control"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "325-A",
+                  "texto": "Artículo 325-A. Omisión de reportes sobre transacciones en efectivo, movilización o almacenamiento de dinero en efectivo",
+                  "nombre": "Omisión de reportes sobre transacciones en efectivo, movilización o almacenamiento de dinero en efectivo"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "325B",
+                  "texto": "Artículo 325B. Omisión de control en el sector de la salud",
+                  "nombre": "Omisión de control en el sector de la salud"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "377A",
+                  "texto": "Artículo 377A. Uso, construcción, comercialización y/o tenencia de semisumergibles o sumergibles",
+                  "nombre": "Uso, construcción, comercialización y/o tenencia de semisumergibles o sumergibles"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "377B",
+                  "texto": "Artículo 377B. Circunstancias de agravación punitiva",
+                  "nombre": "Circunstancias de agravación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "378",
+                  "texto": "Artículo 378. Estimulo al uso ilícito",
+                  "nombre": "Estimulo al uso ilícito"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "379",
+                  "texto": "Artículo 379. Suministro o formulación ilegal",
+                  "nombre": "Suministro o formulación ilegal"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "380",
+                  "texto": "Artículo 380. Suministro o formulación ilegal a deportistas",
+                  "nombre": "Suministro o formulación ilegal a deportistas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "381",
+                  "texto": "Artículo 381. Suministro a menor",
+                  "nombre": "Suministro a menor"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "382",
+                  "texto": "Artículo 382"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "383",
+                  "texto": "Artículo 383. Porte de sustancias",
+                  "nombre": "Porte de sustancias"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "384",
+                  "texto": "Artículo 384. Circunstancias de agravación punitiva",
+                  "nombre": "Circunstancias de agravación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "385",
+                  "texto": "Artículo 385. Existencia, construcción y utilización ilegal de pistas de aterrizaje",
+                  "nombre": "Existencia, construcción y utilización ilegal de pistas de aterrizaje"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "TITULO",
+          "id": "XIV",
+          "texto": "TÍTULO XIV.",
+          "descripcion": "Delitos contra mecanismos de participación democrática",
+          "capitulos": [
+            {
+              "tipo": "CAPITULO",
+              "id": "ÚNICO",
+              "texto": "CAPÍTULO ÚNICO.",
+              "descripcion": "De la violación al ejercicio de mecanismos de participación democrática",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "386",
+                  "texto": "Artículo 386. Perturbación de certamen democrático",
+                  "nombre": "Perturbación de certamen democrático"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "387",
+                  "texto": "Artículo 387. Constreñimiento al sufragante",
+                  "nombre": "Constreñimiento al sufragante"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "388",
+                  "texto": "Artículo 388. Fraude al sufragante",
+                  "nombre": "Fraude al sufragante"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "389",
+                  "texto": "Artículo 389. Fraude en inscripción de cedulas",
+                  "nombre": "Fraude en inscripción de cedulas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "389A",
+                  "texto": "Artículo 389A. Elección ilícita de candidatos",
+                  "nombre": "Elección ilícita de candidatos"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "389A",
+                  "texto": "Artículo 389A. Elección ilícita de candidatos",
+                  "nombre": "Elección ilícita de candidatos"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "390",
+                  "texto": "Artículo 390. Corrupción de sufragante",
+                  "nombre": "Corrupción de sufragante"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "390A",
+                  "texto": "Artículo 390A. Tráfico de votos",
+                  "nombre": "Tráfico de votos"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "391",
+                  "texto": "Artículo 391. Voto fraudulento",
+                  "nombre": "Voto fraudulento"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "392",
+                  "texto": "Artículo 392. Favorecimiento de voto fraudulento",
+                  "nombre": "Favorecimiento de voto fraudulento"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "393",
+                  "texto": "Artículo 393. Mora en la entrega de documentos relacionados con una votación",
+                  "nombre": "Mora en la entrega de documentos relacionados con una votación"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "394",
+                  "texto": "Artículo 394. Alteración de resultados electorales",
+                  "nombre": "Alteración de resultados electorales"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "395",
+                  "texto": "Artículo 395. Ocultamiento, retención y posesión ilícita de cedula",
+                  "nombre": "Ocultamiento, retención y posesión ilícita de cedula"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "396",
+                  "texto": "Artículo 396. Denegación de inscripción",
+                  "nombre": "Denegación de inscripción"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "396A",
+                  "texto": "Artículo 396A. Financiación de campañas electorales con fuentes prohibidas",
+                  "nombre": "Financiación de campañas electorales con fuentes prohibidas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "396B",
+                  "texto": "Artículo 396B. Violación de los topes o límites de gastos en las campañas electorales",
+                  "nombre": "Violación de los topes o límites de gastos en las campañas electorales"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "396C",
+                  "texto": "Artículo 396C. Omisión de información del aportante",
+                  "nombre": "Omisión de información del aportante"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "TITULO",
+          "id": "XV",
+          "texto": "TÍTULO XV.",
+          "descripcion": "Delitos contra la administración pública",
+          "capitulos": [
+            {
+              "tipo": "CAPITULO",
+              "id": "I",
+              "texto": "CAPÍTULO I.",
+              "descripcion": "Del peculado",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "397",
+                  "texto": "Artículo 397. Peculado por apropiación",
+                  "nombre": "Peculado por apropiación"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "398",
+                  "texto": "Artículo 398. Peculado por uso",
+                  "nombre": "Peculado por uso"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "399",
+                  "texto": "Artículo 399. Peculado por aplicación oficial diferente",
+                  "nombre": "Peculado por aplicación oficial diferente"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "399-A",
+                  "texto": "Artículo 399-A. Peculado por aplicación oficial diferente frente a recursos de la seguridad social",
+                  "nombre": "Peculado por aplicación oficial diferente frente a recursos de la seguridad social"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "400",
+                  "texto": "Artículo 400. Peculado culposo",
+                  "nombre": "Peculado culposo"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "400A",
+                  "texto": "Artículo 400A. Peculado culposo frente a recursos de la seguridad social integral",
+                  "nombre": "Peculado culposo frente a recursos de la seguridad social integral"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "401",
+                  "texto": "Artículo 401. Circunstancias de atenuación punitiva",
+                  "nombre": "Circunstancias de atenuación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "402",
+                  "texto": "Artículo 402. Omisión del agente retenedor o recaudador",
+                  "nombre": "Omisión del agente retenedor o recaudador"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "403",
+                  "texto": "Artículo 403. Destino de recursos del tesoro para el estimulo o beneficio indebido de explotadores y comerciantes de metales preciosos",
+                  "nombre": "Destino de recursos del tesoro para el estimulo o beneficio indebido de explotadores y comerciantes de metales preciosos"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "403A",
+                  "texto": "Artículo 403A. Fraude de subvenciones",
+                  "nombre": "Fraude de subvenciones"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "II",
+              "texto": "CAPÍTULO II.",
+              "descripcion": "De la concusión",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "404",
+                  "texto": "Artículo 404. Concusión",
+                  "nombre": "Concusión"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "III",
+              "texto": "CAPÍTULO III.",
+              "descripcion": "Del cohecho",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "405",
+                  "texto": "Artículo 405. Cohecho propio",
+                  "nombre": "Cohecho propio"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "406",
+                  "texto": "Artículo 406. Cohecho impropio",
+                  "nombre": "Cohecho impropio"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "407",
+                  "texto": "Artículo 407. Cohecho por dar u ofrecer",
+                  "nombre": "Cohecho por dar u ofrecer"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "IV",
+              "texto": "CAPÍTULO IV.",
+              "descripcion": "De la celebración indebida de contratos",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "408",
+                  "texto": "Artículo 408. Violación del regimen legal o constitucional de inhabilidades e incompatibilidades",
+                  "nombre": "Violación del regimen legal o constitucional de inhabilidades e incompatibilidades"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "409",
+                  "texto": "Artículo 409. Interés indebido en la celebración de contratos",
+                  "nombre": "Interés indebido en la celebración de contratos"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "410",
+                  "texto": "Artículo 410. Contrato sin cumplimiento de requisitos legales",
+                  "nombre": "Contrato sin cumplimiento de requisitos legales"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "410A",
+                  "texto": "Artículo 410A. Acuerdos restrictivos de la competencia",
+                  "nombre": "Acuerdos restrictivos de la competencia"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "V",
+              "texto": "CAPÍTULO V.",
+              "descripcion": "Del trafico de influencias",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "411",
+                  "texto": "Artículo 411. Trafico de influencias de servidor público",
+                  "nombre": "Trafico de influencias de servidor público"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "411A",
+                  "texto": "Artículo 411A. Tráfico de influencias de particular",
+                  "nombre": "Tráfico de influencias de particular"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "V",
+              "texto": "CAPÍTULO V.",
+              "descripcion": "Del enriquecimiento ilícito",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "412",
+                  "texto": "Artículo 412. Enriquecimiento ilícito",
+                  "nombre": "Enriquecimiento ilícito"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "VII",
+              "texto": "CAPÍTULO VII.",
+              "descripcion": "Del prevaricato",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "413",
+                  "texto": "Artículo 413. Prevaricato por acción",
+                  "nombre": "Prevaricato por acción"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "414",
+                  "texto": "Artículo 414. Prevaricato por omisión",
+                  "nombre": "Prevaricato por omisión"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "415",
+                  "texto": "Artículo 415. Circunstancia de agravación punitiva",
+                  "nombre": "Circunstancia de agravación punitiva"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "VIII",
+              "texto": "CAPÍTULO VIII.",
+              "descripcion": "De los abusos de autoridad y otras infracciones",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "416",
+                  "texto": "Artículo 416. Abuso de autoridad por acto arbitrario e injusto",
+                  "nombre": "Abuso de autoridad por acto arbitrario e injusto"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "417",
+                  "texto": "Artículo 417. Abuso de autoridad por omisión de denuncia",
+                  "nombre": "Abuso de autoridad por omisión de denuncia"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "418",
+                  "texto": "Artículo 418. Revelación de secreto",
+                  "nombre": "Revelación de secreto"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "418B",
+                  "texto": "Artículo 418B. Revelación de secreto culposa",
+                  "nombre": "Revelación de secreto culposa"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "419",
+                  "texto": "Artículo 419. Utilización de asunto sometido a secreto o reserva",
+                  "nombre": "Utilización de asunto sometido a secreto o reserva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "420",
+                  "texto": "Artículo 420. Utilización indebida de información oficial privilegiada",
+                  "nombre": "Utilización indebida de información oficial privilegiada"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "421",
+                  "texto": "Artículo 421. Asesoramiento y otras actuaciones ilegales",
+                  "nombre": "Asesoramiento y otras actuaciones ilegales"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "422",
+                  "texto": "Artículo 422. Intervención en política",
+                  "nombre": "Intervención en política"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "423",
+                  "texto": "Artículo 423. Empleo ilegal de la fuerza pública",
+                  "nombre": "Empleo ilegal de la fuerza pública"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "424",
+                  "texto": "Artículo 424. Omisión de apoyo",
+                  "nombre": "Omisión de apoyo"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "IX",
+              "texto": "CAPÍTULO IX.",
+              "descripcion": "De la usurpación y abuso de funciones públicas",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "425",
+                  "texto": "Artículo 425. Usurpación de funciones públicas",
+                  "nombre": "Usurpación de funciones públicas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "426",
+                  "texto": "Artículo 426. Simulación de investidura o cargo",
+                  "nombre": "Simulación de investidura o cargo"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "427",
+                  "texto": "Artículo 427. Usurpación y abuso de funciones públicas con fines terroristas",
+                  "nombre": "Usurpación y abuso de funciones públicas con fines terroristas"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "428",
+                  "texto": "Artículo 428. Abuso de función pública",
+                  "nombre": "Abuso de función pública"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "X",
+              "texto": "CAPÍTULO X.",
+              "descripcion": "De los delitos contra los servidores públicos",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "429",
+                  "texto": "Artículo 429. Violencia contra servidor público",
+                  "nombre": "Violencia contra servidor público"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "429B",
+                  "texto": "Artículo 429B"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "429C",
+                  "texto": "Artículo 429C. Circunstancias de agravación punitiva",
+                  "nombre": "Circunstancias de agravación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "429D",
+                  "texto": "Artículo 429D. Obstrucción a la función pública",
+                  "nombre": "Obstrucción a la función pública"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "430",
+                  "texto": "Artículo 430. Perturbación de actos oficiales",
+                  "nombre": "Perturbación de actos oficiales"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "XI",
+              "texto": "CAPÍTULO XI.",
+              "descripcion": "De la utilización indebida de información y de influencias derivadas del ejercicio de función pública",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "431",
+                  "texto": "Artículo 431. Utilización indebida de información obtenida en el ejercicio de función pública",
+                  "nombre": "Utilización indebida de información obtenida en el ejercicio de función pública"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "432",
+                  "texto": "Artículo 432. Utilización indebida de influencias derivadas del ejercicio de función pública",
+                  "nombre": "Utilización indebida de influencias derivadas del ejercicio de función pública"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "433",
+                  "texto": "Artículo 433. Soborno transnacional",
+                  "nombre": "Soborno transnacional"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "434",
+                  "texto": "Artículo 434. Asociación para la comisión de un delito contra la administración pública",
+                  "nombre": "Asociación para la comisión de un delito contra la administración pública"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "XII",
+              "texto": "CAPÍTULO XII.",
+              "descripcion": "De la defraudación y la evasión tributaria, omisión de activos e inclusión de pasivos inexistentes.",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "434A",
+                  "texto": "Artículo 434A. Omisión de activos o inclusión de pasivos inexistentes.",
+                  "nombre": "Omisión de activos o inclusión de pasivos inexistentes",
+                  "url": "ley_0599_2000_pr017.html#434A"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "434B",
+                  "texto": "Artículo 434B. defraudación o evasión tributaria.",
+                  "nombre": "defraudación o evasión tributaria",
+                  "url": "ley_0599_2000_pr017.html#434B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "TITULO",
+          "id": "XVI",
+          "texto": "TÍTULO XVI.",
+          "descripcion": "Delitos contra la eficaz y recta impartición de justicia",
+          "capitulos": [
+            {
+              "tipo": "CAPITULO",
+              "id": "I",
+              "texto": "CAPÍTULO I.",
+              "descripcion": "De las falsas imputaciones ante las autoridades",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "435",
+                  "texto": "Artículo 435. Falsa denuncia",
+                  "nombre": "Falsa denuncia"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "436",
+                  "texto": "Artículo 436. Falsa denuncia contra persona determinada",
+                  "nombre": "Falsa denuncia contra persona determinada"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "437",
+                  "texto": "Artículo 437. Falsa autoacusación",
+                  "nombre": "Falsa autoacusación"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "438",
+                  "texto": "Artículo 438. Circunstancias de agravación",
+                  "nombre": "Circunstancias de agravación"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "439",
+                  "texto": "Artículo 439. Reducción cualitativa de pena en caso de contravención",
+                  "nombre": "Reducción cualitativa de pena en caso de contravención"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "440",
+                  "texto": "Artículo 440. Circunstancia de atenuación",
+                  "nombre": "Circunstancia de atenuación"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "II",
+              "texto": "CAPÍTULO II.",
+              "descripcion": "De la omisión de denuncia de particular",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "441",
+                  "texto": "Artículo 441. Omisión de denuncia de particular",
+                  "nombre": "Omisión de denuncia de particular"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "III",
+              "texto": "CAPÍTULO III.",
+              "descripcion": "Del falso testimonio",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "442",
+                  "texto": "Artículo 442. Falso testimonio",
+                  "nombre": "Falso testimonio"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "443",
+                  "texto": "Artículo 443. Circunstancia de atenuación",
+                  "nombre": "Circunstancia de atenuación"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "444",
+                  "texto": "Artículo 444. Soborno",
+                  "nombre": "Soborno"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "444-A",
+                  "texto": "Artículo 444-A. Soborno en la actuación penal",
+                  "nombre": "Soborno en la actuación penal"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "IV",
+              "texto": "CAPÍTULO IV.",
+              "descripcion": "De la infidelidad a los deberes profesionales",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "445",
+                  "texto": "Artículo 445. Infidelidad a los deberes profesionales",
+                  "nombre": "Infidelidad a los deberes profesionales"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "VI",
+              "texto": "CAPÍTULO VI.",
+              "descripcion": "Del encubrimiento",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "446",
+                  "texto": "Artículo 446. Favorecimiento",
+                  "nombre": "Favorecimiento"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "447",
+                  "texto": "Artículo 447. Receptación",
+                  "nombre": "Receptación"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "447A",
+                  "texto": "Artículo 447A. Comercialización de autopartes hurtadas",
+                  "nombre": "Comercialización de autopartes hurtadas"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "VII",
+              "texto": "CAPÍTULO VII.",
+              "descripcion": "De la fuga de presos",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "448",
+                  "texto": "Artículo 448. Fuga de presos",
+                  "nombre": "Fuga de presos"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "449",
+                  "texto": "Artículo 449. Favorecimiento de la fuga",
+                  "nombre": "Favorecimiento de la fuga"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "450",
+                  "texto": "Artículo 450. Modalidad culposa",
+                  "nombre": "Modalidad culposa"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "451",
+                  "texto": "Artículo 451. Circunstancias de atenuación",
+                  "nombre": "Circunstancias de atenuación"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "452",
+                  "texto": "Artículo 452. Eximente de responsabilidad penal",
+                  "nombre": "Eximente de responsabilidad penal"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "VIII",
+              "texto": "CAPÍTULO VIII.",
+              "descripcion": "Del fraude procesal y otras infracciones",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "453",
+                  "texto": "Artículo 453. Fraude procesal",
+                  "nombre": "Fraude procesal"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "454",
+                  "texto": "Artículo 454. Fraude a resolución judicial o administrativa de policía",
+                  "nombre": "Fraude a resolución judicial o administrativa de policía"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "IX",
+              "texto": "CAPÍTULO IX.",
+              "descripcion": "Delitos contra medios de prueba y otras infracciones.",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "454-A",
+                  "texto": "Artículo 454-A. Amenazas a testigo",
+                  "nombre": "Amenazas a testigo"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "454-B",
+                  "texto": "Artículo 454-B. Ocultamiento, alteración o destrucción de elemento material probatorio",
+                  "nombre": "Ocultamiento, alteración o destrucción de elemento material probatorio"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "454-C",
+                  "texto": "Artículo 454-C. Impedimento o perturbación de la celebración de audiencias públicas",
+                  "nombre": "Impedimento o perturbación de la celebración de audiencias públicas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "TITULO",
+          "id": "XVII",
+          "texto": "TÍTULO XVII.",
+          "descripcion": "Delitos contra la existencia y seguridad del estado",
+          "capitulos": [
+            {
+              "tipo": "CAPITULO",
+              "id": "I",
+              "texto": "CAPÍTULO I.",
+              "descripcion": "De los delitos de traición a la patria",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "455",
+                  "texto": "Artículo 455. Menoscabo de la integridad nacional",
+                  "nombre": "Menoscabo de la integridad nacional"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "456",
+                  "texto": "Artículo 456. Hostilidad militar",
+                  "nombre": "Hostilidad militar"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "457",
+                  "texto": "Artículo 457. Traición diplomática",
+                  "nombre": "Traición diplomática"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "458",
+                  "texto": "Artículo 458. Instigación a la guerra",
+                  "nombre": "Instigación a la guerra"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "459",
+                  "texto": "Artículo 459. Atentados contra hitos fronterizos",
+                  "nombre": "Atentados contra hitos fronterizos"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "460",
+                  "texto": "Artículo 460. Actos contrarios a la defensa de la nación",
+                  "nombre": "Actos contrarios a la defensa de la nación"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "461",
+                  "texto": "Artículo 461. Ultraje a emblemas o símbolos patrios",
+                  "nombre": "Ultraje a emblemas o símbolos patrios"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "462",
+                  "texto": "Artículo 462. Aceptación indebida de honores",
+                  "nombre": "Aceptación indebida de honores"
+                }
+              ]
+            },
+            {
+              "tipo": "CAPITULO",
+              "id": "II",
+              "texto": "CAPÍTULO II.",
+              "descripcion": "De los delitos contra la seguridad del estado",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "463",
+                  "texto": "Artículo 463. Espionaje",
+                  "nombre": "Espionaje"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "464",
+                  "texto": "Artículo 464. Violación de tregua o armisticio",
+                  "nombre": "Violación de tregua o armisticio"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "465",
+                  "texto": "Artículo 465. Violación de inmunidad diplomática",
+                  "nombre": "Violación de inmunidad diplomática"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "466",
+                  "texto": "Artículo 466. Ofensa a diplomáticos",
+                  "nombre": "Ofensa a diplomáticos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "TITULO",
+          "id": "XVIII",
+          "texto": "TÍTULO XVIII.",
+          "descripcion": "De los delitos contra el regimen constitucional y legal",
+          "capitulos": [
+            {
+              "tipo": "CAPITULO",
+              "id": "ÚNICO",
+              "texto": "CAPÍTULO ÚNICO.",
+              "descripcion": "De la rebelión, sedición y asonada",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "467",
+                  "texto": "Artículo 467. Rebelión",
+                  "nombre": "Rebelión"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "468",
+                  "texto": "Artículo 468. Sedición",
+                  "nombre": "Sedición"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "469",
+                  "texto": "Artículo 469. Asonada",
+                  "nombre": "Asonada"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "470",
+                  "texto": "Artículo 470. Circunstancias de agravación punitiva",
+                  "nombre": "Circunstancias de agravación punitiva"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "471",
+                  "texto": "Artículo 471. Conspiración",
+                  "nombre": "Conspiración"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "472",
+                  "texto": "Artículo 472. Seducción, usurpación y retención ilegal de mando",
+                  "nombre": "Seducción, usurpación y retención ilegal de mando"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "473",
+                  "texto": "Artículo 473. Circunstancia de agravación punitiva",
+                  "nombre": "Circunstancia de agravación punitiva"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "TITULO",
+          "id": "XIX",
+          "texto": "TÍTULO XIX.",
+          "descripcion": "Disposiciones generales",
+          "capitulos": [
+            {
+              "tipo": "CAPITULO",
+              "id": "ÚNICO",
+              "texto": "CAPÍTULO ÚNICO.",
+              "descripcion": "De la derogatoria y vigencia",
+              "articulos": [
+                {
+                  "tipo": "ARTICULO",
+                  "id": "474",
+                  "texto": "Artículo 474. Derogatoria",
+                  "nombre": "Derogatoria"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "475",
+                  "texto": "Artículo 475. Transitorio",
+                  "nombre": "Transitorio"
+                },
+                {
+                  "tipo": "ARTICULO",
+                  "id": "476",
+                  "texto": "Artículo 476. Vigencia",
+                  "nombre": "Vigencia"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
